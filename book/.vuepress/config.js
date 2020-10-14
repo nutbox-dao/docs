@@ -6,6 +6,9 @@ module.exports = {
       '/': [
         'intro'
       ]
+      '/': [
+        'Features'
+      ]
     },
     displayAllHeaders: true,
     lastUpdated: 'Last Updated',
