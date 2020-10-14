@@ -2,13 +2,15 @@
 
 Nutbox首先是一个孵化平台，你也可以把它看做是Dapp工厂。
 
-## Resou
+## 代理挖矿
 
-*Documents & videos about Steem*
+Steem Power（简称SP）的代理及策展机制，让nutbox成为Y Combinator这样的孵化基金创造了可能。与SP代理或租赁平台类似，持有SP的用户代理SP给到nutbox.mine，nutbox.mine按照特定的规则生成TRC20代币PEANUT（简称PNUT），并分发给SP代理人和nutbox贡献者。
 
-* [Steem Whitepaper](https://steem.com/steem-whitepaper.pdf) - The Steem Official Whitepaper
-* [Steem Bluepaper](https://steem.com/steem-bluepaper.pdf) - The Steem Official Bluepaper
-* [SMT Whitepaper](https://smt.steem.com/smt-whitepaper.pdf) - The Smart Media Token Whitepaper
+PNUT的价值可以看做是nutbox产生收益的贴现，它的价格由nutbox的收益回购进行支撑。规则如下：
+
+* nutbox接受Steem用户或团队代理的SP，生成社区代币PNUT；
+* PNUT按照区块进行分发
+* *0-100万区块，20 PNUT / 区块
 * [Developer Portal](https://developers.steem.io/) - The developer portal of Steem
 * [Steem Glossary](https://developers.steem.io/glossary/#glossary-chain-basics) - Understanding the common terms used by the Steem blockchain
 * [Steem Guides | Steem 指南](https://steemh.org) - The Chinese version Steem User Manual
