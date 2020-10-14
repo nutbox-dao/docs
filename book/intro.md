@@ -22,7 +22,7 @@ Nutbox的存在就是为了做到这一点，以便任何用户或企业都可�
 
 ## 代理挖矿
 
-Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理策展机制，实现Smart Media Token期待实现的目标。用户代理SP给到nutbox.mine，nutbox.mine则按照特定协议生成 TRC20代币PEANUT（Nutbox的代币，简称PNUT），并通过智能合约分发给SP的代理人和Nutbox的贡献者。
+Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理、策展机制，实现社区代币的发行。用户代理SP给到nutbox.mine，nutbox.mine按照特定协议生成 PEANUT （TRC20代币，此处以Nutbox的代币为例），并通过智能合约将 PEANUT 分发给SP代理人和Nutbox的贡献者。
 
 ## 代理挖矿
 
