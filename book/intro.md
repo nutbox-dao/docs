@@ -1,4 +1,4 @@
-# Introduction to Steem
+# Y Combinator of Steem Blockchain
 
 Below content is from [**Awesome Steem**](https://github.com/steem-driver/awesome-steem)
 
