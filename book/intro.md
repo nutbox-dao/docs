@@ -10,10 +10,12 @@ PNUT的价值可以看做是nutbox产生收益的贴现，它的价格由nutbox�
 
 * nutbox接受Steem用户或团队代理的SP，生成社区代币PNUT；
 * PNUT按照区块进行分发
-* *0-100万区块，20 PNUT / 区块
-* [Developer Portal](https://developers.steem.io/) - The developer portal of Steem
-* [Steem Glossary](https://developers.steem.io/glossary/#glossary-chain-basics) - Understanding the common terms used by the Steem blockchain
-* [Steem Guides | Steem 指南](https://steemh.org) - The Chinese version Steem User Manual
+    * 0-1000000区块，20 PNUT / 区块
+    * 1000001 - 区块，10 PNUT / 区块    
+* PNUT分发给以下用户
+    * 代理SP的用户
+    * nutbox.dao
+* 拥有大量代理SP的nutbox.mine在Steem社区获得的策展收益，定期在公开市场上购买PNUT
 
 ## SDKs
 
