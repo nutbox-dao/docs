@@ -42,3 +42,7 @@ nutbox.ad使得内容的贡献方能通过自己的内容直接分享广告收�
 nutbox.dao将助力孵化的Dapp接入nutbox.ad，将注意力经济激活，为社区带来价值。
 
 nutbox希望，通过提供一系列诸如nutbox.mine、nutbox.dao、nutbox.dex、nutbox.ad等工具套件，实现简单、快速、可扩展创建开放社区的Dapp。
+
+## NFT
+
+在Steem区块链上，一旦某内容发布，即可使用其在Steem链上的数据，在Tron上创建一个NFT。NFT代表发布内容的东西，发布的内容就如一个出售NFT的货架。这样发布的NFT还具备，无需平台控制机构许可，NFT可自由交易、自由核验与自由集成。
