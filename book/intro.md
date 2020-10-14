@@ -40,7 +40,9 @@ Nutbox是一个Blockchain as a Service平台，期待任何用户或企业可以
 
 Nutbox将使主流企业、用户能够发布自己的，由智能合约和社区令牌支持的Dapp，而无需理会复杂的区块链、智能合约和令牌。它将使流程民主化，就像Wordpress使数百万人无需了解Web编码即可创建自己网站一样。
 
+使用Nutbox，主流企业、用户能够通过nutbox.mini发行社区令牌并筹集发展资金，还可以根据其他社区成员的股权加权投票定期将STEEM令牌方法给向Dapp提交内容的人员。通过这种机制，投票的人通过用加密货币奖励内容来验证该内容的价值，内容的发现者和真正的创作者将获得丰厚回报。
 
+无数企业、用户通过各自的Dapp标记内容的价值、社区的贡献、身边的世界，以此来打造更公平、分布更均匀的互联网。
 
 ## 代理挖矿
 
@@ -92,3 +94,4 @@ PNUT的价值可以看做是nutbox产生收益的贴现，它的价格由nutbox�
     * [Developer Portal Python Tutorial](https://developers.steem.io/tutorials/#tutorials-python) ([code](https://github.com/steemit/devportal-tutorials-py)) - Python Tutorials for the Developer Portal
 * Ruby
     * [Developer Portal Ruby Tutorial](https://developers.steem.io/tutorials/#tutorials-ruby) ([code](https://github.com/steemit/devportal-tutorials-rb)) - Ruby Tutorials for the Developer Portal
+使用
