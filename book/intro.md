@@ -12,7 +12,7 @@ Nutbox首先是一个孵化平台，你也可以把它看做是Dapp工厂。
 
 随着区块链大厦的建成，这些应用程序（Dapp）就不需要像互联网App那样被有权的单一平台或领导者施加限制，它也不允许单一实体控制大多数Token。决策是由共识决定的，Dapp的代码是完全开源的，数据库构建在分散的区块链之上，并且这一切都可以由社区进行检查、审查或改进。
 
-Steem的Layer1层可以像其他区块链一样处理大多数类型的Steem交易，Steem还允许通过“custom_json”交易将任意数据添加到区块中，使得任何人都可以编写自己的Steem Layer2 应用程序。这类应用程序赋予这些custom_json交易以含义，并且无需对“核心”Steem区块链进行任何更改，著名的例子是 Hivemind、Steem-Engine。更加重要的是，Steem还有可以标准化、模块化的微服务，这将大大简化基于Steem开发Layer2 应用程序。此类微服务允许应用程序提供各式各样的功能，而无需“重新发明轮子”。
+Steem的Layer1层可以像其他区块链一样处理大多数类型的Steem交易，Steem还允许通过 “custom_json” 交易将任意数据添加到区块中，使得任何人都可以编写自己的Steem Layer2 应用程序。这类应用程序赋予这些custom_json交易以含义，并且无需对“核心”Steem区块链进行任何更改，著名的例子是 Hivemind、Steem-Engine。更加重要的是，Steem还有可以标准化、模块化的微服务，这将大大简化基于Steem开发Layer2 应用程序。此类微服务允许应用程序提供各式各样的功能，而无需“重新发明轮子”。
 
 Nutbox的存在就是为了做到这一点，以便任何用户或企业都可以基于Steem区块链创建自己的Dapp。
 
@@ -20,9 +20,11 @@ Nutbox的存在就是为了做到这一点，以便任何用户或企业都可�
 
 启动Dapp不易，它需要许多不同的组件和参与者，而这些参与者不一定有创建社交网络、区块链和加密货币支持的Dapp所需的知识。雪上加霜的是，Steem Media Tokens（SMT） —— 一个基于Steem创建智能媒体代币的协议迟迟不上线，或许永远都不能推出了。
 
-## 代理挖矿
+## 代理挖矿（社区代币）
 
-Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理、策展机制，实现社区代币的发行。用户代理SP给到nutbox.mine，nutbox.mine按照特定协议生成 PEANUT （TRC20代币，此处以Nutbox的代币为例），并通过智能合约将 PEANUT 分发给SP代理人和Nutbox的贡献者。
+Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理、策展机制，实现社区代币的发行。用户代理SP给到nutbox.mine，nutbox.mine按照特定协议生成 PEANUT （TRC20代币，此处以Nutbox的代币为例），并通过智能合约将 PEANUT 分发给SP代理人和Nutbox的贡献者，这个过程我们把它称之为代理挖矿（社区代币）。
+
+这一方式生成的 PEANUT（社区代币）还有一个特点，自生成的那一刻 PEANUT 即具备实际价值支撑。由于Steem区块链独特的优势，Nutbox.mine可以利用代理的SP在Steem中获得策展收益，通过收益回购，保障PEANUT 的最低价值。
 
 ## 代理挖矿
 
