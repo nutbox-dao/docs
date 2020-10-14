@@ -1,10 +1,8 @@
 # What is Nutbox
 
-Y Combinator of Steem Blockchain
-
 Nutbox致力于成为Steem社区的Y Combinator。Nutbox利用Steem Power（SP）代理挖矿的机制，在Steem社区筹集SP用于孵化社区里的Dapp，期望能像Y Combinator一样，推动steem上初创DAO的发展。
 
-#### 为什么Nutbox首先是一个孵化平台？
+#### 基于Steem的孵化平台
 
 互联网平台在VC、PE的助力下，迅速成长，带来了互联网革命。如果没有VC、PE的权利支持，大量的高风险投资，烧钱启动，砸钱换流量，然后快速上市，互联网根本不会有后来的发展。
 
