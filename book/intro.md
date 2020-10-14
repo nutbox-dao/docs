@@ -1,6 +1,8 @@
 # Y Combinator of Steem Blockchain
 
-Nutbox首先是一个孵化平台，你可以把它看做是Dapp工厂。Nutbox将从资金、工具包、生态支持等多角度，对基于Steem的Dapp进行孵化，以实现人人皆可发Dapp。
+Nutbox首先是一个孵化平台，你也可以把它看做是Dapp工厂。
+
+我们将围绕Nutbox搭建一个开放源代码的BaaS平台，供企业和用户在功能强大的Steem和Tron区块链上构建Dapp（去中心化应用程序）。我们的愿景是，任何人都能够基于Steem和Tron区块链创建安全、灵活且合规的Dapp，并通过Nutbox来得到资金、工具包、生态支持等多角度孵化。
 
 ## 人人皆可发Dapp
 
