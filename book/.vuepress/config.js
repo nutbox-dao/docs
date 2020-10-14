@@ -9,7 +9,7 @@ module.exports = {
     },
     displayAllHeaders: true,
     lastUpdated: 'Last Updated',
-    repo: 'steem-aksai/nutbox-docs',
+    repo: 'nutbox-dao/docs',
     docsDir: 'book',
     editLinks: true,
     smoothScroll: true
