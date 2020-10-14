@@ -6,7 +6,7 @@ Nutbox首先是一个孵化平台，你也可以把它看做是Dapp工厂。
 
 ## 人人皆可发Dapp
 
-以ETH为代表的区块链2.0实现了人人皆可发行Token，带来了资产发行的去中心化。始于2018年，兴于2020年的DeFi更是让发行的Token能快速流动起来，在金融行业掀起了不小的风浪。
+以ETH为代表的区块链2.0实现了人人皆可发行Token（或令牌），带来了资产发行的去中心化。始于2018年，兴于2020年的DeFi更是让发行的Token能快速流动起来，在金融行业掀起了不小的风浪。
 
 然而，普通用户距离DeFi始终遥远。如何让离用户更近的Dapp（分布式应用程序）大规模扩散，像App一样改变我们的生活，这是区块链的下一个明珠。一旦Dapp大规模落地，类似互联网结构的区块链大厦就会落成。
 
@@ -20,11 +20,27 @@ Nutbox的存在就是为了做到这一点，以便任何用户或企业都可�
 
 启动Dapp不易，它需要许多不同的组件和参与者，而这些参与者不一定有创建社交网络、区块链和加密货币支持的Dapp所需的知识。雪上加霜的是，Steem Media Tokens（SMT） —— 一个基于Steem创建智能媒体代币的协议迟迟不上线，或许永远都不能推出了。
 
-## 代理挖矿（社区代币）
+## 代理SP挖社区代币
 
-Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理、策展机制，实现社区代币的发行。用户代理SP给到nutbox.mine，nutbox.mine按照特定协议生成 PEANUT （TRC20代币，此处以Nutbox的代币为例），并通过智能合约将 PEANUT 分发给SP代理人和Nutbox的贡献者，这个过程我们把它称之为代理挖矿（社区代币）。
+Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理、策展机制，实现社区代币的发行。用户代理SP给到nutbox.mine，nutbox.mine按照特定协议生成 PEANUT （TRC20令牌，此处以Nutbox的令牌为例），并通过智能合约将 PEANUT 分发给SP代理人和Nutbox的贡献者，这个过程我们把它称之为代理挖矿（社区令牌）。
 
-这一方式生成的 PEANUT（社区代币）还有一个特点，自生成的那一刻 PEANUT 即具备实际价值支撑。由于Steem区块链独特的优势，Nutbox.mine可以利用代理的SP在Steem中获得策展收益，通过收益回购，保障PEANUT 的最低价值。
+这一方式生成的 PEANUT（社区令牌）还有一个特点，自生成的那一刻 PEANUT 即具备实际价值支撑。由于Steem区块链独特的优势，Nutbox.mine可以利用代理的SP在Steem中获得策展收益，通过收益回购，保障PEANUT 的最低价值。
+
+特别的是，Nutbox将首先以这种方式发行 PEANUT ，以支持Steem生态系统中的Dapp。
+
+## Dapp工具套件
+
+Nutbox是一个Blockchain as a Service平台，期待任何用户或企业可以轻松进入区块链世界。我们开发了一系列工具套件，通过选择一系列插件、协议、模板、服务，项目所有者能够轻松将其社区令牌化，并拥有他们的Dapp。
+
+用户或企业可以通过Nutbox.mine、steem for wordpress，将其WordPress网站搭建在Steem和Tron区块链上；用户或企业还可以选用小程序模板、Steem for wordpress、Nutbox.mine等模块，将任何类型的兴趣社群、小区社群、行业社群令牌化，并拥有社群的Dapp；用户或企业亦可通过Steem for everyone等，将其成熟App搭建在Steem和Tron区块链，以进入区块链的世界。
+
+使用Nutbox，无需编写代码即可轻松创建和编辑社交Dapp，类似于WordPress创建网站的方式。在Nutbox上构建的Dapp，还将与同在Nutbox创建的其他企业和用户形成生态系统，受益于网络效应。Nutbox会通过社区投票的方式，直接使用 PEANUT 支持Steem上初创Dapp。
+
+## 标记你的世界
+
+Nutbox将使主流企业、用户能够发布自己的，由智能合约和社区令牌支持的Dapp，而无需理会复杂的区块链、智能合约和令牌。它将使流程民主化，就像Wordpress使数百万人无需了解Web编码即可创建自己网站一样。
+
+
 
 ## 代理挖矿
 
