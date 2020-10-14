@@ -1,8 +1,8 @@
 # Y Combinator of Steem Blockchain
 
-Below content is from [**Awesome Steem**](https://github.com/steem-driver/awesome-steem)
+Nutbox首先是一个孵化平台，你也可以把它看做是Dapp工厂。
 
-## Resource
+## Resou
 
 *Documents & videos about Steem*
 
