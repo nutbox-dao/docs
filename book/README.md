@@ -10,4 +10,4 @@ Nutbox致力于成为Steem社区的Y Combinator。Nutbox利用Steem Power（SP�
 
 曾经Steem上有steemit.inc对Dapp开发团队进行代理，SP持有者通过steem.dao支持社区开发和运营，还有utopian大力支持Steem上的开发。这使得Steem迎来了Dapp的大爆发，社区在短时间内涌现了500+网站和工具，社区成员也大大增加。正是Steem上多种泛基金形式对开发和运营的支持，一群志愿者才利用闲暇时间为社区添砖加瓦，让Steem越来越庞大。
 
-nutbox期望成为这样的孵化基金，以投资、支持Steem上的Dapp。
+Nutbox期望成为这样的孵化基金，以投资、支持Steem上的Dapp。
