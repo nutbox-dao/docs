@@ -5,14 +5,14 @@ module.exports = {
     sidebar: {
       '/': [
         'intro',
-        'Features'
-        'nutbox'
-        'ecosystem'
-        'Roadmap'
-        'Community'
-        'Donation'
-        'FAQ'
-        'Nutbox Glossary'
+        'Features',
+        'nutbox',
+        'ecosystem',
+        'Roadmap',
+        'Community',
+        'Donation',
+        'FAQ',
+        'Nutbox Glossary',
         'DeFi Glossary'
       ]
     },
