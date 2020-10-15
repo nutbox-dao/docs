@@ -45,3 +45,4 @@ nutbox.swap帮助Steem社区，将Steem的资产与Tron上的资产进行打通�
 
 TSTEEM、TSBD分别是STEEM、SBD存款在Tron上的映射，是TRC20代币。向nutbox.dex转账STEEM，nutbox.dex在Tron上发行等量TSTEEM，并转账给用户。TSBD与TSTEEM兑换的方式一样。
 
+![Image text](http://wherein.mobi/wp-content/uploads/2020/10/tsteem-swap.png)
