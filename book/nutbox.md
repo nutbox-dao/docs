@@ -1,4 +1,4 @@
-# Nutbox 基金
+# Nutbox Fund
 
 Nutbox的首要任务是，使用Nutbox的诸多模块，为Nutbox筹集资金，以实现其愿景。
 
