@@ -6,6 +6,8 @@ nutbox.dao初期目标是，做大nutbox孵化平台，支持WhereIN、Steem for
 
 WhereIN是一个基于Steem的生活方式分享社区。WhereIN于2019年01月06日上线以来，已经做到主流公链社交类Dapp中国市场NO.01、全球第七的成绩。
 
+![Image text](http://wherein.mobi/wp-content/uploads/2020/10/dapp-of-steem.png)
+
 nutbox.dao将助力WhereIN进行DeFi升级，并将与Tron区块链打通，使得WhereIN更进一步发展。WhereIN将探索与voice类似的二级广告交易市场，提升WhereIN社区的价值，回馈WhereIN的支持和nutbox.dao。
 
 ## Steem for wordpress
@@ -19,6 +21,8 @@ nutbox.dao将助力WhereIN进行DeFi升级，并将与Tron区块链打通，使�
 Oops —— 一个激励的，本地社交媒体平台，是nutbox本地社区落地的第一个应用场景。
 
 我们的社交媒体平台都在“+地点”，却没有一款“地点+”。然而，人、内容都是在一个”地点“发生。这是一座从零开始建设的新城，你可以打卡在新城创建有趣的地点，亦可拍摄一段视频将正在发生的市集、活动、聚会发布上来，这里的一切由你来创造。
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/10/aksai-ui.jpg)
 
 Oops用区块链技术构建这一切，以实现阿尔法城未竟之梦想。Aksai真正属于所有人，在这里人们相互投票以确定贡献，价值创造能得到最合适的奖励。这里只有社区，没有平台公司，所创造的价值都通过社区回馈给里面的每一个人。
 
