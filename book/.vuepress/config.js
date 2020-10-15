@@ -4,9 +4,7 @@ module.exports = {
   themeConfig: {
     sidebar: {
       '/': [
-        'intro'
-      ]
-      '/': [
+        'intro',
         'Features'
       ]
     },
