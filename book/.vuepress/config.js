@@ -9,6 +9,7 @@ module.exports = {
         'nutbox',
         'ecosystem',
         'roadmap',
+        'contract_account',
         'community',
         'donation',
         'user_guide',
