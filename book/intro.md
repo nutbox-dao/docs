@@ -20,7 +20,7 @@ Nutbox的存在就是为了做到这一点，以便任何用户或企业都可�
 
 启动Dapp不易，它需要许多不同的组件和参与者，而这些参与者不一定有创建社交网络、区块链和加密货币支持的Dapp所需的知识。雪上加霜的是，Steem Media Tokens（SMT） —— 一个基于Steem创建智能媒体代币的协议迟迟不上线，或许永远都不能推出了。
 
-## 代理SP挖社区代币
+## 代理挖社区令牌
 
 Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理、策展机制，实现社区代币的发行。用户代理SP给到nutbox.mine，nutbox.mine按照特定协议生成 PEANUT （TRC20令牌，此处以Nutbox的令牌为例），并通过智能合约将 PEANUT 分发给SP代理人和Nutbox的贡献者，这个过程我们把它称之为代理挖矿（社区令牌）。
 
