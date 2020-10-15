@@ -6,6 +6,14 @@ module.exports = {
       '/': [
         'intro',
         'Features'
+        'nutbox'
+        'ecosystem'
+        'Roadmap'
+        'Community'
+        'Donation'
+        'FAQ'
+        'Nutbox Glossary'
+        'DeFi Glossary'
       ]
     },
     displayAllHeaders: true,
