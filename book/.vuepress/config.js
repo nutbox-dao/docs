@@ -5,17 +5,17 @@ module.exports = {
     sidebar: {
       '/': [
         'intro',
-        'Features',
+        'features',
         'nutbox',
         'ecosystem',
-        'Roadmap',
-        'Community',
-        'Donation',
-        'user guide',
-        'developer resources',
-        'FAQ',
-        'Nutbox Glossary',
-        'DeFi Glossary'
+        'roadmap',
+        'community',
+        'donation',
+        'user_guide',
+        'developer_resources',
+        'faq',
+        'nutbox_glossary',
+        'defi_glossary'
       ]
     },
     displayAllHeaders: true,
