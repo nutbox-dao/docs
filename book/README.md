@@ -1,6 +1,8 @@
 # What is Nutbox
 
-Nutbox致力于成为Steem社区的Y Combinator。Nutbox利用Steem Power（SP）代理挖矿的机制，在Steem社区筹集SP用于孵化社区里的Dapp，期望能像Y Combinator一样，推动steem上初创DAO的发展。
+Nutbox致力于成为Steem社区的Y Combinator。
+
+Nutbox利用Steem Power（SP）代理挖矿的机制，在Steem社区筹集SP用于孵化社区里的Dapp，期望能像Y Combinator一样，推动steem上初创DAO的发展。
 
 ## 基于Steem的孵化平台
 
