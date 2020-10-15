@@ -11,6 +11,8 @@ module.exports = {
         'Roadmap',
         'Community',
         'Donation',
+        'user guide',
+        'developer resources',
         'FAQ',
         'Nutbox Glossary',
         'DeFi Glossary'
