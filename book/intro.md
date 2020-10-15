@@ -1,4 +1,4 @@
-# Y Combinator of Steem
+# Steem Dapp孵化平台
 
 Nutbox首先是一个孵化平台，你也可以把它看做是Dapp工厂。
 
