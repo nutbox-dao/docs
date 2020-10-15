@@ -1,4 +1,4 @@
-# Nutbox的特点
+# Nutbox生态特点
 
 nutbox（坚果盒子）为Dapp的大规模应用而来，提供一个去中心化应用解决方案（DAS）。nutbox通过构建在Steem、Tron之上的第二层网络，将Steem与DeFi结合，使得开放社区更简单、快速、可扩展创建自己的Dapp。这些Dapp将拥有以下特点，使得其能快速发展。
 
