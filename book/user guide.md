@@ -12,17 +12,20 @@ test.nutbox.io目前上线有基于Steem的代理挖矿、STEEM与TSTEEM（基�
 
 安装方法与MetaMask一样，百度可以搜到很多教程。（下图左边是TronLink钱包，右图是Steem Keychain钱包）
 
-图片: https://uploader.shimo.im/f/QIDc4GNhTkN0uBdL.jpg
+http://wherein.mobi/wp-content/uploads/2020/10/tronlink.jpg
 
 2、点击进入 https://www.trongrid.io/shasta/#request ，复制自己的Tron账号，填入下面红色框框，申请测试币。
 
-图片: https://uploader.shimo.im/f/ROK679zdeHw7qhv8.png
+http://wherein.mobi/wp-content/uploads/2020/10/3.png
 
 3、点击打开TronLink钱包，轻点 设置-节点管理-Shasta Testnet ，选择Shasta测试网络。
 
-图片: https://uploader.shimo.im/f/NcySXbn3QivhLVoo.jpeg
+http://wherein.mobi/wp-content/uploads/2020/10/b1.jpeg
 
 4、打开nutboxs.com，输入你的steem用户名，点击登录。
-图片: https://uploader.shimo.im/f/xw6NP2rje7mFDrM7.png
+
+http://wherein.mobi/wp-content/uploads/2020/10/4.png
+
 5、登录成功后，就可以按照你的需求体验不同的产品啦。
-图片: https://uploader.shimo.im/f/Qh9E2Kyvf3g2hMis.png
+
+http://wherein.mobi/wp-content/uploads/2020/10/5.png
