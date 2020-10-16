@@ -28,4 +28,4 @@ test.nutbox.io目前上线有基于Steem的代理挖矿、STEEM与TSTEEM（基�
 
 5、登录成功后，就可以按照你的需求体验不同的产品啦。
 
-![Image text](http://wherein.mobi/wp-content/uploads/2020/10/5.png)
+![Image text](http://wherein.mobi/wp-content/uploads/2020/10/6-1.png)
