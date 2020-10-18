@@ -14,8 +14,9 @@
 
 * Nutbox Mine：nutbox.mine
 * Nutbox Swap：nutbox.dex
-* Nutbox Gas：nutbox.gas
 * Nutbox DAO：nutbox.dao
+* Nutbox Gas（mine）：nutbox.gas
+* Nutbox Gas（swap）：nutboxs.gas
 
 ### Tron BlockChain
 
