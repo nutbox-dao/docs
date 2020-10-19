@@ -2,11 +2,11 @@
 
 ## Official Community
 
-* Discord：https://discord.gg/Fsn5XC
-* Twitter：
+* Discord：https://discord.gg/n5DrRXA
+* Twitter：@nutbox_steem
 * Medium：https://medium.com/@nutbox
 * Github：https://github.com/nutbox-dao
-* Telegram：
+* Telegram：https://t.me/joinchat/PrBejBh_Grp6lFZEGArDpA
 
 ## Unofficial Community
 
