@@ -2,11 +2,9 @@
 
 ## Contract
 
-### TestNet
-
-* PEANUT：TH2HicVQfdUFggM3q59yhQDAhjJmQ8SAzL
-* TSTEEM：TJ1gakA2KNeiwfeNAEgTFsBdjuGifwhXeu
-* TSBD：TJx8kVjzMSsVxaz92eKh5qT6WTkBFR5BA8
+* NutboxSteem：TBUZYrDh7gzjd1PLnkMHWoAo55ctRzZzGN
+* NutboxSbd：TEPZJmYLJxJc8b5FueswwLWmUDhJGnih6Q
+* NutboxPnut：TPZddNpQJHu8UtKPY1PYDBv2J5p5QpJ6XW
 
 ## Account
 
