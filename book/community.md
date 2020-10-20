@@ -2,7 +2,7 @@
 
 ## Official Community
 
-* Discord：https://discord.gg/n5DrRXA
+* Discord：https://discord.gg/zPkMuGY
 * Twitter：@nutbox_steem
 * Medium：https://medium.com/@nutbox
 * Github：https://github.com/nutbox-dao
