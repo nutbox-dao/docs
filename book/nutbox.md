@@ -9,15 +9,19 @@ PEANUT（简称PNUT）的产生与代理SP挖社区代币一致。持有SP的用
 PNUT的价值可以看做是nutbox产生收益的贴现，它的价格由nutbox的收益回购进行支撑。规则如下：
 
 * nutbox接受Steem用户或团队代理的SP，生成社区代币PNUT；
-* PNUT按照区块进行分发
+* PNUT分发给以下用户
+    * 代理SP的用户
+    * nutbox.dao   
+* 代理挖PNUT
     * 0 - 1000000区块，20 PNUT / 区块
     * 1000001 - 10000000区块，10 PNUT / 区块    
     * 10000001 - 20000000区块，5 PNUT / 区块  
     * 20000001 - 30000000区块，2.5 PNUT / 区块 
-    * 30000001 - 区块，1.25 PNUT / 区块 
-* PNUT分发给以下用户
-    * 代理SP的用户
-    * nutbox.dao
+    * 30000001 - 区块，1.25 PNUT / 区块   
+* nutbox.dao挖PNUT
+    * 按代理挖PNUT量的10%，对nutbox.dao分发PNUT
+    * nutbox.dao归属于Nutbox社区，由nutbox代币持有者组成的DAO控制
+    * 创始期由早期贡献者管理，以资助 nutbox上线前后的开发和运营     
 * 拥有代理SP的nutbox.mine在Steem社区获得的策展收益，将选择合适的时机在公开市场上购买PNUT
 
 ## nutbox.mine
