@@ -2,7 +2,7 @@
 
 ## 参与代理SP挖PNUT教程
 
-From @honoru  https://steem.buzz/@honoru
+From @honoru  <https://steem.buzz/@honoru>
 
 注意：若果未用過 Steem Keychain 及 Tronlink 要花一點時間去安裝。而當中要使用 Chrome 插件，故此需要梯子。
 
