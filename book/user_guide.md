@@ -70,15 +70,15 @@ From @honoru  <https://steem.buzz/@honoru>
 
    ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmeah7A7nQVzBbuML11yegzdJRpRHzx6HTXjNqweMpL6Ez/image.png)
    
-   參看 Nutbox 團隊的教程:https://www.steem.buzz/nutbox/@wherein/the-nutbox-is-operating-and-the-steem-y-era-is-coming-or-nutbox-steem-y
+   參看 Nutbox 團隊的教程:<https://www.steem.buzz/nutbox/@wherein/the-nutbox-is-operating-and-the-steem-y-era-is-coming-or-nutbox-steem-y>
    
-   與及白皮書:https://docs.nutbox.io
+   與及白皮書:<https://docs.nutbox.io>
    
-   原文：https://steem.buzz/hive-180932/@honoru/steem-keychaine-tron-sp-tron-nutbox-pnut
+   原文：<https://steem.buzz/hive-180932/@honoru/steem-keychaine-tron-sp-tron-nutbox-pnut>
    
 ## Nutbox提取收益和增加流动性操作
 
-From @bo022  https://steem.buzz/@bo022
+From @bo022  <https://steem.buzz/@bo022>
 
 面对新事物，总想自己亲自操作一番，自己做过后才记忆深刻。经过两个多小时的摸索（本人不聪明，领悟能力差），终于在Nutbox中成功提取收益，并实践了增加流动性操作，把2万PNUT放进的资金池。附上个人操作图片，仅供参考。
 
