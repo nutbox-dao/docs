@@ -75,4 +75,51 @@ From @honoru  https://steem.buzz/@honoru
    與及白皮書:https://docs.nutbox.io
    
    原文：https://steem.buzz/hive-180932/@honoru/steem-keychaine-tron-sp-tron-nutbox-pnut
- 
+   
+## Nutbox提取收益和增加流动性操作
+
+From @bo022  https://steem.buzz/@bo022
+
+面对新事物，总想自己亲自操作一番，自己做过后才记忆深刻。经过两个多小时的摸索（本人不聪明，领悟能力差），终于在Nutbox中成功提取收益，并实践了增加流动性操作，把2万PNUT放进的资金池。附上个人操作图片，仅供参考。
+
+一、提取收益
+
+1.在SteemKeychain和波宝钱包打开的前提下，保证波宝钱包里面有5trx以上，当然越多越好，否则不能增加流动性。
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaFxBR1sdtr6R4aGyAPmG8iiPv2CktG9PitVydjrsJVro/image.png
+
+2.提取收益成功后，PNUT就转到波宝钱包里面，到账速度很快。然后用鼠标点击PNUT图标。
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmYPfbovR5DbeLGy1gFTkwrFxpbA8REovzGQJAwZ1CCQzc/image.png
+
+3.先点击 更多，就会跳出 兑换
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaR9pPZRgkBdeH63mxnU7AVdWaB1iG5udTPHikvaKBnQr/image.png
+
+4.点击 三角 符号，对调
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmS2ZyspBwgS3jNnuxzNPoH5UkM3oHNXCu84LZ6NvD5Qy9/image.png
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmcNtp5TRUA78ZGLi1Y5PK5NBDGt996uSWWhiekL5obuAf/5.png
+
+5.你可以点击 最大 ，也可以自由选择，会产生一定的费用
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaHh4Lmr79LzwDKiCWpNktPnPh81Eu1Qy5RgEqdsar5G8/6.jpg
+
+二、增加流动性操作
+
+1.点击 资金池 后，选择代币PNUT
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmNyR1CEddsf2cJsyqn3V8BEQ7sJZcGnw9f7AzZ1rxZ8Fy/7.jpg
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmUr53MbexaknnXx9hcqvurmJCswTZuMZb3siaBCPGWoZQ/8.jpg
+
+2.两种币要对称，如你要增加2000PNUT，你的钱包里面要有25.304748TRX，否则下面显示余额不足
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmeYcPuVGXjkpVdkiyUjDAhDMJmFpjkGVgzn2ZrW4xVCxa/9.jpg
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmNmHygKWmHgqWmDaqLNWrrbu2w3FnjX2hZGrNDVqhtfbH/image.png
+
+3.成功操作增加流动性
+
+https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmRiWpLjP739EakRUpXC5oGxopAaZ78mQiAavbgZN5VErw/10.png
