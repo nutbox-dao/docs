@@ -10,9 +10,9 @@ From @honoru  https://steem.buzz/@honoru
 
    完成後，便代表進入了 Chrome 擴充功能，並在搜尋欄位輸作 Keychain
    
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmZkHLS969yhiwiVVyCaqhVsgMLLwnCPNUSjbvZBwkkoyB/image.png
+   ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmZkHLS969yhiwiVVyCaqhVsgMLLwnCPNUSjbvZBwkkoyB/image.png)
    
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmSfuKmKbGPWSxahqDjxzaGh7rM8UkK87kLqDQP8nXQnDY/image.png
+  ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmSfuKmKbGPWSxahqDjxzaGh7rM8UkK87kLqDQP8nXQnDY/image.png)
    
    完成後會看到 Hive 及 Steem 的 Keychain，就著 Nutbox，只需安裝 Keychain。
    
@@ -22,17 +22,17 @@ From @honoru  https://steem.buzz/@honoru
    
    Steem Keychain 插件有很大的好處，一來使用方便，二來可以同時管理多個戶口。日後也可以繼續添加新的帳號:
    
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmdTLjXugQyoybGcke45qGbKKgMnC8LjLqmnijBrNCkWvH/image.png
+   ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmdTLjXugQyoybGcke45qGbKKgMnC8LjLqmnijBrNCkWvH/image.png)
 
 第二步：申請及安裝 Tron 錢包，我現時使用是 TronLink 的錢包。
 
    可以如同步驟一的方法，在 Chrome 插件列表中搜索Tronlink
    
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmd9KufDMhzTBAMyhc2k4vynhWY9YLSaVZgtmv9jm6Q1rz/image.png
+   ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmd9KufDMhzTBAMyhc2k4vynhWY9YLSaVZgtmv9jm6Q1rz/image.png)
    
    安裝後，與 Steem Keychain 一樣，新建一個用戶名稱及密碼。之後 TronLink 便會為「新用戶」建一個 Tron 錢包。
    
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmXC3BhukNQmpHkfpzj6bqfSXnWMBgCAqLrc3BAS94qqqA/image.png
+   ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmXC3BhukNQmpHkfpzj6bqfSXnWMBgCAqLrc3BAS94qqqA/image.png)
    
    日後只要點贊 Chrome 瀏覽器右上方位置，便會一個 TronLink 的圖標(Steem Keychain 亦一樣)，便可以打開 Tron 錢包，查看自己手上貨幣的價值。
    
@@ -42,7 +42,7 @@ From @honoru  https://steem.buzz/@honoru
 
    若果仍開啟 Tronlink ，在進入Nutbox 時，會像我這一個畫面一樣，看到已連上Tron錢包。
    
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmNeDzosVF2n5eXzgQAzfJbUCnyy9r9gc21hu1yQ2JF3EJ/image.png
+   ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmNeDzosVF2n5eXzgQAzfJbUCnyy9r9gc21hu1yQ2JF3EJ/image.png)
    
    而上面一欄只需輸入自己的 Steem ID 便可。
 
@@ -58,7 +58,7 @@ From @honoru  https://steem.buzz/@honoru
 
    在Nutbox 上會顯示閒置的 SP，但是要留意，因為可代理出去的SP是與 RC 有關，若果剛剛發帖或者點贊別人點贊也未能 100 (MAX) 代理。會顯示代理不成功。 一般代理自己能承擔的金額，或者 80% 左右。餘下的SP仍可以在日常自用。
    
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmTmn1vtEfPp8MCY6zaeTjhVBwCgGEEnBZFX9ohfHbGeGJ/image.png
+   ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmTmn1vtEfPp8MCY6zaeTjhVBwCgGEEnBZFX9ohfHbGeGJ/image.png)
    
    代理之後的畫面如下圖:
    
@@ -68,7 +68,7 @@ From @honoru  https://steem.buzz/@honoru
    
    但是，減少代理SP，從確認減少代理至返回自己戶口內，現時需時是5天 (120小時)。
 
-   https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmeah7A7nQVzBbuML11yegzdJRpRHzx6HTXjNqweMpL6Ez/image.png
+   ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmeah7A7nQVzBbuML11yegzdJRpRHzx6HTXjNqweMpL6Ez/image.png)
    
    參看 Nutbox 團隊的教程:https://www.steem.buzz/nutbox/@wherein/the-nutbox-is-operating-and-the-steem-y-era-is-coming-or-nutbox-steem-y
    
@@ -86,40 +86,40 @@ From @bo022  https://steem.buzz/@bo022
 
 1.在SteemKeychain和波宝钱包打开的前提下，保证波宝钱包里面有5trx以上，当然越多越好，否则不能增加流动性。
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaFxBR1sdtr6R4aGyAPmG8iiPv2CktG9PitVydjrsJVro/image.png
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaFxBR1sdtr6R4aGyAPmG8iiPv2CktG9PitVydjrsJVro/image.png)
 
 2.提取收益成功后，PNUT就转到波宝钱包里面，到账速度很快。然后用鼠标点击PNUT图标。
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmYPfbovR5DbeLGy1gFTkwrFxpbA8REovzGQJAwZ1CCQzc/image.png
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmYPfbovR5DbeLGy1gFTkwrFxpbA8REovzGQJAwZ1CCQzc/image.png)
 
 3.先点击 更多，就会跳出 兑换
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaR9pPZRgkBdeH63mxnU7AVdWaB1iG5udTPHikvaKBnQr/image.png
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaR9pPZRgkBdeH63mxnU7AVdWaB1iG5udTPHikvaKBnQr/image.png)
 
 4.点击 三角 符号，对调
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmS2ZyspBwgS3jNnuxzNPoH5UkM3oHNXCu84LZ6NvD5Qy9/image.png
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmS2ZyspBwgS3jNnuxzNPoH5UkM3oHNXCu84LZ6NvD5Qy9/image.png)
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmcNtp5TRUA78ZGLi1Y5PK5NBDGt996uSWWhiekL5obuAf/5.png
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmcNtp5TRUA78ZGLi1Y5PK5NBDGt996uSWWhiekL5obuAf/5.png)
 
 5.你可以点击 最大 ，也可以自由选择，会产生一定的费用
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaHh4Lmr79LzwDKiCWpNktPnPh81Eu1Qy5RgEqdsar5G8/6.jpg
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmaHh4Lmr79LzwDKiCWpNktPnPh81Eu1Qy5RgEqdsar5G8/6.jpg)
 
 二、增加流动性操作
 
 1.点击 资金池 后，选择代币PNUT
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmNyR1CEddsf2cJsyqn3V8BEQ7sJZcGnw9f7AzZ1rxZ8Fy/7.jpg
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmNyR1CEddsf2cJsyqn3V8BEQ7sJZcGnw9f7AzZ1rxZ8Fy/7.jpg)
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmUr53MbexaknnXx9hcqvurmJCswTZuMZb3siaBCPGWoZQ/8.jpg
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmUr53MbexaknnXx9hcqvurmJCswTZuMZb3siaBCPGWoZQ/8.jpg)
 
 2.两种币要对称，如你要增加2000PNUT，你的钱包里面要有25.304748TRX，否则下面显示余额不足
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmeYcPuVGXjkpVdkiyUjDAhDMJmFpjkGVgzn2ZrW4xVCxa/9.jpg
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmeYcPuVGXjkpVdkiyUjDAhDMJmFpjkGVgzn2ZrW4xVCxa/9.jpg)
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmNmHygKWmHgqWmDaqLNWrrbu2w3FnjX2hZGrNDVqhtfbH/image.png
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmNmHygKWmHgqWmDaqLNWrrbu2w3FnjX2hZGrNDVqhtfbH/image.png)
 
 3.成功操作增加流动性
 
-https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmRiWpLjP739EakRUpXC5oGxopAaZ78mQiAavbgZN5VErw/10.png
+![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmRiWpLjP739EakRUpXC5oGxopAaZ78mQiAavbgZN5VErw/10.png)
