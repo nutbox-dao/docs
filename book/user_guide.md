@@ -123,3 +123,37 @@ From @bo022  <https://steem.buzz/@bo022>
 3.成功操作增加流动性
 
 ![Image text](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmRiWpLjP739EakRUpXC5oGxopAaZ78mQiAavbgZN5VErw/10.png)
+
+## 如何在Justswap增加交易对成为Pnut的做市商
+
+From @m18207319997  <https://steem.buzz/@m18207319997>
+
+Defi火爆了一阵子，前期忙于其他事情也没有参与任何项目。现在还有一点小遗憾错过YFII。在二姨夫的初始推广群，当时二姨夫价格是120$，由于对DEFI的不了解，没有参与。这次适逢 <https://nutbox.io/> 的Pnut上线，也趁机全面熟悉一下DEFI的操作。
+
+第一步：
+准备交易对的资金，我是从火币购入了一些TRON，并转入同Pnut一致的TRON账号；然后从 <https://nutbox.io/> 提取了所有已经挖好的Pnut。交易对的资金准好后就可以进入增加操作。
+
+第二步：
+打开JustSwap应用，点击“资金池”，进入“增加流动性”页面。
+
+第三步：
+在“增加流动性”页面输入TRX的数量；然后点击“选择代币”，在弹出的“选择代币”框中有一个搜索框，在搜索框录入“Pnut”,点击搜索就会显示PNUT币及你钱包中该币的余额，选中PNUT币返回”增加流动性“操作页面，在该页面录入你想提供的PNUT币的数量。
+
+第四步：
+视个人钱包中的TRX和PNUT币的余额情况，确定流动性对双方的数量后，点击”授权PNUT”就会弹出交易详情菜单，确定后会要求录入钱包验证密码。
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/48.91dd50cd278a84736a1c468c11c.jpg)
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/81.6427534532aac742dc8309721c6.jpg)
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/10.c7a8f086ebc8e7d15233c5f4314.jpg)
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/35.7408e74340cc1f06ec4e1f5b394.jpg)
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/81.36bdb2b3867a17d0792e131444a.jpg)
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/31.23c5930c25edbd3a96577c899c4.jpg)
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/62.08ae46660b32488774c942dba91.jpg)
+
+![Image text](https://steemitimages.com/0x0/http://cdn-wp.wherein.mobi/wp-content/uploads/2020/10/98.018b70633c809d6038d0efc7ae5.jpg)
