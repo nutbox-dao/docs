@@ -18,11 +18,13 @@ Steem的Layer1层可以像其他区块链一样处理大多数类型的Steem交�
 
 Nutbox的存在就是为了做到这一点，以便任何用户或企业都可以基于Steem区块链创建自己的Dapp。
 
-## 面临的困难
+## Steem + Nutbox + Aksai Baas + Dapp
+
+随着DeFi的崛起，区块链的底层基础设施已经完善，区块链即将进入下一个阶段 —— Dapp大爆发时代。这个时代，Steem具备非常大的优势，Steem生态系统众多Dapp印证了这一点。Nutbox正是面向Dapp大规模应用而诞生的。
+
+### 代理挖社区令牌
 
 启动Dapp不易，它需要许多不同的组件和参与者，而这些参与者不一定有创建社交网络、区块链和加密货币支持的Dapp所需的知识。雪上加霜的是，Steem Media Tokens（SMT） —— 一个基于Steem创建智能媒体代币的协议迟迟不上线，或许永远都不能推出了。
-
-## 代理挖社区令牌
 
 Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代理、策展机制，实现社区代币的发行。用户代理SP给到nutbox.mine，nutbox.mine按照特定协议生成 PEANUT （TRC20令牌，此处以Nutbox的令牌为例），并通过智能合约将 PEANUT 分发给SP代理人和Nutbox的贡献者，这个过程我们把它称之为代理挖矿（社区令牌）。
 
@@ -30,7 +32,7 @@ Nutbox创造性的将Steem和Tron进行融合，利用Steem Power（SP）的代�
 
 特别的是，Nutbox将首先以这种方式发行 PEANUT ，以支持Steem生态系统中的Dapp。
 
-## Dapp工具套件
+### Dapp工具套件
 
 Nutbox是一个Blockchain as a Service平台，期待任何用户或企业可以轻松进入区块链世界。我们开发了一系列工具套件，通过选择一系列插件、协议、模板、服务，项目所有者能够轻松将其社区令牌化，并拥有他们的Dapp。
 
