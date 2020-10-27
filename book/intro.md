@@ -18,7 +18,7 @@ Steem的Layer1层可以像其他区块链一样处理大多数类型的Steem交�
 
 Nutbox的存在就是为了做到这一点，以便任何用户或企业都可以基于Steem区块链创建自己的Dapp。
 
-## Steem + Nutbox + Aksai Baas + App
+## 基于Steem的Layer2
 
 随着DeFi的崛起，区块链的底层基础设施已经完善，区块链即将进入下一个阶段 —— Dapp大爆发时代。这个时代，Steem具备非常大的优势，Steem生态系统众多Dapp印证了这一点。Nutbox正是面向Dapp大规模应用而诞生，填补Steem区块链与App中间的Layer2空白。
 
