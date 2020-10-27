@@ -5,6 +5,7 @@ module.exports = {
     sidebar: {
       '/': [
         'intro',
+        'steem_layer2',
         'features',
         'nutbox',
         'ecosystem',
