@@ -30,7 +30,11 @@ nutbox.mine肩负着为社区策展优质内容，为SP代理人谋求收益最�
 
 nutbox.mine的SP权重分为两个池子，A为用户池，B为内容池，以各自目的为导向。PNUT持有者有权决定两个池子对应的比例，但内容池比例不得低于外部捐赠者对nutbox.mine的净代理投资。
 
-初期，nutbox.mine将用60%的SP点赞代理用户的帖子，40%的SP跟赞代理用户的点赞行为。其中nutbox.mine将取用户连续7天代理情况的加权平均数，赋予代理用户以点赞权重。nutbox.mine通过一系列机器人和API帮助nutbox实现以上目标。
+初期，nutbox.mine将用60%的SP点赞代理用户的帖子，40%的SP跟赞代理用户的点赞行为。其中nutbox.mine将取用户连续7天代理情况的加权平均数，赋予代理人以点赞权重，此类社区成员被称为nutbox策展人。nutbox.mine通过一系列机器人和API帮助nutbox实现以上目标，影响nutbox.mine跟赞策展人点赞行为的权重由以下因素确定：
+
+* 持有PNUT的人对策展人的投票，此部分占据40%权重
+* 策展人代理SP的数量，此部分占据30%
+* Nutbox DAO委员会的综合数据评估，占据30%
 
 nutbox.mine获得的策展收益，将定期在公开市场购买PNUT。购买行为前期由nutbox初创团队代表社区执行，后期交由nutbox.dao，以实现nutbox的DAO治理、决策。
 
