@@ -1,6 +1,25 @@
-# blog
+# FAQ & Blog
 
-## 社区视角
+## FAQ
+
+### 参与Nutbox的风险？
+
+* 参与Nutbox的风险在于，需要投入STEEM，将其转化为STEEM POWER（SP），代理给 nutbox 。由于代理 SP 是没有风险的，故参与Nutbox的风险在于 STEEM 的涨跌。
+
+### PNUT的价值支撑？
+
+* PNUT的价值主要来自两方面：1、nutbox对PNUT的回购；2、nutbox.dao投资孵化Steem上Dapp后，Dapp取得成绩后，对nutbox的回报；
+* PNUT除了定期会有减半，每天分发量在一定时间段内是固定的。故nutbox获得的策展奖励越多，对PNUT的价格的支撑越明显，即PNUT的价格会随着nutbox获得的SP增长而增长；
+
+### PNUT的应用场景？
+
+* PNUT会参与到nutbox丰富的应用场景之中，可以预料的有：1、为PNUT/TRX提供流动性，获得交易费奖励；2、持有PNUT即享受对策展人投票的权利；3、持有PNUT间接拥有nutbox提案投票系统的投票权，参与社区治理；4、拥有PNUT可参与nutbox合作平台的各种经济活动，比如多轮打榜；5、享受nutbox各项权益；
+
+### nutbox.dao持有的10% PNUT如何安排的？
+
+* nutbox.dao前期会支持早期贡献者，nutbox的开发及运营，最为关键的是支持Steem上的DApp，并获得DApp的代币。
+
+## 社区视角_Blog
 
 ### 中文
 
@@ -46,7 +65,7 @@
 
 <https://steem.buzz/hive-196917/@ayogom/steem-nutbox-y-combinator>
 
-## Nutbox视角
+## Nutbox视角_Blog
 
 ### 中英文
 
