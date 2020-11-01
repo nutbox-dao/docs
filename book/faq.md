@@ -8,7 +8,10 @@
 
 ### PNUT的价值支撑？
 
-* PNUT的价值主要来自两方面：1、nutbox对PNUT的回购；2、nutbox.dao投资孵化Steem上Dapp后，Dapp取得成绩后，对nutbox的回报；
+* PNUT的价值主要来自两方面：
+    * nutbox对PNUT的回购；
+    * nutbox.dao投资孵化Steem上Dapp后，Dapp取得成绩后，对nutbox的回报；
+    
 * PNUT除了定期会有减半，每天分发量在一定时间段内是固定的。故nutbox获得的策展奖励越多，对PNUT的价格的支撑越明显，即PNUT的价格会随着nutbox获得的SP增长而增长；
 
 ### PNUT的应用场景？
