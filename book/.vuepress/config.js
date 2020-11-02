@@ -5,7 +5,7 @@ module.exports = {
     sidebar: {
       '/': [
         'dapp_incubator',
-        'nutbox',
+        'nutbox_finance',
         'features',
         'ecosystem',
         'roadmap',
