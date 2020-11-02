@@ -6,6 +6,7 @@ module.exports = {
       '/': [
         'dapp_incubator',
         'nutbox_finance',
+        'layer2',
         'features',
         'ecosystem',
         'roadmap',
