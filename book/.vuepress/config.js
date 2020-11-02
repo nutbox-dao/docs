@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     sidebar: {
       '/': [
-        'intro',
+        'dapp_incubator',
         'features',
         'nutbox',
         'ecosystem',
