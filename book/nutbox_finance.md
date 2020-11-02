@@ -51,7 +51,7 @@ nutbox.dao前期由Nutbox.dao委员会代表社区决策，在1-3个月时间内
 * 通过提案表决，控制PNUT的发行、分配、回购等机制；
 * 通过提案表决，投票决定nutbox.dao支持哪些DAO，以及如何支持；
 
-## 提案投票系统
+### 提案投票系统
 
 nutbox.dao基金会用于支持nutbox开发、运营，以及对Steem系DAO进行投资、孵化。然而，如何使用nutbox.dao并非易事，我们需要靠社区用户的意见来帮助Nutbox.dao委员会做判断。ETH的二次方募资取得了不错的成绩，Steem的SPS也曾经运转良好，Nutbox需要找出一条自己的路。
 
