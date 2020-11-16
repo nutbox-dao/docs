@@ -21,7 +21,7 @@
 * Nutbox客户端上线，打造区块链经济人社群
 * Ooops正式上线
 * Nutbox生态项目——Ooops开启代理挖矿
-* Nutbox社区项目——WhereIN开启代理挖矿WIT
+* Nutbox社区项目——WhereIN上线nutbox代理挖矿
 
 ## 2021-
 
