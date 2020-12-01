@@ -78,7 +78,7 @@ From @honoru  <https://steem.buzz/@honoru>
    
    原文：<https://steem.buzz/hive-180932/@honoru/steem-keychaine-tron-sp-tron-nutbox-pnut>
 
-## STEEM trade to TRX or USDT
+## Trade STEEM to TRX or USDT
 
 本篇是STEEM与TRX等资产兑换的指导帖，通过 nutbox.io 及 JustSwap 得以实现。
 
