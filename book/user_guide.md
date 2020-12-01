@@ -1,6 +1,8 @@
 # User Guide
 
-## 参与代理SP挖PNUT教程
+## Delegation STEEM POWER to nutbox，and Mining PNUT
+
+本篇是代理SP给nutbox.io，参与 PNUT挖矿教程帖
 
 From @honoru  <https://steem.buzz/@honoru>
 
