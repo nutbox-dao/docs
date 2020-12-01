@@ -75,7 +75,49 @@ From @honoru  <https://steem.buzz/@honoru>
    與及白皮書:<https://docs.nutbox.io>
    
    原文：<https://steem.buzz/hive-180932/@honoru/steem-keychaine-tron-sp-tron-nutbox-pnut>
+
+## STEEM与TRX、USDT等资产的兑换
+
+From @iguazi123
+
+随着 Steem 后续与 Tron 的融合，Steem 的原生资产 STEEM 与 Tron 原生资产 TRX 势必需要进行兑换，以下为详细教程。
+
+第一步：相关钱包的下载、安装、Steem和Tron账号注册以及登录nutbox.io
+
+   此部分，@homoru的《参与代理SP挖PNUT教程》已经叙述地非常清楚，在此不再赘述。
    
+第二步：登录nutbox.io，进入 STEEM - TSTEEM 兑换页面
+
+   输入想要兑换的STEEM数量，点击 兑换 ，即可将STEEM 1：1 兑换成 TSTEEM。TSTEEM是基于Tron的STEEM资产（TRC20代币），与STEEM一比一锚定。
+   
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/nutbox-swap.png)
+
+  注意：此步需要登录 keychain 或 TronLink 钱包，否则无法兑换。
+
+第三步：在地址栏输入 https://justswap.org/?lang=en-US#/scan/detail/trx/TBUZYrDh7gzjd1PLnkMHWoAo55ctRzZzGN 链接，打开JustSwap TSTEEM-TRX交易对，点击Trade
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/justswap-tsteem.png)
+
+第四步：进入 TSTEEM-TRX 交易界面，输入要兑换的 TSTEEM数量，点击Swap - Confirm Swap - 签名，等待交易确认，即完成了将 STEEM兑换成TRX的操作了。
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/tsteem-trx.png)
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/tsteem-trx2.png)
+
+第五步：如果想将 TSTEEM 兑换成其他加密货币，可点击 TRX图标，然后按照下图操作
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/tsteem-swap-1.png)
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/tsteem-swap-2.png)
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/tsteem-swap-3.png)
+
+  这样您可将 STEEM 兑换成 TRX、USDT、BTC等资产
+  
+第六步：将TRX等资产兑换成 TSTEEM，与之相反即可。不过，需要的注意的是，如果是采取搜索框搜索 TSTEEM ，可选取下面红色框中的 TSTEEM，另一个TSTEEM为测试代币。
+
+![Image text](http://wherein.mobi/wp-content/uploads/2020/12/tsteem-swap-4.png)
+
 ## Nutbox提取收益和增加流动性操作
 
 From @bo022  <https://steem.buzz/@bo022>
