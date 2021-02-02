@@ -1,4 +1,4 @@
-# User Guide
+# User Guide/用户手册
 
 ## Delegation STEEM POWER to nutbox，and Mining PNUT
 
@@ -8,7 +8,8 @@ From @honoru  <https://steem.buzz/@honoru>
 
 注意：若果未用過 Steem Keychain 及 Tronlink 要花一點時間去安裝。而當中要使用 Chrome 插件，故此需要梯子。
 
-第一步: 安裝 Steem Keychain 插件，使用 Chrome 瀏覽器 (必須使用電腦) 及 輸入:chrome://extensions/
+### 第一步: 在Chrome浏览器上，安裝 Steem Keychain 插件。
+   使用 Chrome 瀏覽器 (必須使用電腦) 及 輸入:chrome://extensions/
 
    完成後，便代表進入了 Chrome 擴充功能，並在搜尋欄位輸作 Keychain
    
@@ -26,7 +27,7 @@ From @honoru  <https://steem.buzz/@honoru>
    
    ![Image text](https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmdTLjXugQyoybGcke45qGbKKgMnC8LjLqmnijBrNCkWvH/image.png)
 
-第二步：申請及安裝 Tron 錢包，我現時使用是 TronLink 的錢包。
+### 第二步：申請及在Chrome上安裝 Tron 錢包。
 
    可以如同步驟一的方法，在 Chrome 插件列表中搜索Tronlink
    
@@ -40,7 +41,7 @@ From @honoru  <https://steem.buzz/@honoru>
    
    並且價值上面的位置，便是您的 Tron (trx) 錢包地址，可以存入 Trx 幣 及 下列的各種貨幣。
    
-第三步：連進Nutbox，進入網址: https://nutbox.io/login
+### 第三步：連進Nutbox，進入網址: https://nutbox.io/login
 
    若果仍開啟 Tronlink ，在進入Nutbox 時，會像我這一個畫面一樣，看到已連上Tron錢包。
    
@@ -52,11 +53,11 @@ From @honoru  <https://steem.buzz/@honoru>
 
    若果已完成了第一及第二步的 Keychaine 及 Tronlink 插件安裝的朋友，只需在 Chrome 瀏覽器右上角，點擊相關圖標，再輸入密碼 Login 便可。
    
-第四步，代理SP 挖 Tron 貨幣 Pnut
+### 第四步，代理SP 挖 Tron 貨幣 Pnut。
 
    Pnut 有如在 Steem-Engine / Hive-Engine 上的貨幣，是Nutbox 項目 (WhereIN團隊) 的一個產物。
 
-   大家不用好像 Steem-Engine 或 Hive-Engine 要發相關文章才能獲得有關的貨幣。而只需要代理 Steem Power 給 Nutbox 便可以獲得 Pnut 貨幣。 當中收到的貨幣，可以在 Tron 的 Just 市場上交易，不過現時 Pnut 仍在前期，交易量很少，故此，沒有太多的利潤，建議可以先挖一回再去買賣。
+   大家不用好像 Steem-Engine 或 Hive-Engine 要發相關文章才能獲得有關的貨幣。而只需要代理 Steem Power 給 Nutbox 便可以獲得 Pnut 貨幣。 當中收到的貨幣，可以在 Tron 的 JustSwap 市場上交易。
 
    在Nutbox 上會顯示閒置的 SP，但是要留意，因為可代理出去的SP是與 RC 有關，若果剛剛發帖或者點贊別人點贊也未能 100 (MAX) 代理。會顯示代理不成功。 一般代理自己能承擔的金額，或者 80% 左右。餘下的SP仍可以在日常自用。
    
