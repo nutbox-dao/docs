@@ -1,9 +1,10 @@
 module.exports = {
-  title: 'Nutbox',
+  // title: 'Nutbox',
   description: 'Y Combinator of Steem Blockchain',
   themeConfig: {
+    logo: '/logo.svg',
     sidebar: {
-      '/': [
+      '/white_paper/': [
         'dapp_incubator',
         'nutbox_finance',
         'layer2',
@@ -20,6 +21,13 @@ module.exports = {
         'defi_glossary'
       ]
     },
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'White Paper', link: '/white_paper/' },
+      { text: 'Lite Paper v1', link: '/lite_paper_v1/' },
+      { text: 'Lite Paper v2', link: '/lite_paper_v2/' },
+      { text: 'Donut', link: '/donut/' }
+    ],
     displayAllHeaders: true,
     lastUpdated: 'Last Updated',
     repo: 'nutbox-dao/docs',
