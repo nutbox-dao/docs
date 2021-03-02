@@ -23,9 +23,9 @@ module.exports = {
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'White Paper', link: '/white_paper/' },
-      { text: 'Lite Paper v1', link: '/lite_paper_v1/' },
       { text: 'Lite Paper v2', link: '/lite_paper_v2/' },
+      { text: 'Lite Paper v1', link: '/lite_paper_v1/' },
+      { text: 'White Paper', link: '/white_paper/' },
       { text: 'Donut', link: '/donut/' }
     ],
     displayAllHeaders: true,
