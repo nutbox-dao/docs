@@ -4,6 +4,10 @@ module.exports = {
   themeConfig: {
     logo: '/logo.svg',
     sidebar: {
+      '/lite_paper_v2/': [
+      ],
+      '/lite_paper_v1/': [
+      ],
       '/white_paper/': [
         'dapp_incubator',
         'nutbox_finance',
@@ -19,7 +23,9 @@ module.exports = {
         'faq',
         'nutbox_glossary',
         'defi_glossary'
-      ]
+      ],
+      '/donut/': [
+      ],
     },
     nav: [
       { text: 'Home', link: '/' },
