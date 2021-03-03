@@ -6,7 +6,15 @@ module.exports = {
     sidebar: {
       '/lite_paper_v2/': [
         'asset_contract',
-        'staking_defi'
+        'staking_defi',
+        'dapp',
+        'no_code',
+        'application_examples',
+        'two_network',
+        'economic',
+        'governance',
+        'roadmaps',
+        'documents'
       ],
       '/lite_paper_v1/': [
       ],
