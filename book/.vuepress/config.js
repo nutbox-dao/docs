@@ -18,7 +18,11 @@ module.exports = {
       '/lite_paper_v1/': [
         'pnut',
         'tsp',
-        'bridge'
+        'bridge',
+        'tsteem_defi',
+        'pnut_economic',
+        'nutbox_v1',
+        'roadmaps'
       ],
       '/white_paper/': [
         'dapp_incubator',
