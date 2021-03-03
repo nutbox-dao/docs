@@ -13,3 +13,5 @@ Nutbox让PoS链社区的创始人能够创建标准的Staking Coin offering prot
 进一步，Nutbox赋予社区创始人以模块化的方式为社区配置 Staking +DeFi、Farming、Governance等功能的能力。使得Liquidity Staking Token持有者可以在其社区参与去中心化交易、去中心化借贷、流动性挖矿，为社区版“Staking Economy+ DeFi”提供了一种创新的模型。
 
 Nutbox基于Substrate构建Nutbox blockchain，未来将成为Polkadot上的一条parachain。Nutbox的合约集包括TokenFactory、Staking coin offering、Farming（流动性农场）、DutchAuction（荷兰式拍卖回购）、Governance（治理）、DApp launcher（去中心化应用启动器）等。
+
+ ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/nutbox.png)
