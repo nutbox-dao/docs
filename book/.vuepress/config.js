@@ -22,7 +22,14 @@ module.exports = {
         'tsteem_defi',
         'pnut_economic',
         'nutbox_v1',
-        'roadmaps'
+        'roadmaps',
+        'contract_account',
+        'community',
+        'donation',
+        'user_guide',
+        'developer_resources',
+        'faq',
+        'defi_glossary'
       ],
       '/white_paper/': [
         'dapp_incubator',
