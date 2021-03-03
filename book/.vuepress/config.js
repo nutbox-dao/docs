@@ -13,8 +13,7 @@ module.exports = {
         'two_network',
         'economic',
         'governance',
-        // 'roadmaps',
-        // 'documents'
+        'roadmaps'
       ],
       '/lite_paper_v1/': [
       ],
