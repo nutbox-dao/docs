@@ -17,7 +17,8 @@ module.exports = {
       ],
       '/lite_paper_v1/': [
         'pnut',
-        'tsp'
+        'tsp',
+        'bridge'
       ],
       '/white_paper/': [
         'dapp_incubator',
