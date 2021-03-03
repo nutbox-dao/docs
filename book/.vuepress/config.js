@@ -41,6 +41,13 @@ module.exports = {
         'defi_glossary'
       ],
       '/technical_paper/': [
+        'background',
+        'ocsp',
+        'bridge',
+        'parachain',
+        'price_oracle',
+        'governance_contracts',
+        'references'
       ],
       '/donut/': [
         'solve',
