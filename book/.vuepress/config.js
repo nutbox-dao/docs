@@ -5,7 +5,8 @@ module.exports = {
     logo: '/logo.svg',
     sidebar: {
       '/lite_paper_v2/': [
-        'asset_contract'
+        'asset_contract',
+        'staking_defi'
       ],
       '/lite_paper_v1/': [
       ],
