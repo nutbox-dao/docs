@@ -17,24 +17,6 @@ Nutbox Collator 启动后，任何人可以加入 Nutbox 网络运行 Nutbox Col
 
 目前XCM V0已经实现并运行在Rococo测试网络，在V0版本中，资产被描述为MultiAsset，平行链网络中某个地址被描述为MultiLocation。其中MultiAsset既可以是一个concrete资产也可以是unconcrete资产；可以是fungible资产也可以是unfungible资产。MultiLocation既可以用来表示一个平行链网络也可以用来表示网络中的一个账户甚至是部署在网络中的一段智能合约。通常基于XCM V0的跨链转账消息如下所示：
 
-Xcm::WithdrawAsset {
-    assets: vec![MultiAsset::ConcreteFungible {
-        id: b"asset1".into(),
-        amount: 10000000000000.into(),
-    }],
-    effects: vec![Order::DepositReserveAsset {
-        assets: vec![MultiAsset::All],
-        dest: MultiLocation::X1(
-            Junction::Parachain { id: 5000.into() },
-        ),
-        effects: vec![Order::DepositAsset {
-            assets: vec![MultiAsset::All],
-            dest: MultiLocation::X1(Junction::AccountId32 {
-                NetworkId::Any ,
-                id: [xxxxx],
-            }),
-        }],
-    }],
-}
+ ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/math5.2.png)
 
 消息Xcm::WithdrawAsset执行在本地网络，其中指令Order::DepositReserveAsset会被xcm-handler pallet转发到目标平行链网络执行。可以看到这条XCM消息的主要内容为先从本地平行链网络withdraw一定数量资产，再在目标平行链网络deposit到指定账户。
