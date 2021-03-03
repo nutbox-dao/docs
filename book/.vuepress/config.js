@@ -43,6 +43,9 @@ module.exports = {
       '/technical_paper/': [
       ],
       '/donut/': [
+        'solve',
+        'structure',
+        'application'
       ],
     },
     nav: [
