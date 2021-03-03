@@ -12,4 +12,4 @@ Nutbox v2 希望每个社区都有能力搭建自己的类似 Nutbox v1 社区�
 
 Nutbox v1的DAO Fund支持v2发展，亦会收到Nutbox v2的奖励。届时，Nutbox v2上线后，将对PNUT的持有者空投v2资产WNUT。
 
-关于Nutbox v2，见 <>和<>
+关于Nutbox v2，见 <https://docs.nutbox.io/white_paper/>和<https://docs.nutbox.io/lite_paper_v2/>
