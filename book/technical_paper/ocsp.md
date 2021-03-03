@@ -58,10 +58,6 @@ cToken的挖矿算法中，我们引入了两个主要的变量因子
 
 用户私有变量因子，表示计算该用户奖励时需要剔除的奖励额度，用user.debtRewards表示。
 
-其中
+ ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/math01.png)
 
-数学公式: $ shareAcc_{pool} = shareAcc_{pool} + \frac{f_{rewards}\left\{ from, to \right\}}{totalStakingAsset_{pool}} $
-其中数学公式: $ shareAcc_{pool} $初始值为0，数学公式: $ f_{rewards}\left\{ from, to \right\} $代表一定区块高度所新产生的cToken，该值在创建staking economy时指定。数学公式: $ totalStakingAsset_{pool} $表示当前pool总的抵押资产数额。
-数学公式: $ user.debtRewards = user.amount * shareAcc_{pool} $
-其中user.amount表示用户抵押资产数额
-数学公式: $ user.rewards = user.amount*shareAcc_{pool} - user.debtRewards $
+设置好cToken的分发策略后参与抵押的用户将会按区块获取对应数额的cToken奖励。
