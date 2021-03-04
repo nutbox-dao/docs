@@ -1,4 +1,4 @@
-# DApp launcher
+# Staking Coin Offering
 
 Nutbox在基础底层协议和社区之间提供了一个中间层，使得社区通过SCO分发社区代币（cToken），将cToken嵌入社区的各种应用场景之中成为一件顺理成章的事情。
 
