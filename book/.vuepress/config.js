@@ -34,18 +34,15 @@ module.exports = {
       '/white_paper/': [
         'background',
         'sco',
-        'layer2',
-        'features',
-        'ecosystem',
-        'roadmap',
-        'contract_account',
-        'community',
-        'donation',
-        'user_guide',
-        'developer_resources',
-        'faq',
-        'nutbox_glossary',
-        'defi_glossary'
+        'lst',
+        'yield_farming',
+        'community_dao',
+        'dapp_launcher',
+        'security_pos',
+        'nutbox_economy',
+        'nutbox_dao',
+        'roadmaps',
+        'documents'
       ],
       '/technical_paper/': [
         'background',
