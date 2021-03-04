@@ -19,7 +19,6 @@ Staking reward让SCO成为一个激动人心的创新。非技术项目创始人
 <p align="center">
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/Selecting-trustworthy-validators.png)
-投票社区验证者（或见证人）获得PNUT流程图
 
 </p>
 
