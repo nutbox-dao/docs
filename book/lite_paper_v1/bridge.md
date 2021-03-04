@@ -1,4 +1,4 @@
-# 跨链桥 _ cross-chain bridge
+# 跨链桥
 
 STEEM为Steem区块链资产，如果想交易成其他加密货币，则只能在中心化交易所。跨链桥提供了一种可能，让STEEM通过跨链桥转移到其他区块链，比如Ethereum、Tron、Binance Smart Chain、Polkadot等。
 
