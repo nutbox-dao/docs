@@ -27,7 +27,6 @@ module.exports = {
         'community',
         'donation',
         'user_guide',
-        'developer_resources',
         'faq',
         'defi_glossary'
       ],
