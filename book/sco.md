@@ -16,7 +16,12 @@ Staking reward让SCO成为一个激动人心的创新。非技术项目创始人
 
 用户可以使用Staking Token的投票权，为可信的社区验证者（或见证人）投票获得cToken。例如用钱包里Staking Token（质押的DOT）通过SCO协议投票Nutbox.validator_peanut，获得PNUT。
 
+<p align="center">
+
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/Selecting-trustworthy-validators.png)
+投票社区验证者（或见证人）获得PNUT流程图
+
+</p>
 
 ### 代理Staking Token获cToken
 
