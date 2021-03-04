@@ -1,21 +1,7 @@
-# What is Nutbox
+# Introduce
 
-Nutbox致力于成为Steem社区的Y Combinator。
+Nutbox是一套去中心化协议及其前端，为社区提供Staking Coin Offering（简称SCO）和去中心化应用集成（DeFi模块、社区博客、社区治理等），帮助其开启“Staking+DeFi”为基础的社区经济。
 
-Nutbox利用Steem Power（SP）代理挖矿的机制，在Steem社区筹集SP用于孵化社区里的DApp，期望能像Y Combinator一样，推动steem上初创DAO的发展。
+SCO服务可供非技术项目创始人创建以质押挖矿分发社区代币的机制。参与SCO的用户，质押PoS公链资产，获得社区代币，而社区基金则获得PoS公链的质押奖励。通过SCO服务发行资产，项目创始人甚至都不需要在PoS公链上建立验证者节点，只需在No coding的环境中，创建一系列现成的智能合约，即可启动项目。
 
-## 基于Steem的孵化平台
-
-互联网平台在VC、PE的助力下，迅速成长，带来了互联网革命。如果没有VC、PE的权利支持，大量的高风险投资，烧钱启动，砸钱换流量，然后快速上市，互联网根本不会有后来的发展。
-
-曾经Steem上有steemit.inc对Dapp开发团队进行代理，SP持有者通过steem.dao支持社区开发和运营，还有utopian大力支持Steem上的开发。这使得Steem迎来了Dapp的大爆发，社区在短时间内涌现了500+网站和工具，社区成员也大大增加。正是Steem上多种泛基金形式对开发和运营的支持，一群志愿者才利用闲暇时间为社区添砖加瓦，让Steem越来越庞大。
-
-Nutbox期望成为这样的孵化基金，以投资、支持Steem上的DApp。我们将围绕Nutbox搭建一个投资孵化平台 —— Nutbox.finance，以及一个开放源代码的BaaS平台 —— Aksai，供企业和用户在功能强大的Steem和Tron区块链上构建DApp（去中心化应用程序）。
-
-## 愿景
-
-Nutbox是一个社区诞生的去中心化组织，推进Steem与Tron的融合，以支持更多开放社区的Dapp诞生。
-
-我们坚信群体智慧，期望集聚社区的力量，以别样的方式开启DApp的扩散，基于Steem、Tron构建社交与金融场景下的DApp生态。我们希望，任何人都能够基于Steem和Tron区块链创建安全、灵活且合规的DApp，并通过Nutbox来得到资金、工具包、生态支持等多角度孵化。
-
-Nutbox以集体决策及自动执行的协议进行决策与治理。Nutbox的成员将以合伙人的形式结成组织，并通过投票、馈赠的方式，公平地治理组织、分配组织产生的价值。
+Nutbox基于Substrate构建Nutbox blockchain，未来将接入Polkadot，成为一条parachain。Nutbox的合约集包括TokenFactory（代币创建工厂）、Staking coin offering（质押分发代币）、Farming（流动性农场）、DutchAuction（荷兰式拍卖回购）、Governance（治理）、DApp launcher（去中心化应用启动器）。诸多功能模块使得任何社区都能以SCO方式轻松发行社区代币，开启社区质押挖矿服务，在Staking Economy的基础上开展DeFi及其他社区应用场景。
