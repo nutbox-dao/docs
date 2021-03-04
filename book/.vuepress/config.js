@@ -32,8 +32,8 @@ module.exports = {
         'defi_glossary'
       ],
       '/white_paper/': [
-        'dapp_incubator',
-        'nutbox_finance',
+        'background',
+        'sco',
         'layer2',
         'features',
         'ecosystem',
