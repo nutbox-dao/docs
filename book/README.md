@@ -14,4 +14,4 @@ Nutbox允许任何人一键创建质押挖矿池和流动性挖矿池，吸引�
 
 基于Substrate构建的Nutbox blockchain，在成为Parachain之后，共享Polkadot的共识安全、生态多样性和可组合性，实现了社区对应场景的"积木式"搭建。任何非技术项目创始人或个人，得以一键创建自己的DeFi、DApp、Governance等模块，开启自己的Staking Economy。
 
-![Image text]（http://wherein.mobi/wp-content/uploads/2021/03/Nutbox-plus-polkadot.png）
+![Image text](http://wherein.mobi/wp-content/uploads/2021/03/Nutbox-plus-polkadot.png)
