@@ -8,10 +8,10 @@ Nutbox基于Substrate构建Nutbox blockchain，未来将成为Polkadot上的一�
 
 ## 质押筹款
 
-Nutbox允许任何人一键创建质押挖矿池和流动性挖矿池，吸引用户将质押资产存入（或代理质押资产使用权）对应质押池，筹集资金和人力支持。质押资产的所有权始终掌握在用户手中，无需购买新的加密货币，在发挥ICO、IEO等机制优势的情况下，避免其缺陷，对投资者进行保护。
+Nutbox允许任何人一键创建质押挖矿池和流动性挖矿池，吸引用户将质押资产存入（或代理质押资产使用权至）对应质押池，筹集资金和人力支持。质押资产的所有权始终掌握在用户手中，无需购买新的加密货币，在发挥ICO、IEO等机制优势的情况下，避免其缺陷，对投资者进行保护。
 
 ## DApp"积木式"开发
 
-基于Substrate构建的Nutbox blockchain，在成为Parachain之后，共享Polkadot的共识安全、生态多样性和可组合性，实现社区对应场景的"积木式"搭建。任何非技术项目创始人或个人，得以一键创建自己的DeFi、DApp、Governance等模块，开启自己的Staking Economy。
+基于Substrate构建的Nutbox blockchain，在成为Parachain之后，共享Polkadot的共识安全、生态多样性和可组合性，实现了社区对应场景的"积木式"搭建。任何非技术项目创始人或个人，得以一键创建自己的DeFi、DApp、Governance等模块，开启自己的Staking Economy。
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/nutbox.png)
