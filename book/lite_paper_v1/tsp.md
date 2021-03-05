@@ -2,7 +2,7 @@
 
 用户将STEEM转化为SP之后，SP无法交易，更无法作为抵押品进行借贷。SP持有者获得了质押奖励（Staking reward），却散失了对应资产的流动性。tToken就是在这样的市场条件下推出的。
 
-## 质押流动性资产 _ Liquidity Staking Token
+## 质押资产流动性凭证
 
 tToken（tradeToken）代表着质押资产（Staking Token）的流动性凭证。比如，TSP代表着流动、可交易的SP。持有TSP既可以获得质押奖励，亦可以将TSP作为抵押品进行借贷，或者为TSP-TRX的交易对提供流动性，获得交易手续费和流动性挖矿奖励。
 
