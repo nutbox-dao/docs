@@ -28,4 +28,4 @@ Multisig[13]Contract实现Nutbox多重签名账号。
 
 ## Sudo
 
-Nutbox Sudo用于管理并设置Nutbox合约，比如用于配置LTBSV、TEG签名私钥等。
+Nutbox Sudo用于管理并设置Nutbox合约，比如用于配置LTBSV、TEG签名验证器等。
