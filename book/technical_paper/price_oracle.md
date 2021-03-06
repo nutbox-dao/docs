@@ -2,7 +2,7 @@
 
 ## Price Oracle Algorithm
 
-由上文可知Asset的种类是多种多样的，这个章节我们暂时只针对Concrete Fungible Asset的价格进行讨论。价格获取预言机一直以来都是行业内一个非常值得探索的技术分支，通常包含价格计算和喂价两个阶段。目前有很多实现能够满足基本的业务需求，Nutbox对资产价格获取参考了Uniswap的Price Oracle实现[7]。对于一般资产入BTC、ETH，我们可以通过Uniswap交易对来推导出对于资产的价格。由于在Uniswap中，交易对TokenA-TokenB拥有恒定乘积K，每一个交易对都可以最终被推导为Token-USDT，
+由上文可知Asset的种类是多种多样的，这个章节我们暂时只针对Fungible Asset的价格进行讨论。价格获取预言机一直以来都是行业内一个非常值得探索的技术分支，通常包含价格计算和喂价两个阶段。目前有很多实现能够满足基本的业务需求，Nutbox对资产价格获取参考了Uniswap的Price Oracle实现[7]。对于一般资产入BTC、ETH，我们可以通过Uniswap交易对来推导出对应资产的价格。由于在Uniswap中，交易对拥有恒定乘积K，每一个交易对都可以最终被推导为其相对于USDT的交易对，
 
 因此此时资产价格可以表示为：
 
@@ -24,7 +24,7 @@ Nutbox不仅支持一般资产的抵押，也支持LP token的抵押。LP token�
 
  ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/5.png)
 
-由上式可以看出，黑客针对r0和r1的攻击导致的后果从r0 + r1 减少到sqrt{r0} + sqrt{r1}。该算法实现基于Uniswap的交易对曲线恒定乘积K，因此只适用于基于此交易模型的交易对LP Token价格计算。
+由上式可以看出，黑客针对r0和r1的攻击导致的后果从r0 + r1 减少到 sqrt{r0} + sqrt{r1} 。该算法实现基于Uniswap的交易对曲线恒定乘积K，因此只适用于基于此交易模型的交易对LP Token价格计算。
 
 ## Offchain Worker Based Price Oracle Flow
 
@@ -33,3 +33,5 @@ Nutbox不仅支持一般资产的抵押，也支持LP token的抵押。LP token�
 基于Offchain Worker模块的价格预言机利用http协议从第三方价格提供者那获取价格信息，并依照价格计算算法计算出资产价格，然后将价格提交到Nutbox网络中。
 
  ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/OCW-Based-Price-Fetcher-Flow.png)
+ 
+ 图 7 Offchain Worker Based Price Oracle Flow
