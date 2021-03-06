@@ -25,3 +25,5 @@
 [12] Bitcoin Check Point Format <https://github.com/spesmilo/electrum/blob/master/electrum/checkpoints.json>
 
 [13] Multi Signature <https://en.bitcoin.it/wiki/Multisignature>
+
+[14] 椭圆曲线加密 <https://en.wikipedia.org/wiki/Elliptic-curve_cryptography>
