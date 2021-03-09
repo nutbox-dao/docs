@@ -13,6 +13,6 @@
 ## Local Community
 
 * China：iguozi（Wechat）
-* Korea：
+* Korea：https://open.kakao.com/o/g0wdemYc
 * Malaysia：
 
