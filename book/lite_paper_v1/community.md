@@ -12,7 +12,7 @@
 
 ## Local Community
 
-* China：
+* China：iguozi（Wechat）
 * Korea：
 * Malaysia：
 
