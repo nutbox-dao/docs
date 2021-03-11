@@ -11,3 +11,11 @@ Donut network通过在网络用户和构建应用程序的企业家之间调整�
 Steem blockchain的通过 delegate STEEM POWER获得Staking reward的机制，使得Steem-Polkadot成为一个极佳的“Staking Economy + DeFi”的平台。
 
 通过Donut network与Polkadot生态项目进行组合，可以实现Staking mining（质押挖矿）、Liquidty Staking Token（质押资产流动性），以及基于此的与Dex、Lending、合成资产、Farming结合的去中心化金融应用场景。
+
+相关实例，可见 Nutbox v1 —— Peanut社区（https://nutbox.io/）。
+
+## Steem + NFT
+
+Steem作为一个基于区块链的、激励的公共内容平台，实现了通过加密货币奖励支持社区建设和社交互动。同时，Steem还为无数对社区做出贡献的个人提供了一个准确的、透明地评估，并奖励加密货币。简单来说，Steem完成了对创作者所生产内容的定价，并给与STEEM作为奖励。
+
+在Steem的基础上，我们可以将NFT与之融合，完成数字资产交易的一环。这样，数字资产创造、定价、交易，即构成了一个完整的闭环。通过Steem、NFT等，实现Steem的“通过让每个人在新的注意力竞技中拥有所有权来建立更公平、更均衡的互联网”愿景。NFT可以让Steem上的内容创作者为他们的工作获得与之相当的回报，亦让Steem改变互联网的运作方式，实现在互联网上奖励内容的新基础设施。
