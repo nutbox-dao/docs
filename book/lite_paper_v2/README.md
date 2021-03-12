@@ -14,4 +14,4 @@ Nutbox让PoS链社区的创始人能够创建标准的Staking Coin offering prot
 
 Nutbox基于Substrate构建Nutbox blockchain，未来将成为Polkadot上的一条parachain。Nutbox的合约集包括TokenFactory、Staking coin offering、Farming（流动性农场）、DutchAuction（荷兰式拍卖回购）、Governance（治理）、DApp launcher（去中心化应用启动器）等。
 
- ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/nutbox-1.png)
+ ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/nutbox-2.png)
