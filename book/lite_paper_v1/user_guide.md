@@ -11,6 +11,10 @@
 ## nutbox挖矿说明书 | 如何通过nutbox.io挖矿PNUT【中级篇TSP挖矿PNUT】
 
 <https://blog.nutbox.io/@abcallen/wherein-1615700270959-s>
+
+## 简易的在JustSwap交易pnut教程(手机版)
+
+<https://blog.nutbox.io/@lzg/wherein-1615698667749-s>
  
 ## 如何安装 Steem Keychain及Tronlink
 
