@@ -27,8 +27,7 @@ module.exports = {
         'community',
         'donation',
         'user_guide',
-        'faq',
-        'defi_glossary'
+        'faq'
       ],
       '/white_paper/': [
         'background',
