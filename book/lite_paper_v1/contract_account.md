@@ -11,6 +11,7 @@
 * TsteemPool：TTyQs6taRKf2cr3dQq5jQMzoms9JGP3XYS
 * TspLpPool：TTMY4ZkeBxmwj43bmaJUysac8w7ha7Fkhj
 * PnutLpPool：TLud51bQbsvA3fGPoXw5e9NPb117ckYn5y
+* BlackHole： TLmaTUuGmYjxkRmX1qn28HFFAM7tguGvXb
 
 ## Account
 
