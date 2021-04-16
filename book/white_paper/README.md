@@ -1,4 +1,4 @@
-# Introduce
+# Introduction
 
 Nutbox是一套去中心化协议及其前端，为社区提供Staking Coin Offering（简称SCO）和去中心化应用集成（DeFi模块、社区博客、社区治理等），帮助其开启“Staking+DeFi”为基础的社区经济。
 
