@@ -1,4 +1,4 @@
-# Introduce
+# Introduction
 
 Nutbox v1是一个基于PoS共识机制（包括DPoS、NPoS等）区块链的社区质押平台。
 
