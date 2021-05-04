@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     logo: '/logo.svg',
     sidebar: {
-      '/nutbox/': [
+      '/lite_paper_v2/': [
         'asset_contract',
         'staking_defi',
         'dapp',
@@ -15,7 +15,7 @@ module.exports = {
         'governance',
         'roadmaps'
       ],
-      '/peanut/': [
+      '/lite_paper_v1/': [
         'pnut',
         'tsp',
         'bridge',
