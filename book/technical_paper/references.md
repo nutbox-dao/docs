@@ -1,10 +1,10 @@
 # References
 
-[1] PoS共识算法 <https://en.wikipedia.org/wiki/Proof_of_stake>
+[1] PoS Consens Algorithm <https://en.wikipedia.org/wiki/Proof_of_stake>
 
-[2] PoW共识算法 <https://en.wikipedia.org/wiki/Proof_of_work>
+[2] PoW Consens Algorithm <https://en.wikipedia.org/wiki/Proof_of_work>
 
-[3] NPoS共识算法 <https://w3f-research.readthedocs.io/en/latest/polkadot/NPoS/>
+[3] NPoS Consens Algorithm <https://w3f-research.readthedocs.io/en/latest/polkadot/NPoS/>
 
 [4] XCM <https://github.com/paritytech/xcm-format>
 
@@ -26,4 +26,6 @@
 
 [13] Multi Signature <https://en.bitcoin.it/wiki/Multisignature>
 
-[14] 椭圆曲线加密 <https://en.wikipedia.org/wiki/Elliptic-curve_cryptography>
+[14] EllipticCurve  Cryptography <https://en.wikipedia.org/wiki/Elliptic-curve_cryptography>
+
+[15] Ethereum Sharding <https://eth.wiki/sharding/ethresearch-sharding-compendium>
