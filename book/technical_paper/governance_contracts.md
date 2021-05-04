@@ -1,31 +1,31 @@
 # Nutbox Governance Contracts
 
-Nutbox DAO将通过链上治理的方式运作，在项目稳定运行后所有有关项目的决策都将进行链上投票。Nutbox Governance的实现由一系列相关合约模块组成，其中：
+Nutbox DAO will operate through on-chain governance. After the stable operation of the project, all decisions related to the project will be voted on-chain. The implementation of Nutbox Governance consists of a series of related contract modules, including:
 
 ## Democracy
 
-Democracy Contract 实现Nutbox链上提案投票系统，是链上治理的主要模块。Democracy包含两个Proposal Queue，Internal Proposal Queue和External Proposal Queue。Nutbox官方提交的提案进入Internal Proposal Queue，用户发起的Proposal进入External Proposal Queue。两中类型提案可设置不同的投票策略。
+Democracy Contract can implement Nutbox's on-chain proposal voting system and is the main module of on-chain governance. Democracy contains two Proposal Queues, namely Internal Proposal Queue and External Proposal Queue. Proposals submitted by Nutbox will enter the Internal Proposal Queue, and user-initiated Proposal will enter the External Proposal Queue. Different voting strategies can be set for the two types of proposals.
 
 ## Collective
 
-Collective  Contract维护了一个账户集合，只有Collective集合中的账户才具有投票资格。
+Collective Contract maintains a set of accounts and only accounts in the Collective set are eligible to vote.
 
 ## Elections
 
-Elections Contract实现基于动态权重的去中心化投票系统。用户的投票权重由Staking资金量以及其他条件组合而成。
+Elections Contract can implement a decentralized voting system based on dynamic weights. The user's voting weight is a combination of the amount of staking funds and other conditions.
 
 ## Membership
 
-Membership Contract管理Collective Contract账户集合中的账户，以及设置能够成为Collective账户集合中的限制条件。
+Membership Contract manages the accounts in the Collective Contract account set and sets the restrictions in the Collective account set.
 
 ## Treasury
 
-Treasury Contract负责管理Nutbox DAO的资金，每一笔资金都需要由Nutbox相关Multisig账号签名。
+Treasury Contract manages the funds of Nutbox DAO and each fund needs to be signed by the relevant Nutbox Multisig account.
 
 ## Multisig
 
-Multisig[13]Contract实现Nutbox多重签名账号。
+Multisig [13] Contract is used to implement Nutbox's multi-signature accounts.
 
 ## Sudo
 
-Nutbox Sudo用于管理并设置Nutbox合约，比如用于配置LTBSV、TEG签名验证器等。
+Nutbox Sudo is used to manage and set up Nutbox contracts, such as configuring LTBSV, TEG signature verifier, etc.
