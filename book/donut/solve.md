@@ -1,5 +1,11 @@
-# 要解决的问题
+# Background
 
-Steem 作为第一个大规模采用的，基于区块链的公共内容平台，曾经被上百个社区使用。然而，由于Steem Blockchain缺乏智能合约和侧链，一直无法得到有效拓展。且steemit.inc自2017年主导开发的Steem 2.0 —— 智能媒体通证协议（SMTs），以让社区具有发行“Proof of Brain”机制社区通证的能力，最后也无疾而终。
+Steem Blockchain is the First and the largest public contents platform based on blockchain, which is used by many communities. The value of Steem from mutual content is just like the Bitcoin to digital asset. However, since Steem blockchain is lack of smart contract layer and sidechain, its interpolation ability is limited. Furthermore, a project called smart media token protocol (SMTs) which was leaded by Steem.inc. The project will finally help every community have the ability to issue a kind of community token that will be a part of mechanism of "proof of brain". Consequently, the project ended without result. 
 
-Donut network专注于做好Steem与Polkadot生态的桥接，让Steem上的社区创始人无需过多关注基础设施，只需更多专注于其社区的运营。理想情况下，社区创始人可以通过Donut，将其社区与Polkadot生态进行组合，实现社区需要的DApp。Donut network解决了两个主要问题：跨链资产互通和智能媒体通证发行。
+## The problem need to solve
+
+Donut network focus to bridge the ecosystem between Steem andPolkadot. With Donut, the founders of community can focus themselves over the community operation rather than technical IT infrastructure. In the ideal condition, with Donut, the founders of community can create DeFi and NFT module, issue community token through Donut and make a combination of community and other ecosystem on the Polkadot. 
+
+In the process, Donut Network will sove two main problem: 1, to transfer assets across blockchains; 2, smart contract support. Because of these two solution, community founder can use itself community token to incentive its community development and social communication by rewarding people who contribute community with crypto currencies. Based on that, smart contract makes community develop much more DeFi and NFT digital scenario needs.
+
+Through the Polkadot, Donut digitalized the communities, it not only benefit communities on the Steem to involve token, DeFi, and NFT scenarios. It also help the projects on Polkadot allocate their mutual content module, encourage community development and social communication.
