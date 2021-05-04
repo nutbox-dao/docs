@@ -1,71 +1,75 @@
 # Open Community Staking Protocol(OCSP) Contract
 
-OCSP是一套标准的合约模板，用于部署用户的资产质押业务。借助于OCSP合约，创建基于tToken的资产兑换网关和cToken的分发器，即用户进行原生资产和tToken的兑换，以及基于tToken的抵押获取cToken收益的业务逻辑。在这里，tToken和cToken均代表Nutbox网络中的两种资产类别，并非指特定的一个资产。
+OCSP is a standard set of contract templates for deploying a user's asset staking business. With the OCSP contract, a tToken-based asset exchange gateway and a cToken distributor are created, that is, the business logic for users to exchange underlying assets and tTokens, as well as obtain cToken income through tToken-based staking. Here, both tToken and cToken represent two asset categories in the Nutbox network and do not refer to a specific asset.
 
 ## Contract Topology
 
  ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/contract-topology.png)
  
- 图3 contract topology
+Figure3, Contract Topology
 
-如上图所示，OCSP主要由Registration、StakingTemplate、StakingFactory、BridgeProxy四个主要模块组成。
+As shown in the figure above, OCSP is mainly composed of four main modules: Registration, StakingTemplate, StakingFactory, and BridgeProxy.
 * Registration
-Registration合约用于个人或组织向Nutbox提交注册信息。
+Registration contract is used by individuals or organizations to submit registration information to Nutbox.
+
 * StakingTemplate
-StakingTemplate合约模块包含了Nutbox实现的基于tToken的Staking经济模型，借助于该合约模板，可以创建抵押tToken或者为tToken-cToken交易对提供流动性挖cToken的抵押业务。
+StakingTemplate contract contains the tToken-based staking economic model implemented by Nutbox. With this contract template, it is possible to create a staking tToken or provide liquidity for tToken-cToken trading pairs to mine cToken staking business.
+
 * StakingFactory
-StakingFactory工厂合约用于产生StakingTemplate合约模板。
+StakingFactory contract is used to generate the StakingTemplate instances.
+
 * BridgeProxy
-BridgeProxy合约根据区块链网络的实现各有不同，在支持智能合约的区块链网络中将通过智能合约实现，比如以太坊网络中是一段solidity合约，而在Steem网络中就只是一个Steem网络中的账号。主要被跨链桥用于获取原区块链网络中与Nutbox相关的资产转移行为。
+BridgeProxy contract varies according to the implementation of the blockchain network. In a blockchain network that supports smart contracts, it will be implemented through smart contracts. For example, in the Ethereum network it is a Solidity contract, while in the Steem network it is just an account in the Steem network. It is primarily used by cross-chain Bridges to capture Nutbox-related asset transfer behavior in the original blockchain network.
 
 ## Multi-Chain tToken
 
-在 Nutbox 上，用户抵押原有 PoS 区块链网络的资产，获取 Nutbox 网络中对应的 tToken，tToken 与原有资产 1：1 兑换。例如，用户在 Nutbox 网络里将持有的 DOT 兑换为 tDOT，tDOT 可以参与 Nutbox 网络里所有 Polkadot 生态的项目的质押挖矿，即抵押 tDOT，获取对应社区的代币 cToken。Nutbox 将结合跨链桥技术和 polkadot XCM 支持多个 PoS 区块链网络的资产兑换。
+On Nutbox, users stake the assets of the original PoS blockchain network to obtain the corresponding tTokens in the Nutbox network, which are exchanged 1:1 with the underlying assets. For example, a user in the Nutbox network can exchange DOT holdings for tDOT, which can participate in the Nutbox staking mining of all Polkadot ecological projects, i.e., stake tDOT to obtain the corresponding community's cTokens. Nutbox will combine cross-chain bridge technology and Polkadot XCM to support asset exchange across multiple PoS blockchain networks.
 
 ### tToken Exchange Gateway（TEG）
 
-TEG contract(Nutbox 作为合约部署)和TEG pallet[5](Nutbox 作为 Polkadot Parachain 时)负责实现 Nutbox 网络的跨链资产兑换网关。
+TEG contract (Nutbox is deployed as a contract) and TEG pallet [5] (Nutbox is used as Polkadot Parachain) are responsible for implementing the cross-chain asset exchange gateway of the Nutbox network.
 
  ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/tToken-exchange-gateway.png)
  
- 图 4 tToken Exchange Gateway
+Figure4, tToken Exchange Gateway
 
-如上图所示，当用户用原生资产兑换tToken时，原生资产将会被锁在TEG Contract内，LTBSV验证用户资产的锁定状态【详见Deposit proof章节】，验证通过将产生对应数量的tToken到用户Nutbox账户中；用户赎回时TEG合约验证用户的tToken燃烧状态【详见tToken Buning Contract章节】，验证通过后将解锁用户锁定在TEG Contract中的原生资产。
+As shown in the figure above, when a user exchanges a native asset for tToken, the native asset will be locked in the TEG Contract, and LTBSV verifies that if the user's asset is locked [shown in the Deposit proof section for details], when the verification is passed,it will generate a corresponding amount of tToken to the user In the Nutbox account; the TEG contract verifies the user’s tToken burning status when the user redeems it [shown in the tToken Burning Contract section for details], and when the verification is passed, the user’s native assets locked in the TEG Contract will be unlocked.
 
 ### Bridge Proxy Contract
 
-桥代理合约为 Nutbox 部署到原区块链网络中的智能合约，负责存储并转移原区块链网络中的资产。资产转移完全去中心化，任何人需要从 Proxy Contract 转出资产都需要提供 Withdraw proof。经过验证后方可从合约转移资产到自己的账户中。
+The bridge proxy contract is a smart contract deployed by Nutbox to the original blockchain network and is responsible for storing and transferring assets in the original blockchain network. Asset transfer is completely decentralized. Anyone who needs to transfer assets from Proxy Contract needs to provide Withdraw proof. After verification, you can transfer assets from the contract to your own account.
 
 ### tToken Issue Contract
 
-tToken 的发行需要用户提供 Deposit proof【见 4.2.3】，Deposit proof 由 Nutbox 在用户将原区块链资产存入 Nutbox 代理合约时由LTBSV颁发给用户。用户提交Deposit proof 后，TEG的tToken Issue Contract首先验证 Deposit proof 的签名信息，经过验证的 Deposit proof 被解析为 Deposit MetaData，后者包含用户抵押的原区块链资产的金额。TEG 的tToken Issue Contract随后发行对应数额的 tToken，兑换网关为此创建一个 tToken Issurance Pair，包含了发行的 tToken 数额，用户公钥，解锁时间。处于锁定期的 tToken 将不能兑换为原区块链网络中的代币。
+The issuance of tToken requires the user to provide a deposit proof [shown in 4.2.3]. The deposit proof is issued by the LTBSV to the user when the user deposits the original blockchain assets into the Nutbox proxy contract. After the user submits the Deposit proof, TEG's tToken Issue Contract verifies the signature information of the Deposit proof firstly, and the verified Deposit proof is parsed as Deposit MetaData, which contains the amount of the original blockchain assets staked by the user. TEG's tToken Issue Contract then issues the corresponding amount of tToken, and the exchange gateway creates a tToken Issurance Pair for this , which contains the amount of tToken issued, the user's public key, and the unlock time. The tTokens in the lock-up period cannot be exchanged for tokens in the original blockchain network.
 
  ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/tToken-issue.png)
  
- 图 5 tToken Issurance
+Figure5, tToken Issurance
 
 ### tToken Burning Contract
 
-用户持有的 tToken 在解锁期限到达后，可以在任何时候选择赎回自己未被锁定的 tToken（用户使用 tToken 参与 Nutbox 上的社区代币挖矿同样会被锁定）。用户选择销毁一定数额 tToken 后，TEG的tToken Burning Contract会燃烧掉同等数额 tToken，同时Nutbox向用户颁发 Withdraw proof，代理合约会验证 Withdraw proof 签名信息，验证通过后解析出 Withdraw MetaData，后者包含用户需要解锁的 tToken 数额以及用户在原区块链网络中的账户公钥。随后，代理合约将指定数额的原区块链资产转移到用户原区块链网络账户中。
+When the unlocking time is reached, users can choose to redeem their unlocked tTokens at any time (users who use tTokens to participate in community token mining on Nutbox will also be locked). After the user chooses to burn a certain amount of tToken, TEG’s tToken Burning Contract will burn the same amount of tToken, and Nutbox will issue a Withdraw proof to the user. The proxy contract will verify the Withdraw proof signature information. After the verification is passed, the Withdraw MetaData will be parsed out, which contains the amount of tTokens that the user needs to unlock and the user's public key in the original blockchain. Then, the proxy contract transfers the specified amount of original blockchain assets to the user's original blockchain network account.
 
  ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/tToken-Buning.png)
  
- 图 6 tToken Burning
+Figure6, tToken Burning
 
 ## Community Token(cToken) Mining & Distribution
 
-cToken为任何组织或个人创建自己staking economy时指定的社区代币，一个基本的分发策略便是抵押tToken挖cToken，Nutbox支持多种cToken分发策略，用户可以自己指定。
+cToken is the community token specified when any organization or individual creates their own staking economy. A basic distribution strategy is to stake tToken to mine cToken. Nutbox supports a variety of cToken distribution strategies, which users can specify by themselves.
 
-cToken的挖矿算法中，我们引入了两个主要的变量因子
+In the cToken mining algorithm, we have introduced two main variable factors.
+
 
 * shareAccumulate
 
-共享累计因子，全局变量因子，所有用户的奖励计算都将使用到，用pool.shareAcc表示。其中pool对应为一个抵押资产种类，例如抵押tDOT和抵押tDOT- USDT交易对的LP Token分别对应两个pool，每个pool的分润比例可以设置。
+Shared cumulative factors, global variable factors, will be used  for all user reward calculations , represented by pool.shareAcc. The pool corresponds to one type of staking asset. For example, staking tDOT and staking the LP of the tDOT-USDT trading pair correspond to two pools respectively, and the profit sharing ratio of each pool can be configured.
 
 * debtRewards
 
-用户私有变量因子，表示计算该用户奖励时需要剔除的奖励额度，用user.debtRewards表示。
+User private variable factor, which represents the amount of reward that needs to be excluded when calculating the user's reward,  represented by user.debtRewards. 
 
- ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/math01.png)
+ ![Image text](http://wherein.mobi/wp-content/uploads/2021/05/peanut12.png)
 
-设置好cToken的分发策略后参与抵押的用户将会按区块获取对应数额的cToken奖励。
+After setting up the cToken distribution strategy, the users participating in the staking will get the corresponding amount of cToken rewards according to the block.
