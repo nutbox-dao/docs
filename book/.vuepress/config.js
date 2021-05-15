@@ -36,7 +36,6 @@ module.exports = {
         'economy',
         'dao_governance',
         'appendix',
-        'nutbox_economy',
         'roadmaps',
         'documents'
       ],
