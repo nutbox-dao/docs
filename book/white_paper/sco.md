@@ -1,59 +1,130 @@
-# Staking coin offering
+# Nutbox
 
-Staking coin offering（SCO）是一种全新的链上资产发行方式。在ICO中，项目发起者要说服投资者一次性购买发行的新代币。而在SCO中，项目发起者需要说服投资者将资产质押到代币发行机构，并用质押收益持续购买项目的代币。
+Nutbox is composed of a series of protocols, and it will not be ruled out to become a Polkadot ecological parachain in the later stage to better serve DAO.
 
-## Staking reward与Staking coin offering
+As an intermediate layer between staking and DAO, Nutbox is first a Protocol Factory, providing standard protocols including Crowd-staking, DApp, DAO Governance, etc. At the same time, Nutbox also interoperates with other basic layer protocols through its cross-chain protocol and Polkadot relay-chain. The protocol set will be continuously supplemented in the development process to meet the development needs of DAO.
 
-Staking reward让SCO成为一个激动人心的创新。非技术项目创始人可以使用SCO智能合约在链上发行项目代币（communityToken，简称cToken）并以Staking的方式进行分发。用户只需质押PoS链资产到项目的链上节点（投票或代理等），就可以赚取cToken，项目方则获得Staking reward。比如，在Polkadot中，使用质押DOT提名Nutbox的验证者，可定期获得cToken。
+![Image text](http://wherein.mobi/wp-content/uploads/2021/05/nutbox.png)
 
-与IEO、IDO、ICO不同，SCO延长了代币发行周期，以现金流方式支持项目方，降低了项目违约风险。SCO作为一种加密货币项目融资的方式，亦可解决以往的一些经典问题，例如缺乏问责制和流动性，以及代币投放市场初期的不完善价格发现机制。
+## Crowd-staking Protocol
 
-## SCO的几种形式
+Crowd-staking is a brand new way of asset distribution on the chain. The Staking reward in the Proof of Stake consensus mechanism makes Crowd-staking an exciting innovation. 
 
-根据PoS机制的不同，SCO主要有以下情形（cToken以Peanut社区PNUT为例）：
+### Staking mint cToken
 
-### 投票社区验证者获cToken
+The founders of non-technical projects can use Crowd-staking to distribute DAO tokens (communityToken, cToken for short) on the chain and distribute them in the form of staking. Users who make a certain contribution to DAO (such as transfer of use rights, voting rights, dividend rights and other rights, provide liquidity for DAO, etc.), will automatically receive cToken rewards. The mainstream Crowd-staking protocol supports the distribution of cToken in the following main situations:
 
-用户可以使用Staking Token的投票权，为可信的社区验证者（或见证人）投票获得cToken。例如用钱包里Staking Token（质押的DOT）通过SCO协议投票Nutbox.validator_peanut，获得PNUT。
+1) Delegate PoS chain staking asset usage rights to DAO. For example, in the Steem blockchain, the people who delegate staking STEEM (STEEM POWER) to the DAO will receive PNUT (the cToken of the Peanut community).
 
-<p align="center">
+2) Voting for validators of the PoS chain supported by DAO. For example, in the Polkadot ecosystem, using a staking DOT to vote for a certain DAO verifier will obtain the corresponding cToken.
 
-![Image text](http://wherein.mobi/wp-content/uploads/2021/03/Selecting-trustworthy-validators.png)
+3) Support DAO to obtain certain rights. For example, in the Polkadot parachain slot auction, DOT is used to support specific parachains to participate in the slot auction, and the cToken corresponding to the parachain can be obtained.
 
-</p>
+4) Support specific products of DAO and DApps participating in DAO. For example, in the Steem blockchain, if you post a post, and someone upvote you post, you can get STEEM.
 
-### 代理Staking Token获cToken
+5) Provide liquidity for trading pairs supported by DAO. For example, in the Peanut community, save PNUT-TRX LP to mint PNUT.
 
-对于某些PoS共识链，Staking Token的使用权可以进行代理，用户可将Staking Token的使用权代理给Peanut社区（Nutbox v1）获得PNUT。例如将钱包里的Staking Token代理给peanut.mine，获得PNUT。
+6) Other liquidity incentives provided by Compound, SushiSwap, Pancake, etc.
 
-![Image text](http://wherein.mobi/wp-content/uploads/2021/03/Delegation-SP-Mint-cToken.png)
+### Advantage
 
-## 多链或多种形式开启SCO
+For 1) and 2), the ownership of Staking assets has always been in the hands of investors, and no ownership transfer has occurred at any time. In this model, if investors are very dissatisfied with the progress of the DAO founding team, they can cancel their support for the founding team at any time.
 
-对于社区用户拥有不同PoS链资产，或者同一条链有不同的质押方式的情况，Nutbox SCO通过多矿池对此进行支持。SCO将根据各矿池Staking reward的比例，对各矿池分发不同数量的cToken。
+Investors transfer rights to use digital assets, voting rights, and dividend rights, indirectly supporting the development of DAO in the form of cash flow, reducing the risk of default by the DAO founding team. Crowd-staking has realized DAICO advocated by Vitalik for many years in a very clever form, which can be used as an economic model to support the founding team of DAO.
+
+3) It is the way that the Polkadot network rents out the scarce resource of parachain slots, and the DAO calls on the community to obtain this scarce resource together. 4) It is to reward community building and social interaction.
+
+For 5) and 6), users participate in the construction of the DAO economic ecology through decentralized contracts, and also solve some classic problems in the past, such as liquidity and the imperfect price discovery mechanism in the initial stage of cToken's launch on the market.
+
+### cToken: Multi-mining pool
+
+For DAO users who have different PoS chain assets, or the same chain has different staking methods, Crowd-staking supports this through multiple mining pools. Crowd-staking will distribute different amounts of cToken to each mining pool based on the proportion of staking rewards in each mining pool or the proportion defined by the community. 
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/cToken.png)
 
-Nutbox通过Staking_pool_ratio（质押奖励挖矿比，简称spr）决定各矿池cToken分发的比例。spr与质押资产的价格（Staking_Token_price）、质押奖励（Staking_Token_reward）和挖矿系数（Mining_Token_ratio）有关。
+## cToken Repurchase Protocol
 
-假设Peanut社区支持ETH和Polkadot两条PoS链，参与ETH2.0以及质押DOT投票都可以获得PNUT（Peanut社区cToken）。使用质押DOT通过Peanut投票Nutbox.validator的矿池记为dPNUT，则：
+Nutbox will also provide a variety of decentralized repurchase protocol such as triggered transactions and Dutch auctions to help the community establish a repurchase strategy, inject DAO's income (Staking Reward) into cToken, and support the value of cToken. The repurchased cToken can be destroyed or provide liquidity for cToken trading pairs. It can also be retained as a "treasury token" and used for other purposes in the future, which will be determined by the cToken holder. 
 
-![Image text](http://wherein.mobi/wp-content/uploads/2021/03/spr.png)
+## Staking Liquidity Protocol
 
-dPNUT=Spr（dPNUT）× PNUT
+The liquidity of Staking Token has always been a limitation of the PoS chain. For most blockchain projects that use PoS, if Token, which be staking, need to be transacted, there is a certain unlock period. During this period, users cannot trade staking assets. 
 
-Spr将由系统根据各链和矿池数据，每6小时更新一次。
+### tToken
 
-多池SCO可帮助社区成员支持其项目，而无需更改抵押资产组合的结构。 它还扩大了社区项目的财政资源。比如Polkadot的项目一样支持ETH2.0上的利息支持。
+Nutbox uniformly realizes the liquidity of similar assets in all PoS Chain through tToken (tradeToken, the liquidity token of Staking Token). Each type of PoS Chain token corresponds to a different tToken. For example, tDOT corresponds to staking DOT, tETH corresponds to ETH participating in ETH2.0, and tSP corresponds to STEEM POWER.
 
-## Staking reward回购cToken
+PoS Token holders can stake or redeem assets through the Nutbox staking-assets smart contract, without third-party intervention. When Token holders initiate staking to the Nutbox staking contract, they can obtain tToken 1:1. tToken that represents the ownership of the corresponding Staking Token. At the same time, any holder of tToken can initiate redemption to the corresponding Nutbox staking asset liquidity agreement anytime and anywhere, and Staking Token will be sent to the corresponding account after unlocking.
 
-cToken的价值是以社区权益为价值支撑的。社区获得了用户Staking Token的Staking reward后可以选择用Staking reward回购cToken。Nutbox提供了触发式交易、荷兰式拍卖等多种合约，帮助社区建立回购策略。
+![Image text](http://wherein.mobi/wp-content/uploads/2021/03/tToken.png)
 
-回购的cToken可以进行销毁或为cToken的交易对提供流动性，还可以作为“库藏代币”保留，日后移作他用，这将由cToken持有人决定。
+### Advantages of tToken
 
-## cToken - 社区成长涡轮
+Nutbox separates Staking reward from Staking Token, creating conditions for the community to distribute cToken through Crowd-staking;
+1. All DAOs share the same tToken, which increases the liquidity of the market;
+2. tToken releases the liquidity limit of Staking Token;
+3. tToken has spawned a new asset class with staking attributes and expanded the market for digital assets. 
 
-使用SCO发行社区代币（cToken）的项目，cToken采用衰减式发行，质押挖矿的收益却随着Staking挖矿规模的增长而增长。如果采用收益回购模式下，将带来cToken价格机制性上涨。用户拥有持有cToken投资动机，而延迟兑付将提高质押挖矿的收益率。
+## tToken's liquidity incentive
 
-同时，所有代币持有者就拥有了cToken这个共同利益。只有让社区壮大，社区Staking挖矿规模增加，才能让cToken增值。即使不考虑任何的引流模型，每一个投资社区Staking挖矿的成员都有动力增加社区Staking挖矿的规模。cToken本身就是一个社区成长的加速涡轮。
+Under the Nutbox economic model, 5% of PNUT will be reserved for incentivizing tToken liquidity. This part of Token will be distributed according to the value generated by users' generation, holding, and circulation of tToken, including but not limited to providing liquidity for tToken, incentivizing third-party integration of tToken, etc. The specific distribution ratio and details will be decided by a referendum every six months.
+
+Nutbox will also encourage more developers to integrate the Nutbox staking liquidity protocol into its wallet, DApp, Exchange or community. Users can generate channel parameters by using the Nutbox Staking Liquidity protocol. The parameters will record the contribution of the corresponding channel based on the value of Token staking. In the tToken liquidity incentive fund pool, 30% of the shares will be used to incentivize channel contributions, which will greatly encourage the integration of channel channels.
+
+Other protocols that motivate tToken liquidity include: 1) synthesize various tTokens in the same network, 2) and support other staking liquidity protocols such as LToken, vToken, and rToken to generate tToken. Nutbox will be discussed in a more detailed document. 
+
+### tToken + DeFi
+
+As a new asset class, tToken-Token requires different trading and lending algorithms due to its connection with Token. Nutbox will cooperate with third parties to develop a trading and lending platform suitable for tToken-Token.
+
+On this basis, tToken will open a "tToken+DeFi" market, where DeFi products on Ethereum will be developed. Nutbox adopts the "tToken + cToken" approach. Many DAOs on it will use tToken to share liquidity and use cases. This makes "tToken + DeFi" an expected direction. 
+
+## DApp Factory
+
+The value of DAO needs DApp to provide support. To a certain extent, it can be seen that community members converge into DAO, and DAO provides services to community members through DApp.
+
+### Community DeFi
+
+Nutbox DeFi launcher provides a series of components for the DAO founding team, so that DAO can combine tToken, cToken and other assets with various DeFi to create its own Community DeFi.
+
+DAO members can participate in DeFi services such as transactions, lending, and liquidity mining in Community DeFi. DAO can distribute 1/6 of the Community DeFi service fee to DAO Fund just like Sushiswap to support the development of the community.
+
+For example, through the api provided by Dex, Nutbox enables the DAO founding team to automatically create CommunitySwap based on cToken and tToken, and CommunitySwap shares liquidity with Dex. Through the Community DeFi module, DAO will provide community members with DeFi services that are different from UniSwap, SushiSwap, Pancake, and Compound.
+
+By making the Nutbox DeFi launcher open source, the community and investors can know that any DeFi they participate in is reliable. On the basis of security, Nutbox DeFi launcher allows any community to have the ability to combine DeFi modules to create Community DeFi. 
+
+### Community Social Media
+
+Nutbox will bring Community Social Media to DAO through Donut-A corss-chain Social Meida bridge. On the basis of Community Social Media, the DAO founding team can use Nutbox DApp launcher to build many application modules and expand its DApp.
+
+Nutbox combines WordPress with Steem Blockchain to create Community Social Media based on Steem Blockchain for the WhereIN community-the wherein applet. Users can use WeChat to log in to the where applet, publish content, and get STEEM (Steem Blockchain native token) rewards. Community users can also purchase WhereIN related products on the Wherein applet, communicate with other users online, and even view the digital assets owned by the account.
+
+Through this type of combination, members of the WhereIN community have enjoyed the benefits of Steem Blockchain with the experience of the Internet. This also made a simple template for overlaying applications on Community Social Media.
+
+Pursuing a "code-free" approach, the Nutbox DApp launcher combines various application scenarios required by the community, and constructs them into the DApp as constructing Lego blocks. These application modules will be realized through many parachains and cross-chain bridges on Polkadot. The Nutbox DApp launcher integrates these services and provides them to the DAO in the form of APIs.
+
+### NFT+
+
+The NFT standard is the key link that connects the physical world/Internet world and the value Internet world. The NFT standard introduces non-homogeneous digital assets into the blockchain world, enabling it to be combined with other modules on the blockchain through smart contracts. This is a larger asset class and an asset owned by ordinary users. The NFT standard allows developers to build decentralized applications on larger market-scale assets (NFT).
+
+Another concern is that the NFT standard allows NFT to easily move between multiple ecosystems. When openers start a new NFT project, these NFTs can be immediately viewed in dozens of different wallet programs, can be traded in the market, or displayed in the virtual world. This brings about free trading in the open market. Users can transfer NFTs representing items to a new market, and use complex transaction functions (such as eBay auctions, bidding, and bundling sales) to sell them as any kind of digital assets.
+
+For many organizations, this represents a transition from a closed economy to an open and free market economy. For example, game developers no longer need to manage every aspect of the economy: from resource supply to pricing, to capital control, they can let the free market take on this important task.
+
+What DAO needs most is a free market. In such a market, DApps will develop better. Nutbox DApp launcher will support the NFT protocol, so that the DAO founding team will be equipped with DAO's NFT module just like other modules, so that DAO can spread faster. 
+
+## DAO Governance Factory
+
+Through a series of standard contracts, Nutbox Governance Factory allows non-technical DAO founders to configure their DAO governance module at the beginning of the DAO launch. The DAO fund comes from the Crowd-staking multi-mining pool distribution part.
+
+Community DAO enables the project to be ultimately managed by its community. Contributors hand in proposals, which are discussed on the community media, and are voted by community members. All proposals need to be passed by the community before to be implemented. Community DAO gives the community the ability to reward some non-standard contributions. The proposal and voting process is as follows:
+
+Community contributors submit proposals;
+
+The community fully discussed the proposal;
+
+cToken POWER holders vote on the proposal;
+
+DAO Fund automatically distributes cToken to the passed proposal;
+
+cToken Voting POWER can be set according to the situation: 1) Each staking cToken is equivalent to 1 cToken POWER; 2) Each cToken in the cToken-DOT pool or cToken-tToken pool is equivalent to 2 cToken POWER; 
