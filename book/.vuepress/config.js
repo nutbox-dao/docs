@@ -33,7 +33,7 @@ module.exports = {
         'background',
         'nutbox',
         'applications',
-        'yield_farming',
+        'economy',
         'community_dao',
         'dapp_launcher',
         'security_pos',
