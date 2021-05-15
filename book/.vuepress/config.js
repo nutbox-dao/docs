@@ -31,7 +31,7 @@ module.exports = {
       ],
       '/white_paper/': [
         'background',
-        'sco',
+        'nutbox',
         'lst',
         'yield_farming',
         'community_dao',
