@@ -35,10 +35,8 @@ module.exports = {
         'applications',
         'economy',
         'dao_governance',
-        'dapp_launcher',
-        'security_pos',
+        'appendix',
         'nutbox_economy',
-        'nutbox_dao',
         'roadmaps',
         'documents'
       ],
