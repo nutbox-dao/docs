@@ -2,29 +2,24 @@
 
 ## 2020.08-2020.12
 
-* Nutbox v0.1 for Steem and TRX
+* a staking platform based on Steem and Tron blockchains —— Peanut goes online
 
 ### 2021 Q1
 
-* Nutbox v0.2 for Steem and Tron
-* Donut test Steem（Hive） and Polkadot Cross-chain bridge
+* Nutbox.crowdloan launches Polkadot ecological testnet Rococo, supporting parachain slot auctions
 
 ## 2021 Q2
 
-* Nutbox v2 for Binance smart chain（or Ethereum ） and Polkadot
-* Nutbox v2 Staking Coin offering protocol（Base on Polkadot - Plasm）
+* Nutbox v2 pre-test goes online, start liquidity incentives
    
 ## 2021 Q3
 
-* Nutbox v2 DeFi launcher for community（Base on Plasm parachain）
-* Nutbox v2 Yield Farming launcher for community（Base on Plasm parachain）
+* Nutbox v2 support more PoS Chain (BSC, ETH2.0, Near, solana,etc)
 
 ## 2021 Q4
 
-* Add Donut to Nutbox v2 for Every Nutbox ecosystem Community
+* Donut —— A cross-chain bridge of Steem Blockchain and Polkadot
 
 ## 2022 -
 
-* Nutbox v2 main-chain base on substrate
-* Nutbox v2 for Polkadot parachain
-* more
+* Nutbox for Polkadot parachain, supports more blockchain communities to build DAO and enrich the DAO Factory protocol
