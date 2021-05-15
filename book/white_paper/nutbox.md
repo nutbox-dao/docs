@@ -42,7 +42,7 @@ For DAO users who have different PoS chain assets, or the same chain has differe
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/cToken.png)
 
-## cToken Repurchase Protocol
+### cToken Repurchase Protocol
 
 Nutbox will also provide a variety of decentralized repurchase protocol such as triggered transactions and Dutch auctions to help the community establish a repurchase strategy, inject DAO's income (Staking Reward) into cToken, and support the value of cToken. The repurchased cToken can be destroyed or provide liquidity for cToken trading pairs. It can also be retained as a "treasury token" and used for other purposes in the future, which will be determined by the cToken holder. 
 
