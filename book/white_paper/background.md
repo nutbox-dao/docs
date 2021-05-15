@@ -30,7 +30,7 @@ The staking reward makes Staking Airdrop an exciting innovation. Non-technical p
   
 Unlike IEO, IDO, and ICO, Staking Airdrop extends the token issuance cycle, supports the project party in the form of cash flow, and reduces the default risk of project. Staking Airdrop, as a method of financing cryptocurrency projects, can also solve some classic problems in the past, such as lack of accountability and liquidity, and the imperfect price diStaking Airdropvery mechanism in the initial stage of token launch.
 
-# Large-scale and rapid production of DAO
+## Large-scale and rapid production of DAO
 
 Considering the dilemma faced by DAO, Nutbox uses the following modules to achieve large-scale adoption of DAO:
 
