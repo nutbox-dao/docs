@@ -32,7 +32,7 @@ module.exports = {
       '/white_paper/': [
         'background',
         'nutbox',
-        'lst',
+        'applications',
         'yield_farming',
         'community_dao',
         'dapp_launcher',
