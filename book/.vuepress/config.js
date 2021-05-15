@@ -34,7 +34,7 @@ module.exports = {
         'nutbox',
         'applications',
         'economy',
-        'community_dao',
+        'dao_governance',
         'dapp_launcher',
         'security_pos',
         'nutbox_economy',
