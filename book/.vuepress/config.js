@@ -1,6 +1,6 @@
 module.exports = {
   // title: 'Nutbox',
-  description: 'Y Combinator of Steem Blockchain',
+  description: 'Build Your Own Staking Economy',
   themeConfig: {
     logo: '/logo.svg',
     sidebar: {
