@@ -4,17 +4,6 @@ module.exports = {
   themeConfig: {
     logo: '/logo.svg',
     sidebar: {
-      '/lite_paper_v2/': [
-        'asset_contract',
-        'staking_defi',
-        'dapp',
-        'no_code',
-        'application_examples',
-        'two_network',
-        'economic',
-        'governance',
-        'roadmaps'
-      ],
       '/lite_paper_v1/': [
         'pnut',
         'tsp',
@@ -56,7 +45,6 @@ module.exports = {
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Lite Paper v2', link: '/lite_paper_v2/' },
       { text: 'Lite Paper v1', link: '/lite_paper_v1/' },
       { text: 'White Paper', link: '/white_paper/' },
       { text: 'Technical Paper', link: '/technical_paper/' },
