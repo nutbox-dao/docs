@@ -23,7 +23,7 @@ module.exports = {
         'governance_contracts',
         'references'
       ],
-      '/peanut_lite_paper/': [
+      '/lite_paper_v1/': [
         'pnut',
         'tsp',
         'bridge',
