@@ -47,7 +47,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'White Paper', link: '/white_paper/' },
       { text: 'Technical Paper', link: '/technical_paper/' },
-      { text: 'Peanut Lite Paper', link: '/peanut_lite_paper/' },
+      { text: 'Peanut Lite Paper', link: '/lite_paper_v1/' },
       { text: 'Donut', link: '/donut/' }
     ],
     displayAllHeaders: true,
