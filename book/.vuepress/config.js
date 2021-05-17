@@ -4,20 +4,6 @@ module.exports = {
   themeConfig: {
     logo: '/logo.svg',
     sidebar: {
-      '/lite_paper_v1/': [
-        'pnut',
-        'tsp',
-        'bridge',
-        'tsteem_defi',
-        'pnut_economic',
-        'nutbox_v1',
-        'roadmaps',
-        'contract_account',
-        'community',
-        'donation',
-        'user_guide',
-        'faq'
-      ],
       '/white_paper/': [
         'background',
         'nutbox',
@@ -37,6 +23,20 @@ module.exports = {
         'governance_contracts',
         'references'
       ],
+      '/peanut_lite_paper/': [
+        'pnut',
+        'tsp',
+        'bridge',
+        'tsteem_defi',
+        'pnut_economic',
+        'nutbox_v1',
+        'roadmaps',
+        'contract_account',
+        'community',
+        'donation',
+        'user_guide',
+        'faq'
+      ],
       '/donut/': [
         'solve',
         'structure',
@@ -45,9 +45,9 @@ module.exports = {
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Lite Paper v1', link: '/lite_paper_v1/' },
       { text: 'White Paper', link: '/white_paper/' },
       { text: 'Technical Paper', link: '/technical_paper/' },
+      { text: 'Peanut Lite Paper', link: '/peanut_lite_paper/' },
       { text: 'Donut', link: '/donut/' }
     ],
     displayAllHeaders: true,
