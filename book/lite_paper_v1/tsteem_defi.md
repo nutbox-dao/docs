@@ -16,7 +16,7 @@ TSP的拥有者可以在获得质押奖励的同时，花费少量手续费和�
 
 ## 流动性挖矿
 
-Nutbox v1作为一个社区质押平台，为Steem资产持有者的资产流动性以金融需求提供服务。Nutbox v1亦将在社区同意的情况下，对JustSwap交易所上 PNUT-TRX、TSTEEM-TRX、TSP-TRX等交易对的流动性提供者进行激励。
+Peanut作为一个社区质押平台，为Steem资产持有者的资产流动性以金融需求提供服务。Peanut亦将在社区同意的情况下，对JustSwap交易所上 PNUT-TRX、TSTEEM-TRX、TSP-TRX等交易对的流动性提供者进行激励。
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/farming-pnut-and-trx.jpg)
 
