@@ -25,20 +25,21 @@ Peanut的智能合约构建在Tron区块链之上。通过Tron区块链，Peanut
 ### PNUT的价值支撑？
 
 PNUT的价值主要来自两方面：
-    * peanut committee对PNUT的回购；
-    * peanut.dao投资孵化Steem上DApp后，DApp取得成绩后，对peanut的回报；
+* peanut committee对PNUT的回购；
+* peanut.dao投资孵化Steem上DApp后，DApp取得成绩后，对peanut的回报；
     
 PNUT除了定期会有减半，每天分发量在一定时间段内是固定的。故peanut获得的策展奖励越多，对PNUT的价格的支撑越明显，即PNUT的价格会随着peanut获得的SP增长而增长；
 
 ### PNUT的应用场景？
 
 PNUT会参与到peanut丰富的应用场景之中，可以预料的有：
-    * 为PNUT/TRX提供流动性，获得交易费奖励；
-    * 持有PNUT即享受对策展人投票的权利；
-    * 持有PNUT间接拥有peanut提案投票系统的投票权，参与社区治理；
-    * 拥有PNUT可参与peanut合作平台的各种经济活动，比如多轮打榜；
-    * 享受peanut各项权益；
-    * 参与投票，决定peanut.dao投资孵化的DApp；
+
+* 为PNUT/TRX提供流动性，获得交易费奖励；
+* 持有PNUT即享受对策展人投票的权利；
+* 持有PNUT间接拥有peanut提案投票系统的投票权，参与社区治理；
+* 拥有PNUT可参与peanut合作平台的各种经济活动，比如多轮打榜；
+* 享受peanut各项权益；
+* 参与投票，决定peanut.dao投资孵化的DApp；
 
 ### 关于TSP？
 
