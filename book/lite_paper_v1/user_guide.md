@@ -4,11 +4,11 @@
 
 <https://blog.nutbox.io/@abcallen/wherein-1615473875336-s>
  
-## nutbox挖矿说明书 | 如何通过nutbox.io挖矿PNUT【基础篇SP挖矿】
+## Peanut挖矿说明书 | 如何通过peanut.nutbox.io挖矿PNUT【基础篇SP挖矿】
 
 <https://blog.nutbox.io/@abcallen/wherein-1615536657147-s>
  
-## nutbox挖矿说明书 | 如何通过nutbox.io挖矿PNUT【中级篇TSP挖矿PNUT】
+## Peanut挖矿说明书 | 如何通过peanut.nutbox.io挖矿PNUT【中级篇TSP挖矿PNUT】
 
 <https://blog.nutbox.io/@abcallen/wherein-1615700270959-s>
 
