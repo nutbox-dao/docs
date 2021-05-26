@@ -20,15 +20,15 @@
 
 ### Steem BlockChain
 
-* Nutbox Mine：nutbox.mine
-* Nutbox Swap：nutbox.dex
-* Nutbox DAO：nutbox.dao
-* Nutbpx TSP：nutbox-tsp
-* Nutbox Gas：nutbox.gas
+* Peanut Mine：nutbox.mine
+* Peanut Swap：nutbox.dex
+* Peanut DAO：nutbox.dao
+* Peanut TSP：nutbox-tsp
+* Peanut Gas：nutbox.gas
 
 ### Tron BlockChain
 
-* Nutbox Mine：TMLMSuyygN1fL5HpUt1oQp3RjvdEsHZffG
-* Nutbox Swap：TVF1djGJLj3VB87sWawPbFBEzZzcEQYfhN
-* Nutbox DAO：TR8RaKyWV9D4pnJd7P6yvFLaaQZ3Z2SqhA
-* Nutbox Committee：TVTQd54B6wW9RGVZDzbxvf22nzXHpsMsst
+* Peanut Mine：TMLMSuyygN1fL5HpUt1oQp3RjvdEsHZffG
+* Peanut Swap：TVF1djGJLj3VB87sWawPbFBEzZzcEQYfhN
+* Peanut DAO：TR8RaKyWV9D4pnJd7P6yvFLaaQZ3Z2SqhA
+* Peanut Committee：TVTQd54B6wW9RGVZDzbxvf22nzXHpsMsst
