@@ -6,7 +6,7 @@
 
 tToken（tradeToken）代表着质押资产（Staking Token）的流动性凭证。比如，TSP代表着流动、可交易的SP。持有TSP既可以获得质押奖励，亦可以将TSP作为抵押品进行借贷，或者为TSP-TRX的交易对提供流动性，获得交易手续费和流动性挖矿奖励。
 
-Nutbox v1提供了对应的解决方案，以实现上述场景。通过nutbox.io，STEEM持有者可将1  STEEM转化为1 TSP，亦可随时将TSP 1：1赎回成STEEM。
+Peanut 提供了对应的解决方案，以实现上述场景。通过peanut.nutbox.io，STEEM持有者可将1  STEEM转化为1 TSP，亦可随时将TSP 1：1赎回成STEEM。
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/Liquidity-Staking-Token.jpg)
 
