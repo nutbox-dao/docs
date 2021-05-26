@@ -8,9 +8,9 @@ PoW共识机制中，矿工“锁定”能源和硬件资产以获得网络奖�
 
 ## 代理SP获得PNUT
 
-Nutbox v1提供了一种方案：通过nutbox.io，将SP代理给nutbox.mine，即可持续获得PNUT的奖励。
+Peanut提供了一种方案：通过nutbox.io，将SP代理给Peanut（@nutbox.mine），即可持续获得PNUT的奖励。
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/delegation-sp-pnut.jpg)
 
-nutbox.mine将使用用户代理的SP，通过一系列策略获得策展奖励（curator reward，可以看成是Staking reward），然后在公开市场上用curator reward对PNUT进行回购。
+Peanut（@nutbox.mine）将使用用户代理的SP，通过一系列策略获得策展奖励（curator reward，可以看成是Staking reward），然后在公开市场上用curator reward对PNUT进行回购。
 
