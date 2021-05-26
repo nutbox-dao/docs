@@ -12,7 +12,9 @@ Peanut是一个基于Steem区块链的去中心化质押平台。
 
 Peanut还是基于Steem区块链的DeFi平台。您可以将STEEM、SBD一键跨链，1：1兑换成基于Tron的等价资产TSTEEM、TSBD。兑换后的TSTEEM、TSBD可以在Tron上的去中心化交易所JustSwap上进行交易。Peanut亦支持JustSwap上PNUT-TRX资金池凭证（PNUT-TRX LP）、TSP-TRX资金池凭证存入挖矿。
 
-Peanut是一个社区所有的平台。社区伙伴可以提交议案，为社区献计献策。议案一经投票通过，提案者可以按照议案的描述参与社区开发、运营、推广等工作，提案者亦将按照议案获得PNUT的奖励。详细可见https://blog.nutbox.io/@nutbox/nutbox-dao-governance-is-online--the-procedure-of-nutbox-proposal-is-operating--20201105t090030122z
+Peanut是一个社区所有的平台。社区伙伴可以提交议案，为社区献计献策。议案一经投票通过，提案者可以按照议案的描述参与社区开发、运营、推广等工作，提案者亦将按照议案获得PNUT的奖励。
+
+详细可见https://blog.nutbox.io/@nutbox/nutbox-dao-governance-is-online--the-procedure-of-nutbox-proposal-is-operating--20201105t090030122z
 
 ### Peanut与Tron Blockchain的关系？
 
