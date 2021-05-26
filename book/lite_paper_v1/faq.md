@@ -61,7 +61,7 @@ d.The post link is a wrong post link.
 
 通过peanut.nutbox.io代理SP给到Peanut（@nutbox.mine）亦可获得Peanut（@nutbox.mine）给与的点赞。点赞权重比例为「（代理SP数量 × 8/nutbox.mine SP总数量） × 100%」，每天点赞一帖。
 
-### peanut.dao持有的10% PNUT如何安排的？
+### 关于peanut.dao持有的10% PNUT如何安排的？
 
 peanut.dao前期会支持早期贡献者，nutbox v2的开发及运营，最为关键的是支持Steem上的DApp，并获得DApp的代币。
 
