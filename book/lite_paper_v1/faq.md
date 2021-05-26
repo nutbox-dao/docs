@@ -41,42 +41,6 @@ PNUT会参与到peanut丰富的应用场景之中，可以预料的有：
 * 享受peanut各项权益；
 * 参与投票，决定peanut.dao投资孵化的DApp；
 
-### 关于TSP？
-
-TSP是基于Tron区块链的资产，其为TRC20 Token，1TSP等价于代理给Peanut（nutbox.mine）1SP。TSP可享受代理SP同样的权益，即获得PNUT的奖励以及得到Peanut（nutbox.mine）的点赞。
-
-社区成员可通过「peanut.nutbox.io - 质押资产流动性」，将STEEM随时1：1转换成TSP。TSP亦可随时赎回成STEEM，赎回的STEEM将在33~40天内陆续到达其Steem账户。
-
-TSP可在JustSwap上交易，交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TW2EWoRUJfwH9nMTfLxSL9JPLZeusUtTfR
-
-关于TSP #1：https://blog.nutbox.io/@nutbox/tsp-a-trc-20-defi-asset-based-on-steem-staking-economy-with-over-50-apy-will-be-online-tonight
-
-关于TSP #2：https://blog.nutbox.io/@nutbox/tsp-a-tradable-steem-power-sp
-
-### 关于TSTEEM、TSBD？
-
-TSTEEM、TSBD是基于Tron区块链的资产，其为TRC20 Token。其价值1：1等价为Steem网络中的STEEM、SBD，由Peanut跨链兑换模块来保证「peanut.nutbox.io - 钱包 - 跨链转账」。
-
-TSTEEM、TSBD跨链到Tron之后，可以使用Tron生态上的去中心化交易所、去中心化借贷等，亦可开展流动性挖矿，极大扩展了Steem网络资产的使用效率。
-
-关于TSTEEM #1：https://blog.nutbox.io/@nutbox.mine/to-start-mining-pnut-through-the-tsteem-deposit-it-is-a-new-era-of-capital-saving-in-steem-community
-
-关于TSTEEM #2：https://blog.nutbox.io/@nutbox.mine/trade-steem-to-trx-usdt-on-nutbox-io-and-justswap
-
-TSTEEM去中心化交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TBUZYrDh7gzjd1PLnkMHWoAo55ctRzZzGN
-
-TSBD去中心化交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TEPZJmYLJxJc8b5FueswwLWmUDhJGnih6Q
-
-### 关于LP Token？
-
-在JustSwap上，为对应交易对资金池提供流动性，即可获得对应的LP Token。比如，将自己账户的TRX和PNUT，存入JustSwap上PNUT-TRX交易对资金池，您将获得 PNUT-TRX LP Token。
-
-如果您获得 PNUT-TRX LP Token，您即可获得其他人交易 PNUT-TRX 的交易手续费。同时，您亦可在「peanut.nutbox.io - 流动性挖矿」，将LP Token存入对应的矿池，获得PNUT的奖励。
-
-### 关于JustSwap？
-
-JustSwap是Tron生态上的去中心化交易所，任意TRC20 Token都可以在这里创建交易对，进行交易。Peanut平台上的PNUT、TSP、TSTEEM、TSBD都已经与TRX创建了交易对，社区成员可以在JustSwap上将PNUT、TSP等换成TRX或USDT。
-
 ### 关于支付PNUT获得点赞？
 
 * You can buy upvote from here:https://peanut.nutbox.io/#/get-vote
@@ -114,6 +78,42 @@ Nutbox & Peanut现在有8位全球大使，共同推进Nutbox & Peanut向前。�
 ### 关于Peanut Committee？
 
 Peanut Committee是Peanut走向完全去中心化治理过程中的过渡机构，详情可见：https://blog.nutbox.io/@nutbox.mine/the-committee-of-peanut-nutbox-v1-dao-starts-up-meanwhile-the-account-of-the-committee-is-operating
+
+### TSP
+
+TSP是基于Tron区块链的资产，其为TRC20 Token，1TSP等价于代理给Peanut（nutbox.mine）1SP。TSP可享受代理SP同样的权益，即获得PNUT的奖励以及得到Peanut（nutbox.mine）的点赞。
+
+社区成员可通过「peanut.nutbox.io - 质押资产流动性」，将STEEM随时1：1转换成TSP。TSP亦可随时赎回成STEEM，赎回的STEEM将在33~40天内陆续到达其Steem账户。
+
+TSP可在JustSwap上交易，交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TW2EWoRUJfwH9nMTfLxSL9JPLZeusUtTfR
+
+关于TSP #1：https://blog.nutbox.io/@nutbox/tsp-a-trc-20-defi-asset-based-on-steem-staking-economy-with-over-50-apy-will-be-online-tonight
+
+关于TSP #2：https://blog.nutbox.io/@nutbox/tsp-a-tradable-steem-power-sp
+
+### TSTEEM、TSBD
+
+TSTEEM、TSBD是基于Tron区块链的资产，其为TRC20 Token。其价值1：1等价为Steem网络中的STEEM、SBD，由Peanut跨链兑换模块来保证「peanut.nutbox.io - 钱包 - 跨链转账」。
+
+TSTEEM、TSBD跨链到Tron之后，可以使用Tron生态上的去中心化交易所、去中心化借贷等，亦可开展流动性挖矿，极大扩展了Steem网络资产的使用效率。
+
+关于TSTEEM #1：https://blog.nutbox.io/@nutbox.mine/to-start-mining-pnut-through-the-tsteem-deposit-it-is-a-new-era-of-capital-saving-in-steem-community
+
+关于TSTEEM #2：https://blog.nutbox.io/@nutbox.mine/trade-steem-to-trx-usdt-on-nutbox-io-and-justswap
+
+TSTEEM去中心化交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TBUZYrDh7gzjd1PLnkMHWoAo55ctRzZzGN
+
+TSBD去中心化交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TEPZJmYLJxJc8b5FueswwLWmUDhJGnih6Q
+
+### LP Token
+
+在JustSwap上，为对应交易对资金池提供流动性，即可获得对应的LP Token。比如，将自己账户的TRX和PNUT，存入JustSwap上PNUT-TRX交易对资金池，您将获得 PNUT-TRX LP Token。
+
+如果您获得 PNUT-TRX LP Token，您即可获得其他人交易 PNUT-TRX 的交易手续费。同时，您亦可在「peanut.nutbox.io - 流动性挖矿」，将LP Token存入对应的矿池，获得PNUT的奖励。
+
+### JustSwap
+
+JustSwap是Tron生态上的去中心化交易所，任意TRC20 Token都可以在这里创建交易对，进行交易。Peanut平台上的PNUT、TSP、TSTEEM、TSBD都已经与TRX创建了交易对，社区成员可以在JustSwap上将PNUT、TSP等换成TRX或USDT。
 
 ## 社区视角_Blog
 
