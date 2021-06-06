@@ -1,4 +1,4 @@
-# PNUT Economy
+# PNUT Economic
 
 Peanut (PNUT for short) is the native practical token of the Peanut network, which aims to promote the development of the Peanut network and the development and operation of the Nutbox v2 network.
 
@@ -6,7 +6,7 @@ Peanut (PNUT for short) is the native practical token of the Peanut network, whi
 
 PNUT is carried out in a bitcoin-like distribution method, and the distribution rules are as follows: 
  
-* 0 - 1000000 block，20 PNUT/block
+* 0 - 1000000 block，20 PNUT/block
 * 1000001 - 10000000 block，10 PNUT/block
 * 10000001 - 20000000 block，5 PNUT/block
 * 20000001 - 30000000 block，2.5 PNUT/block
