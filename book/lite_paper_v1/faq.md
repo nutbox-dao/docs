@@ -2,48 +2,46 @@
 
 ## FAQ
 
-### Peanut是什么？
+### What’s Peanut?
 
-Peanut是一个基于Steem区块链的去中心化质押平台。
+Peanut is a decentralized staking platform based on the Steem blockchain.
 
-### Peanut与Steem上其他质押平台的区别？
+### What’s the difference between Peanut and other staking platforms on Steem?
 
-与Steem上其他质押平台（代理平台）类似，代理SP（STEEM POWER）可以获得社区官方账号（@nutbox.mine）的点赞。同时，代理给Peanut平台（在peanut.nutbox.io上操作）还能获得社区Token（PNUT）。
+Similar to other staking platforms (staking platforms) on Steem, the delegated SP (STEEM POWER) can get upvote from the official community account (@nutbox.mine). At the same time, delegate to the Peanut platform (operating on peanut.nutbox.io) can also obtain the community token (PNUT).
+Peanut is also a DeFi platform based on the Steem blockchain. You can cross-chain STEEM and SBD with one key, 1:1 exchange into Tron-based equivalent assets TSTEEM and TSBD. The exchanged TSTEEM and TSBD can be traded on the decentralized exchange JustSwap on Tron. Peanut also supports the deposit of PNUT-TRX fund pool certificates (PNUT-TRX LP) and TSP-TRX fund pool certificates in JustSwap for mining.
+Peanut is a community-owned platform. Community partners can submit proposals and offer suggestions for the community. Once the proposal is voted on, the proposer can participate in community development, operation, promotion and other work according to the description of the proposal, and the proposer will also receive PNUT rewards in accordance with the proposal.
 
-Peanut还是基于Steem区块链的DeFi平台。您可以将STEEM、SBD一键跨链，1：1兑换成基于Tron的等价资产TSTEEM、TSBD。兑换后的TSTEEM、TSBD可以在Tron上的去中心化交易所JustSwap上进行交易。Peanut亦支持JustSwap上PNUT-TRX资金池凭证（PNUT-TRX LP）、TSP-TRX资金池凭证存入挖矿。
+Detail here <https://blog.nutbox.io/@nutbox/nutbox-dao-governance-is-online--the-procedure-of-nutbox-proposal-is-operating--20201105t090030122z>
 
-Peanut是一个社区所有的平台。社区伙伴可以提交议案，为社区献计献策。议案一经投票通过，提案者可以按照议案的描述参与社区开发、运营、推广等工作，提案者亦将按照议案获得PNUT的奖励。
+### What’s the relationship between Peanut and Tron Blockchain?
 
-详细可见https://blog.nutbox.io/@nutbox/nutbox-dao-governance-is-online--the-procedure-of-nutbox-proposal-is-operating--20201105t090030122z
+Peanut's smart contract is built on the Tron blockchain. Through the Tron blockchain, Peanut enables the Steem community to have smart contracts and DeFi basic modules, which can be used for rich applications.
 
-### Peanut与Tron Blockchain的关系？
+### What are the risks of participating in Peanut?
 
-Peanut的智能合约构建在Tron区块链之上。通过Tron区块链，Peanut使得Steem社区拥有了智能合约和DeFi的基础模块，可以展开丰富的应用。
+The risk of participating in Peanut is that you need to invest in STEEM, transform it into STEEM POWER (SP), and represent it to Peanut. Since there is no risk in acting as SP, the risk of participating in Peanut lies in the rise and fall of STEEM.
 
-### 参与Peanut的风险？
+### What’s PNUT's value 
 
-参与Peanut的风险在于，需要投入STEEM，将其转化为STEEM POWER（SP），代理给 Peanut 。由于代理 SP 是没有风险的，故参与Peanut的风险在于 STEEM 的涨跌。
-
-### PNUT的价值支撑？
-
-PNUT的价值主要来自两方面：
-* peanut committee对PNUT的回购；
-* peanut.dao投资孵化Steem上DApp后，DApp取得成绩后，对peanut的回报；
+The value of PNUT mainly comes from two aspects:
+* The repurchase of PNUT by the peanut committee;
+* After peanut.dao invested and incubated Steem on the DApp, the return on peanut after the DApp achieved results;
     
-PNUT除了定期会有减半，每天分发量在一定时间段内是固定的。故peanut获得的策展奖励越多，对PNUT的价格的支撑越明显，即PNUT的价格会随着peanut获得的SP增长而增长；
+In addition to the regular halving of PNUT, the daily distribution volume is fixed within a certain period of time. Therefore, the more curatorial rewards peanut receives, the more obvious the support for the price of PNUT, that is, the price of PNUT will increase with the increase in SP obtained by peanut.
 
-### PNUT的应用场景？
+### What are the using scenarios of PNUT?
 
-PNUT会参与到peanut丰富的应用场景之中，可以预料的有：
+PNUT will participate in the rich application scenarios of peanut. It is expected that:
 
-* 为PNUT/TRX提供流动性，获得交易费奖励；
-* 持有PNUT即享受对策展人投票的权利；
-* 持有PNUT间接拥有peanut提案投票系统的投票权，参与社区治理；
-* 拥有PNUT可参与peanut合作平台的各种经济活动，比如多轮打榜；
-* 享受peanut各项权益；
-* 参与投票，决定peanut.dao投资孵化的DApp；
+* Provide liquidity for PNUT/TRX and get transaction fee rewards;
+* Hold PNUT to enjoy the right to vote for countermeasure exhibitors;
+* Hold PNUT indirectly owns the voting rights of the peanut proposal voting system and participate in community governance;
+* Owning PNUT can participate in various economic activities of the peanut cooperation platform, such as multiple rounds of ranking;
+* Enjoy the rights and interests of peanut;
+* Participate in voting to determine the DApp that peanut.dao invests in incubation
 
-### 关于支付PNUT获得点赞？
+### About paying PNUT to get upvote?
 
 * You can buy upvote from here:https://peanut.nutbox.io/#/get-vote
 * You need to connect Tron-link
@@ -59,73 +57,73 @@ b.The amount of pnut you transfer is not between 1000~10000
 c.The post you provide is authored last day
 d.The post link is a wrong post link.
 
-### 关于代理SP获nutbox.mine点赞？
+### About delegate sp to nutbox.mine to get upvote?
 
-通过peanut.nutbox.io代理SP给到Peanut（@nutbox.mine）亦可获得Peanut（@nutbox.mine）给与的点赞。点赞权重比例为「（代理SP数量 × 8/nutbox.mine SP总数量） × 100%」，每天点赞一帖。
+Through peanut.nutbox.io delegate SP to Peanut (@nutbox.mine), you can also get upvote from Peanut (@nutbox.mine). The weight ratio of upvote is "(number of delegation SP × 8/total number of nutbox.mine SP) × 100%", and one post get voted per day.
 
-### 关于peanut.dao持有的10% PNUT如何安排的？
+### How is the 10% PNUT held by peanut.dao arranged?
 
-peanut.dao前期会支持早期贡献者，nutbox v2的开发及运营，最为关键的是支持Steem上的DApp，并获得DApp的代币。
+In the early stage, peanut.dao will support early contributors, and the development and operation of nutbox v2. The most important thing is to support DApp on Steem and obtain DApp tokens.
 
-### 关于PNUT回购？
+### About PNUT repurchase?
 
-社区成员将SP代理给Peanut（@nutbox.mine），@nutbox.mine将获得STEEM的奖励（ https://steemd.com/@nutbox.mine ）。Nutbox委员会会不定期将STEEM换成USDT，通过JustSwap上PNUT-USDT交易对，回购PNUT。nutbox.mine在Tron区块链上的回购地址为：TMLMSuyygN1fL5HpUt1oQp3RjvdEsHZffG
+Community members will delegate the SP to Peanut (@nutbox.mine), and @nutbox.mine will be rewarded by STEEM (https://steemd.com/@nutbox.mine). The Nutbox Committee will exchange STEEM for USDT from time to time, and repurchase PNUT through the PNUT-USDT trading pair on JustSwap. The repurchase address of nutbox.mine on the Tron blockchain is: TMLMSuyygN1fL5HpUt1oQp3RjvdEsHZffG
 
-回购的PNUT，Peanut委员会会将其销毁。如社区有特殊需求，可通过提案投票系统提交相关议案，决定此部分PNUT的用途。
+The Peanut Committee will destroy the repurchased PNUT. If the community has special needs, relevant proposals can be submitted through the proposal voting system to determine the purpose of this part of PNUT.
 
-### 关于Nutbox全球大使？
+### About Nutbox Global Ambassador?
 
-Nutbox & Peanut现在有8位全球大使，共同推进Nutbox & Peanut向前。关于Nutbox全球大使计划：https://blog.nutbox.io/@nutbox.mine/nutbox-global-ambassador-program-or-nutbox
+Now we have 8 global ambassadors to jointly promote Nutbox & Peanut forward. About the Nutbox Global Ambassador Program: <https://blog.nutbox.io/@nutbox.mine/nutbox-global-ambassador-program-or-nutbox>
 
-### 关于Peanut Committee？
+### About Peanut Committee?
 
-Peanut Committee是Peanut走向完全去中心化治理过程中的过渡机构，详情可见：https://blog.nutbox.io/@nutbox.mine/the-committee-of-peanut-nutbox-v1-dao-starts-up-meanwhile-the-account-of-the-committee-is-operating
+The Peanut Committee is a transitional institution in the process of Peanut's move towards fully decentralized governance.
+<https://blog.nutbox.io/@nutbox.mine/the-committee-of-peanut-nutbox-v1-dao-starts-up-meanwhile-the-account-of-the-committee-is-operating>
 
 ### TSP
 
-TSP是基于Tron区块链的资产，其为TRC20 Token，1TSP等价于代理给Peanut（nutbox.mine）1SP。TSP可享受代理SP同样的权益，即获得PNUT的奖励以及得到Peanut（nutbox.mine）的点赞。
+TSP is an asset based on the Tron blockchain, which is a TRC20 Token, and 1TSP is equivalent to delegate 1SP to Peanut (nutbox.mine). TSP can enjoy the same rights as the staked SP, that is, get rewards from PNUT and upvote from Peanut (nutbox.mine).
+Community members can use "peanut.nutbox.io-staked asset liquidity" to convert STEEM to TSP at any time 1:1. TSP can also be redeemed into STEEM at any time, and the redeemed STEEM will reach their Steem account within 33-40 days
 
-社区成员可通过「peanut.nutbox.io - 质押资产流动性」，将STEEM随时1：1转换成TSP。TSP亦可随时赎回成STEEM，赎回的STEEM将在33~40天内陆续到达其Steem账户。
+TSP can be traded on JustSwap, trade link: <https://justswap.io/?lang=en-US#/scan/detail/trx/TW2EWoRUJfwH9nMTfLxSL9JPLZeusUtTfR>
 
-TSP可在JustSwap上交易，交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TW2EWoRUJfwH9nMTfLxSL9JPLZeusUtTfR
+About TSP 1: <https://blog.nutbox.io/@nutbox/tsp-a-trc-20-defi-asset-based-on-steem-staking-economy-with-over-50-apy-will-be-online-tonight>
 
-关于TSP #1：https://blog.nutbox.io/@nutbox/tsp-a-trc-20-defi-asset-based-on-steem-staking-economy-with-over-50-apy-will-be-online-tonight
-
-关于TSP #2：https://blog.nutbox.io/@nutbox/tsp-a-tradable-steem-power-sp
+About TSP 2: <https://blog.nutbox.io/@nutbox/tsp-a-tradable-steem-power-sp>
 
 ### TSTEEM、TSBD
 
-TSTEEM、TSBD是基于Tron区块链的资产，其为TRC20 Token。其价值1：1等价为Steem网络中的STEEM、SBD，由Peanut跨链兑换模块来保证「peanut.nutbox.io - 钱包 - 跨链转账」。
+STEEM and TSBD are assets based on the Tron blockchain, which are TRC20 Tokens. Its value 1:1 is equivalent to STEEM and SBD in the Steem network, and guaranteed by the Peanut cross-chain exchange module [peanut.nutbox.io-wallet-cross-chain transfer].
 
-TSTEEM、TSBD跨链到Tron之后，可以使用Tron生态上的去中心化交易所、去中心化借贷等，亦可开展流动性挖矿，极大扩展了Steem网络资产的使用效率。
+After TSTEEM and TSBD cross-chain to Tron, decentralized exchanges and decentralized lending in the Tron ecosystem can be used, and liquidity mining can also be carried out, which greatly expands the efficiency of the use of Steem network assets.
 
-关于TSTEEM #1：https://blog.nutbox.io/@nutbox.mine/to-start-mining-pnut-through-the-tsteem-deposit-it-is-a-new-era-of-capital-saving-in-steem-community
+About TSTEEM 1: <https://blog.nutbox.io/@nutbox.mine/to-start-mining-pnut-through-the-tsteem-deposit-it-is-a-new-era-of-capital-saving-in-steem-community>
 
-关于TSTEEM #2：https://blog.nutbox.io/@nutbox.mine/trade-steem-to-trx-usdt-on-nutbox-io-and-justswap
+About TSTEEM 2: <https://blog.nutbox.io/@nutbox.mine/trade-steem-to-trx-usdt-on-nutbox-io-and-justswap>
 
-TSTEEM去中心化交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TBUZYrDh7gzjd1PLnkMHWoAo55ctRzZzGN
+TSTEEM decentralized trading link: <https://justswap.io/?lang=en-US#/scan/detail/trx/TBUZYrDh7gzjd1PLnkMHWoAo55ctRzZzGN>
 
-TSBD去中心化交易链接：https://justswap.io/?lang=en-US#/scan/detail/trx/TEPZJmYLJxJc8b5FueswwLWmUDhJGnih6Q
+TSTEEM decentralized trading link: <https://justswap.io/?lang=en-US#/scan/detail/trx/TEPZJmYLJxJc8b5FueswwLWmUDhJGnih6Q>
 
 ### LP Token
 
-在JustSwap上，为对应交易对资金池提供流动性，即可获得对应的LP Token。比如，将自己账户的TRX和PNUT，存入JustSwap上PNUT-TRX交易对资金池，您将获得 PNUT-TRX LP Token。
+On JustSwap, you can obtain the corresponding LP Token by providing liquidity for the corresponding trading pair fund pool. For example, by depositing the TRX and PNUT of your account into the PNUT-TRX trading pair fund pool on JustSwap, you will get PNUT-TRX LP Token.
 
-如果您获得 PNUT-TRX LP Token，您即可获得其他人交易 PNUT-TRX 的交易手续费。同时，您亦可在「peanut.nutbox.io - 流动性挖矿」，将LP Token存入对应的矿池，获得PNUT的奖励。
+If you get the PNUT-TRX LP Token, you can get the transaction fee for others to trade PNUT-TRX. At the same time, you can also deposit LP Token in the corresponding mining pool at "peanut.nutbox.io-Liquidity Mining" to receive PNUT rewards.
 
 ### JustSwap
 
-JustSwap是Tron生态上的去中心化交易所，任意TRC20 Token都可以在这里创建交易对，进行交易。Peanut平台上的PNUT、TSP、TSTEEM、TSBD都已经与TRX创建了交易对，社区成员可以在JustSwap上将PNUT、TSP等换成TRX或USDT。
+JustSwap is a decentralized exchange in Tron ecology. Any TRC20 Token can create trading pairs and trade here. PNUT, TSP, TSTEEM, and TSBD on the Peanut platform have all created trading pairs with TRX. Community members can exchange PNUT, TSP, etc. into TRX or USDT on JustSwap.
 
-## 社区视角_Blog
+## Blog
 
 ### 中文
 
-《祝贺Nutbox项目上线，见证奇迹的时刻来了？》
+《Nutbox —— Y Combinator of Steem , is coming soon!》
 
 <https://steem.buzz/hive-180932/@huangzuomin/nutbox>
 
-《代理SP给Nutbox收益到底如何？》
+《The Nutbox is operating, and the Steem Y era is coming!》
 
 <https://steem.buzz/hive-180932/@huangzuomin/sp-natbox>
 
@@ -183,6 +181,5 @@ English - 《Nutbox latest news: the scale of SP delegation pool reached 230K in
 <https://steemit.com/cn/@nutbox/nutbox-latest-news-the-scale-of--sp-delegation-pool-reached-230k-in-24-hours-and-the-pnut-trx-trade-pair-is-displayed-on-justswap-dex--20201021t181523673z>
 
 English - 《NutBox is now 263k SP delegated with high estimated faucet mining return (APY:170%)》
-中文 - 《Nutbox获得 263K SP代理，挖矿年华收益率高达 170%》
 
 <https://steem.buzz/defi/@nutbox.mine/nutbox-is-now-263k-sp-delegated-with-high-estimated-faucet-mining-return-apy-170>
