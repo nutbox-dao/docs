@@ -1,23 +1,23 @@
-# 基于TSTEEM、TSP的DeFi
+# DeFi based on TSTEEM/TSP
 
-## TSTEEM理财
+## TSTEEM financial management
 
-传统金融机构支持活期、定期存现金获得利息。STEEM具备充足的流动性，且拥有积累大量闲置STEEM的能力。可将10%-30%的闲置TSTEEM，转换为TSP，获得PNUT的奖励。
+Traditional financial institutions support current and regular cash deposits to earn interest. STEEM has sufficient liquidity and the ability to accumulate a large amount of idle STEEM. 10%-30% of idle TSTEEM can be converted into TSP to get PNUT rewards.
 
-用户将TSP stake进不同周期的资金池即可获得PNUT奖励，可随时取消stake。存入时间未满期即取消stake，则其储蓄奖励留在资金池中，用于分发给存入期满的用户。这样即满足了STEEM的流动性需求，又是达到承诺的储蓄用户获得高额的PNUT奖励。
+Users can get PNUT rewards by staking TSP into fund pools of different periods, and can cancel the stake at any time. Stake is cancelled if the deposit time has not expired, and the deposit reward remains in the fund pool for distribution to users whose deposit expires. This not only satisfies the liquidity demand of STEEM, but also achieves the promised savings users to obtain high PNUT rewards. 
 
-## TSP借贷TSTEEM
+## TSP lend TSTEEM
 
-TSTEEM不仅可以将部分power up成SP，获得质押奖励，以分给持有TSTEEM的用户。TSTEEM亦可将储蓄池中的部分闲置TSTEEM借给其他需要TSTEEM的用户，以获得借贷利息。
+TSTEEM can not only upgrade part of the power into SP, and get staking rewards to distribute to users who hold TSTEEM. TSTEEM can also lend part of the idle TSTEEM in the savings pool to other users who need TSTEEM to obtain loan interest.
 
-与Compound、Aave、JustLend一样，TSP可以与TSTEEM组成借贷对。TSP持有者可以抵押TSP借TSTEEM，TSTEEM储蓄池中的闲置资金贷给抵押TSP借TSTEEM的用户。
+Like Compound, Aave, and JustLend, TSP can form a lending pair with TSTEEM. TSP holders can stake TSP to borrow TSTEEM, and the idle funds in the TSTEEM savings pool are loaned to users who stake TSP to borrow TSTEEM.
 
-TSP的拥有者可以在获得质押奖励的同时，花费少量手续费和借贷利息，拥有流动的TSTEEM。TSTEEM储蓄用户亦可获得借贷利息，享受睡后收益。
+TSP owners can spend a small amount of handling fees and loan interest while receiving staking rewards to have liquid TSTEEM. TSTEEM savings users can also get loan interest and enjoy after-tax income. 
 
-## 流动性挖矿
+## Liquid Farming
 
-Peanut作为一个社区质押平台，为Steem资产持有者的资产流动性以金融需求提供服务。Peanut亦将在社区同意的情况下，对JustSwap交易所上 PNUT-TRX、TSTEEM-TRX、TSP-TRX等交易对的流动性提供者进行激励。
+As a community staking platform, Peanut provides services for the financial needs of Steem asset holders for asset liquidity. Peanut will also incentivize the liquidity providers of PNUT-TRX, TSTEEM-TRX, TSP-TRX and other trading pairs on the JustSwap exchange with the consent of the community.
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/farming-pnut-and-trx.jpg)
 
-将PNUT、TSTEEM、TSP存入对应交易对，为交易对提供流动性获得流动性凭证，用户只需将流动性凭证存入对应的流动性矿池，即可获得PNUT的奖励。这将大大增加 PNUT-TRX、TSTEEM-TRX、TSP-TRX等交易对的流动性，满足Steem资产持有者的金融交易需求。
+Deposit PNUT, TSTEEM, and TSP in the corresponding trading pair to provide liquidity for the trading pair to obtain liquidity voucher. Users only need to deposit the liquidity voucher into the corresponding liquidity pool to receive PNUT rewards. This will greatly increase the liquidity of PNUT-TRX, TSTEEM-TRX, TSP-TRX and other trading pairs, and meet the financial transaction needs of Steem asset holders.
