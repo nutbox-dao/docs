@@ -1,18 +1,18 @@
-# User Guide/用户手册
+# User Guide
 
-## 测评分享 | 我是如何评价nutbox的
+## Evaluation sharing | How do I evaluate nutbox 
 
 <https://blog.nutbox.io/@abcallen/wherein-1615473875336-s>
  
-## Peanut挖矿说明书 | 如何通过peanut.nutbox.io挖矿PNUT【基础篇SP挖矿】
+## Peanut Mining Manual | How to mine PNUT through peanut.nutbox.io [SP Mining]
 
 <https://blog.nutbox.io/@abcallen/wherein-1615536657147-s>
  
-## Peanut挖矿说明书 | 如何通过peanut.nutbox.io挖矿PNUT【中级篇TSP挖矿PNUT】
+## Peanut Mining Manual | How to mine PNUT through peanut.nutbox.io [Intermediate TSP Mining PNUT]
 
 <https://blog.nutbox.io/@abcallen/wherein-1615700270959-s>
 
-## 简易的在JustSwap交易pnut教程(手机版)
+## Trading pnut on JustSwap Manual (Mobile version)
 
 <https://blog.nutbox.io/@lzg/wherein-1615698667749-s>
  
