@@ -2,14 +2,14 @@
 
 ## Peanut（Nutbox v1）
 
-Peanut作为Nutbox上第一个“Staking Economy + DeFi”，相比PoS链原有Staking Provider拥有巨大优势，Nutbox将全力推动Peanut网络取得成功。Peanut网络可见 <https://peanut.nutbox.io/> ，已上线“Staking Economy + DeFi”主要功能模块。
+As the first "Staking Economy + DeFi" on Nutbox, Peanut has a huge advantage over the original Staking Provider of the PoS chain. Nutbox will make every effort to promote the success of the Peanut network. Peanut network can be seen <https://peanut.nutbox.io/> The main functional modules of "Staking Economy + DeFi" have been launched.
 
-Peanut 第一阶段搭建在Steem和Tron区块链之上，首先开启了代理SP挖PNUT，以及将开启流动性挖矿。第二阶段将考虑支持Binance Smart Chain、Ethereum，以更好地支持TSTEEM、TSP等功能。第三阶段将随着Nutbox v2网络的完善，通过v2支持更多PoS链资产的接入，比如质押DOT投票挖PNUT、存ETH参与ETH2.0挖PNUT等。
+The first phase of Peanut is built on the Steem and Tron blockchains. First, the delegating SP mining PNUT will be started, and liquidity mining will be started. The second phase will consider supporting Binance Smart Chain and Ethereum to better support TSTEEM, TSP and other functions. In the third stage, with the improvement of the Nutbox v2 network, the access of more PoS chain assets will be supported through v2, such as stake DOT to vote for PNUT mining, deposit ETH to participate in ETH2.0 mining PNUT, etc.
 
 ## Nutbox v2
 
-Nutbox v2 希望每个社区都有能力搭建自己的类似 Peanut 社区质押平台，并为这一目标奋斗。Peanut则作为Nutbox v2的前置网络，是社区创建质押经济系统的创新网络。Nutbox相关创新功能将首先在Peanut网络（Peanut社区）上线。只有在Peanut网络反响良好的功能，方可作为基础组件上线Nutbox v2网络，为其他社区或节点提供服务。
+Nutbox v2 hopes that every community has the ability to build its own Peanut community staking platform and strive for this goal. Peanut, as the front-end network of Nutbox v2, is an innovative network for the community to create a staking economic system. Nutbox-related innovative features will first be launched on the Peanut network (Peanut community). Only when the Peanut network has a well-received function, can it be used as a basic component on the Nutbox v2 network to provide services to other communities or nodes.
 
-Peanut 的DAO Fund支持v2发展，亦会收到Nutbox v2的奖励。届时，Nutbox v2上线后，将对PNUT的持有者空投Nutbox v2资产NUT。
+Peanut's DAO Fund supports v2 development and will also receive Nutbox v2 rewards. At that time, after Nutbox v2 goes online, the Nutbox v2 asset NUT will be airdropped to PNUT holders.
 
-关于Nutbox v2，见 <https://docs.nutbox.io/white_paper/>和<https://docs.nutbox.io/lite_paper_v2/>
+About Nutbox V2,refer to https://docs.nutbox.io/white_paper/ and https://docs.nutbox.io/lite_paper_v2/ 
