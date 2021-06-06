@@ -1,40 +1,40 @@
-# PNUT经济学
+# PNUT Economy
 
-Peanut（简称PNUT）是Peanut网络的本机实用性Token，其旨在推动Peanut网络的发展，以及Nutbox v2网络的开发及运营。
+Peanut (PNUT for short) is the native practical token of the Peanut network, which aims to promote the development of the Peanut network and the development and operation of the Nutbox v2 network.
 
-## PNUT的分发
+## Distribution of PNUT
 
-PNUT以类bitcoin的分发方式进行，分发规则如下：
+PNUT is carried out in a bitcoin-like distribution method, and the distribution rules are as follows: 
  
-* 0 - 1000000 block，20 PNUT/block
+* 0 - 1000000 block，20 PNUT/block
 * 1000001 - 10000000 block，10 PNUT/block
 * 10000001 - 20000000 block，5 PNUT/block
 * 20000001 - 30000000 block，2.5 PNUT/block
 * 30000001 - ∞ block，1.25 PNUT/block
 
-PNUT主要通过代理SP挖矿、流动性挖矿分发给Peanut网络对应的贡献者。代理SP挖矿和流动性挖矿未来最终比例将达到80 | 20的平衡，此比例由社区控制。
+PNUT is mainly distributed to the corresponding contributors of the Peanut network through SP mining and liquidity mining. The final ratio of delegating SP mining and liquidity mining in the future will reach a balance of 80 | 20, which is controlled by the community.
 
-为了支持Peanut和Nutbox的开发、运营、市场等工作，在上述分发基础上，每区块生成10% PNUT进入Peanut.dao。Peanut.dao完全归属于Peanut社区，由PNUT持有者组成的DAO控制。创始期由DAO委员会代表社区决策，以及处理日常事务。
+In order to support the development, operation, and marketing of Peanut and Nutbox, on the basis of the above distribution, 10% of PNUT is generated per block to enter Peanut.dao. Peanut.dao is fully owned by the Peanut community and controlled by the DAO composed of PNUT holders. During the founding period, the DAO committee represented the community in making decisions and handling daily affairs.
 
-## PNUT价值捕获
+## PNUT value capture
 
-### 一种价值储存物
+### A storage of value
 
-价值储存物指的是能够保值的资产，不会随时间流逝而大幅贬值的资产。流通中每个PNUT的价值都由实际的价值支撑，所有PNUT交易都在区块链上公开可见，其设计使其在波动巨大的市场中也能保持价值稳定。
+Storage of value refer to assets that can maintain their value, and assets that will not depreciate significantly over time. The value of each PNUT in circulation is supported by the actual value. All PNUT transactions are publicly visible on the blockchain, and its design makes it possible to maintain a stable value in a highly volatile market.
 
-### 一种交换媒介
+### A medium of exchange
 
-交换媒介是指一切可代表价值标准，被用来促进商品或服务出售、购买或交换/交易的事物。PNUT作为一种交换媒介可与Steem上对应场景匹配，使用PNUT来达成交易，为PNUT增值。比如，在Steem区块链可支付PNUT获得Peanut（@nutbox.mine）点赞。
+The medium of exchange refers to all things that can represent value standards and are used to promote the sale, purchase, or exchange/transaction of goods or services. As a medium of exchange, PNUT can be matched with the corresponding scene on Steem, and PNUT can be used to conclude transactions and add value to PNUT. For example, you can pay PNUT to get upvote from Peanut (@nutbox.mine) on the Steem blockchain.
 
-### 一种回购价值
+### A repurchase value
 
-Peanut获得用户代理的SP之后，会使用更佳的策略获得策展奖励（curator reward）。此奖励将在公开的交易市场对PNUT进行回购。Peanut亦搭建有Steem见证人节点，Peanut每天都在获得见证人奖励，此部分收益亦将对PNUT进行回购。参与回购的资金还有用户使用Peanut各项服务支付的手续费等。
+After Peanut obtains the delegated SP, will use better strategies to obtain curator rewards. This reward will repurchase PNUT in the open trading market. Peanut also has a Steem witness node. Peanut is receiving witness rewards every day, and this part of the proceeds will also be repurchased to PNUT. The funds involved in the repurchase also include fees paid by users for using Peanut's various services.
 
-### 一种服务费
+### A gas fee
 
-由Nutbox协议构成的去中心化自动网络24×7全天候地为成员提供服务。不管用户希望参与代理SP挖矿，将STEEM转化为TSTEEM、TSP，储蓄TSTEEM挖矿以及抵押TSP进行借贷，都需要支付一定的费用来获得Peanut银行提供的服务。此手续费进入 nutbox.gas，亦将作为Peanut社区资金回购PNUT。
+The decentralized automatic network formed by the Nutbox protocol provides services to members 24/7. Regardless of whether users want to participate in SP mining, convert STEEM into TSTEEM and TSP, save TSTEEM mining and stake TSP for lending, they all need to pay a certain fee to obtain the services provided by Peanut Bank. This fee enters nutbox.gas and will also be used as Peanut community funds to repurchase PNUT.
 
-### 一种系统参与权
+### A right to participate in the system
 
-PNUT亦可用于链上投票、技术委员会、国库分配、公投治理等链上治理功能，持有PNUT可以在Peanut网络治理中获得权利。
+PNUT can also be used for on-chain governance functions such as on-chain voting, technical committee, treasury distribution, referendum governance, etc. Holding PNUT can obtain rights in Peanut network governance.
 
