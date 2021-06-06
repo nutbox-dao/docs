@@ -1,7 +1,7 @@
 # Introduction
 
-Peanut是一个基于PoS共识机制（包括DPoS、NPoS等）区块链的社区质押平台。
+Peanut is a community staking platform based on the PoS consensus mechanism (including DPoS, NPoS, etc.) blockchain.
 
-Peanut致力于为质押资产持有者（Staking Token）更简单获得质押奖励（Staking reward），帮助用户将流通受限的质押资产进行流通（Liquidity Staking Token），满足PoS链原始资产（Token）的跨链交易需求，以及Token持有者的理财（定存或活期）需求。
+Peanut is committed to providing staking token holders with easier access to staking rewards (Staking reward), helping users to circulate liquidity staking tokens with restricted circulation (Liquidity Staking Token), and satisfying the cross-cutting of original assets (Tokens) in the PoS chain. Chain transaction needs, as well as the financial management (fixed deposit or current) needs of Token holders.
 
-Peanut第一阶段搭建在Tron区块链之上，服务于持有Steem资产的用户，第二阶段将扩展到Binance Smart Chain、Ethereum，最终将基于Polkadot打造，服务所有与Polkadot连接的PoS链资产。
+The first phase of Peanut is built on the Tron blockchain to serve users who hold Steem assets. The second phase will be extended to Binance Smart Chain and Ethereum, and will eventually be built on Polkadot to serve all PoS chain assets connected to Polkadot.
