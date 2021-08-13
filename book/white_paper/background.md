@@ -1,40 +1,25 @@
 # Background
 
-## Distributed organization
+## Modern DAOs
 
-Broadly speaking, the development of the Internet is a process of gathering various communities, and Internet applications are equivalent to a virtual organization. Users constitute the main body of this virtual organization. The platform company mediates the relationship between the company's investors, owners, employees, and users through legal contracts or articles of association, and directly manages the funds and resources of the virtual organization.
+The modern DAOs are not only for governance purpose.
 
-For a long time, such virtual organizations existed and organized in a distributed manner. In his 1962 paper "On Distributed Communications Networks", Paul Baran put forward the theory of distributed (Distributed) network, which made ARPANET and the Internet today. In 1971, the SMTP protocol for sending messages through a distributed network was born, and email is widely used by us today. With the birth of bbs in 1978, people began to build their own forums in a distributed manner in various cities, universities, and interest communities. Linux, WIKI, etc. are all flourishing in this context, relying on distributed power.
+The modern DAOs are the DAOs of the people, by the people, for the people that are **not only commercially feasible, but also bring values to the entire world**.
 
-With the increasing development of the Internet, platform companies raised funds early and recruited professionals to provide users with products with better experience and richer functions in a more efficient organizational form than distributed organizations. The Internet has only begun to move towards centralization step by step. Many forums have disappeared, and the original communities have been stationed in virtual organizations led by platform companies such as Douban, Zhihu, and Weibo. However, the blockchain has brought a new form of organization, making distributed organization possible again. The Bitcoin system, the Ethereum system, and hundreds of DAOs on it provide us with a model. 
+A modern DAO ecosystem that will not only survive but also thrive in the Web 3.0 age should have the below traits: 
 
-## The dilemma faced by DAO
+1. The Web is built as a gift for everyone, as its inventor Sir Tim Berners Lee said ["This is for everyone."](https://twitter.com/timberners_lee/status/228960085672599552?lang=en). In Web 3.0 age, to empower everyone to get back the ownership of the Web, we believe "**DAO is for everyone**". Everyone should be able to start a DAO in minutes with close to zero fees.
+2. **DAOs should be able to bootstrap** with available supportive resources for its community, on top of underlying financial and technical foundation within the Web 3.0 ecosystem.
+3. **A bunch of profitable, composable and sustainable services could be set up by the DAOs** to benefit the entire Web 3.0 ecosystem world and contribute to the public goods. As a result, DAOs would grow their own values, and bring long-term returns for its members who ever contribute to the DAOs. 
 
-Although DAO has been widely disseminated in the development process of the past ten years, DAO still faces the dilemma of large-scale spread.
+If the Web 3.0 ecosystem is the new soil, the modern DAOs are the flowers and fruits to be cultivated by the communities in the new age.
 
-### Fund raising risk
+## The Operating System for Modern DAOs
 
-The first thing DAO initiators face is to raise funds to promote the development of the organization. Even after IDO has made many optimizations to ICO, the sponsors still face huge policy risks, and investors face a greater risk of capital loss.
+The full power of the Web 3.0 ecosystem is not availale to everyone and communities, unless an **"operating system"** is built to make the Web 3.0 resources understandable and usable for its communities.
 
-After fundraising, DAO needs to find value support for the project Token. DeFi provides a low-cost and slow way to discover the value of Token. However, IDO and ICO require investors to invest in a one-time investment to obtain project Tokens. Distributed organizations have to rely on centralized exchanges, operations, and markets to increase the value of Tokens in a faster way. This reduces the funds invested in DAO construction and greatly increases the cost of the DAO organization.
+Nutbox starts its journey of helping all the communities and people to benefit from Web 3.0 world, and is now growing into an operating system to make the underlying Web 3.0 resources fully accessible by the modern DAOs. 
 
-### Extremely high barriers to use
-
-Under the existing conditions, the only way for users to participate in DAO construction is to obtain project tokens and learn obscure blockchain knowledge. Each of these steps faces huge learning costs, and at the same time has to avoid various potential risks. Even if this threshold is crossed, there are not many practical applications other than participating in decentralized finance and spending high gas fees for voting governance. For the vast majority of users, this is undoubtedly a dilemma.
-
-For DAO initiators, it is necessary to convene developers who are proficient in writing "smart contract" language to implement DAO's product logic. This has become an increasingly heavier burden on DAOs in the increasingly hot blockchain industry.
-
-### Emphasis on governance than application
-
-The staking reward makes Staking Airdrop an exciting innovation. Non-technical project founders can use Staking Airdrop protocol to issue project tokens (communityToken, cToken for short) on the chain and distribute them in according to distribution rules. Users only need to pledge PoS chain assets to the project's on-chain nodes (voting or proxy, etc.) to earn cToken, and the project party will get Staking reward. For example, in Polkadot, the one who pledge his DOT to nominate Nutbox validators can obtain cToken regularly.
-  
-Unlike IEO, IDO, and ICO, Staking Airdrop extends the token issuance cycle, supports the project party in the form of cash flow, and reduces the default risk of project. Staking Airdrop, as a method of financing cryptocurrency projects, can also solve some classic problems in the past, such as lack of accountability and liquidity, and the imperfect price diStaking Airdropvery mechanism in the initial stage of token launch.
-
-## Large-scale and rapid production of DAO
-
-Considering the dilemma faced by DAO, Nutbox uses the following modules to achieve large-scale adoption of DAO:
-
-* "Crowd-staking"-Provide DAO with a "DAICO" way to get support from the community in a safer and more friendly way.
-* "Cross-chain community media"-Allow DAO members to enjoy the benefits of DAO through the Internet experience without high learning costs.
-* DApp Factory-enables DAO initiators to realize their business logic in a "NO CODE" way without technical development experience.
-* DAO Governance Factory-Let DAO easily own its voting governance system and enable decentralized governance and decision-making. 
+1. **Nutbox DAOs can be created by everyone with almost zero cost and in few minutes**.
+2. **Nutbox DAOs are able to bootstrap with its DAO staking protocol**. 
+3. To make Nutbox DAOs sustainable, and grow together with the Web 3.0 ecosystem, **Nutbox DAOs are extensible, by installing a number of composable and profitable services**, for not only serving your communities, but also extending the value of the entire Web 3.0 ecosystem.
