@@ -1,130 +1,185 @@
-# Nutbox
+# Nutbox Protocol
 
-Nutbox is composed of a series of protocols, and it will not be ruled out to become a Polkadot ecological parachain in the later stage to better serve DAO.
+**Nutbox Protocol** is the solution for launching,  building and diversifying modern DAOs.
 
-As an intermediate layer between staking and DAO, Nutbox is first a Protocol Factory, providing standard protocols including Crowd-staking, DApp, DAO Governance, etc. At the same time, Nutbox also interoperates with other basic layer protocols through its cross-chain protocol and Polkadot relay-chain. The protocol set will be continuously supplemented in the development process to meet the development needs of DAO.
+## 1.1. Introduction
 
-![Image text](http://wherein.mobi/wp-content/uploads/2021/05/nutbox.png)
+DAO has been a popular concept in the Web 3.0 world from years ago, but it's hard to reach mainstream adoption due to the challenge of being difficult to understand, launch and scale. Nutbox Protocol resolves these problems by emerging and evolving as the Operaing System for Modern DAOs, with truly undestandble, usable, profitable and sustainable design for everyone. 
 
-## Crowd-staking Protocol
+### 1.1.1 DAO is for Everyone
 
-Crowd-staking is a brand new way of asset distribution on the chain. The Staking reward in the Proof of Stake consensus mechanism makes Crowd-staking an exciting innovation. 
+DAO is a social layer of connecting and empowering people on the Web. To realize the vision of Web 3.0, Nutbox is born with its most important trait of building for everyone. This means every user, builder, creator, and entrepreneur will be able to launch and grow their DAO with Nutbox easily. 
 
-### Staking mint cToken
+To be more specific, Nutbox
 
-The founders of non-technical projects can use Crowd-staking to distribute DAO tokens (communityToken, cToken for short) on the chain and distribute them in the form of staking. Users who make a certain contribution to DAO (such as transfer of use rights, voting rights, dividend rights and other rights, provide liquidity for DAO, etc.), will automatically receive cToken rewards. The mainstream Crowd-staking protocol supports the distribution of cToken in the following main situations:
+1. To make it affordable for everyone to launch a DAO. Instead of asking your stakeholders to transfer their liquid funds with risks, Nutbox DAO allows staking to your DAO for producing economic value which requires minimum initial finanical cost. （Instead of DAO fundraising, Nutbox DAO allows participants support their DAO by staking profitable assets to the DAO.) 
+2. Conceptually understandable DAO concepts without complex economic and governance model at the beginning. Ideally Nutbox should hide the DAO and blockchain concepts, and only display the minimal interfaces for users to interact with whatever they want to call the organization, including "guild", "community", or "group".
+3. Extremely easy-to-use UX to set up a DAO in 5 mins. By building with the modern PoS blockchains, and with an efficient cross chain communication infrastructure, Nutbox brings the familiar user experience as what they have used to in Web 2.0 age. 
 
-1) Delegate PoS chain staking asset usage rights to DAO. For example, in the Steem blockchain, the people who delegate staking STEEM (STEEM POWER) to the DAO will receive PNUT (the cToken of the Peanut community).
+To form strong social connections, Nutbox DAO also provides pluggable social modules for the community to set up the information and economic systems, such as [Proof of Brain](https://steem.com/steem-bluepaper.pdf) through which a ordinary user can received rewards by sharing valuable or funny posts and comments to the community, just like what we have published on Reddit or Medium. 
 
-2) Voting for validators of the PoS chain supported by DAO. For example, in the Polkadot ecosystem, using a staking DOT to vote for a certain DAO verifier will obtain the corresponding cToken.
+### 1.1.2 Staking-based Bootstrap
 
-3) Support DAO to obtain certain rights. For example, in the Polkadot parachain slot auction, DOT is used to support specific parachains to participate in the slot auction, and the cToken corresponding to the parachain can be obtained.
+**Staking**, as one way of earning rewards when staying control of your assets, has grown quickly in the past years. Based on the advantage of staking economy, Nutbox Protocol provides a built-in staking economy module that helps DAOs distribute **community tokens** (i.e. **cToken**) to its stakeholders and contributors. 
 
-4) Support specific products of DAO and DApps participating in DAO. For example, in the Steem blockchain, if you post a post, and someone upvote you post, you can get STEEM.
+Anyone who has staked the tokens( such as DOT from Polkadot, or STEEM Power from Steem) to the Nutbox DAO account or specified target accounts, will receive rewards in the form of **cToken**. Also, any valid contribution to the DAO including development, content creation, etc. will be rewards by the DAO fund, or  by the creator economy modules such as Proof of Brain. 
 
-5) Provide liquidity for trading pairs supported by DAO. For example, in the Peanut community, save PNUT-TRX LP to mint PNUT.
+For instance,
 
-6) Other liquidity incentives provided by Compound, SushiSwap, Pancake, etc.
+1. By delegating STEEM Power to any DAO project in STEEM community, the delegators will receive liquid cToken rewards.
+2. By voting the specified validator supported by the DAO in Polkadot commuinity with DOT, the voters will receive cToken as rewards. 
+3. By voting the specified parachain in Polkadot's Parachain Slot Auction with DOT, the voter will receive cToken as rewards.
+4. By actively contributing to the DAO as content creator, the author will receive cToken as rewards via Proof of Brain economy. 
 
-### Advantage
+With the received staked tokens, the DAO could earn revenues in the form of native token theclients staked by their economy model. The revenues in native tokens will be used for cToken redemption for supporting its value in Dcentralized Exchanges. Following the decision of the DAO, the redempted cToken could be burnt or saved as DAO treasury fund for future usage.
 
-For 1) and 2), the ownership of Staking assets has always been in the hands of investors, and no ownership transfer has occurred at any time. In this model, if investors are very dissatisfied with the progress of the DAO founding team, they can cancel their support for the founding team at any time.
+The advantages of the staking model includes:
 
-Investors transfer rights to use digital assets, voting rights, and dividend rights, indirectly supporting the development of DAO in the form of cash flow, reducing the risk of default by the DAO founding team. Crowd-staking has realized DAICO advocated by Vitalik for many years in a very clever form, which can be used as an economic model to support the founding team of DAO.
+1. **Minimal Risk for Stakeholders**:  Instead of sending funds into DAO directly, the staking economy approach is less risky for stakeholders. The delegators can revoke their staking any time they want.
+2. **Easy to Bootstrap**: As long as the DAO and community could produce value with their efforts, the investor or community members could stake to the DAO, to help the DAO to launch with finanical rewards from the staking economy. 
 
-3) It is the way that the Polkadot network rents out the scarce resource of parachain slots, and the DAO calls on the community to obtain this scarce resource together. 4) It is to reward community building and social interaction.
+Nutbox DAOs can also potentially support a mult-chain staking model that stakeholders from different PoS chains will all be able to receive the cToken.
 
-For 5) and 6), users participate in the construction of the DAO economic ecology through decentralized contracts, and also solve some classic problems in the past, such as liquidity and the imperfect price discovery mechanism in the initial stage of cToken's launch on the market.
+Besides, since the staked token is usually locked for a predefined period of time, to extend the value of the current staking economy, Nutbox Protocol also defines one correspoding tradable token (called **tToken**) for the staked token, such as tDOT for DOT as a extensible economy model.
 
-### cToken: Multi-mining pool
+Please check out ***2.2 Nutbox Staking Economy*** section for more details about staking economy in Nutbox Protocol. 
 
-For DAO users who have different PoS chain assets, or the same chain has different staking methods, Crowd-staking supports this through multiple mining pools. Crowd-staking will distribute different amounts of cToken to each mining pool based on the proportion of staking rewards in each mining pool or the proportion defined by the community. 
+### 1.1.3 DAO Services and Plugins
 
-![Image text](http://wherein.mobi/wp-content/uploads/2021/03/cToken.png)
+The staking economy defines a pattern of bootstraping a financially feasible DAO by staking. In order to create long-term values for the DAO and cToken, the DAO should provide more values to its community and the Web 3.0 ecosystem in terms of DAO services which could be easily set up with built-in or community-built DAO plugins. 
 
-### cToken Repurchase Protocol
+The Nutbox open source plugin system, provides high flexibility and extensibility to fit into different Web 3.0 scenarios. The Nutbox DAOs could build their own services, as easy as installing Wordpress plugins into their DAOs.
 
-Nutbox will also provide a variety of decentralized repurchase protocol such as triggered transactions and Dutch auctions to help the community establish a repurchase strategy, inject DAO's income (Staking Reward) into cToken, and support the value of cToken. The repurchased cToken can be destroyed or provide liquidity for cToken trading pairs. It can also be retained as a "treasury token" and used for other purposes in the future, which will be determined by the cToken holder. 
+The plugins, mostly built in the form of Smart Contracts, and Pallets in Substrate framework. People can be installed and configured by the DAOs to launch their own services easily.
 
-## Staking Liquidity Protocol
+The typical DApp plugins include DeFi, Proof of Brain, Social Tokens, NFTs, GameFi, Web 2.0 integratoin, and Public Goods, which we'll introduce in more details about how that works in the ***1.3 Nutbox In Action*** section.
 
-The liquidity of Staking Token has always been a limitation of the PoS chain. For most blockchain projects that use PoS, if Token, which be staking, need to be transacted, there is a certain unlock period. During this period, users cannot trade staking assets. 
 
-### tToken
+### 1.1.4 DAO Governance
 
-Nutbox uniformly realizes the liquidity of similar assets in all PoS Chain through tToken (tradeToken, the liquidity token of Staking Token). Each type of PoS Chain token corresponds to a different tToken. For example, tDOT corresponds to staking DOT, tETH corresponds to ETH participating in ETH2.0, and tSP corresponds to STEEM POWER.
+As long as the DAO is set up, everyone owns the cToken will  automatically be able to join the DAO governance, and contribute to the decision making process of the DAO, by raising proposals, joining discussions, and voting. 
 
-PoS Token holders can stake or redeem assets through the Nutbox staking-assets smart contract, without third-party intervention. When Token holders initiate staking to the Nutbox staking contract, they can obtain tToken 1:1. tToken that represents the ownership of the corresponding Staking Token. At the same time, any holder of tToken can initiate redemption to the corresponding Nutbox staking asset liquidity agreement anytime and anywhere, and Staking Token will be sent to the corresponding account after unlocking.
+A typical example of payout proposal is as below:
 
-![Image text](http://wherein.mobi/wp-content/uploads/2021/03/tToken.png)
+1. The DAO contributor submit one payout proposal;
+2. The DAO members discuss about the proposal to raise concern or questions, and provide feedback;
+3. cToken (or cToken voting power token) holders vote (accept, reject or forfeit) on the proposal;
+4. DAO Fund automatically distributes cToken to the receiver of the payout proposal once the proposal approved.
 
-### Advantages of tToken
+One optional cToken voting power could be configured by the DAO members to mapping from liquid cToken (1 cToken represents 1 cToken Power) or cToken in the liquidity pool (1 cToken in the pool represents 2 cToken Power) , etc.
 
-Nutbox separates Staking reward from Staking Token, creating conditions for the community to distribute cToken through Crowd-staking;
-1. All DAOs share the same tToken, which increases the liquidity of the market;
-2. tToken releases the liquidity limit of Staking Token;
-3. tToken has spawned a new asset class with staking attributes and expanded the market for digital assets. 
+## 1.2. Nutbox Architecture 
 
-### tToken's liquidity incentive
+In this section, we'll introduce how the architecture of Nutbox implements the design we described above. 
 
-Under the Nutbox economic model, 5% of PNUT will be reserved for incentivizing tToken liquidity. This part of Token will be distributed according to the value generated by users' generation, holding, and circulation of tToken, including but not limited to providing liquidity for tToken, incentivizing third-party integration of tToken, etc. The specific distribution ratio and details will be decided by a referendum every six months.
+### 1.2.1 Infrastructure
 
-Nutbox will also encourage more developers to integrate the Nutbox staking liquidity protocol into its wallet, DApp, Exchange or community. Users can generate channel parameters by using the Nutbox Staking Liquidity protocol. The parameters will record the contribution of the corresponding channel based on the value of Token staking. In the tToken liquidity incentive fund pool, 30% of the shares will be used to incentivize channel contributions, which will greatly encourage the integration of channel channels.
+The three pillars of Nutbox's infrastructre are:
 
-Other protocols that motivate tToken liquidity include: 1) synthesize various tTokens in the same network, 2) and support other staking liquidity protocols such as LToken, vToken, and rToken to generate tToken. Nutbox will be discussed in a more detailed document. 
+1. **Multi-Chain Proof of Stake Networks** (e.g. Polkadot, Steem, Hive, ) that make sure everyone could build the DAOs with high scalability, relatively low cost and great user experience
+2. **Staking Economy** that help DAOs launch with feasible and sustainable business model, and low risks for stakeholders
+3. **Social Layer** that enables decentralized social network that pay out the values to the content creators instead of the big platforms
 
-### tToken + DeFi
+The underlying blockchain, economy and social infrastructure makes it possible to build a poweful modern DAO ecosystem on top of it. 
 
-As a new asset class, tToken-Token requires different trading and lending algorithms due to its connection with Token. Nutbox will cooperate with third parties to develop a trading and lending platform suitable for tToken-Token.
 
-On this basis, tToken will open a "tToken+DeFi" market, where DeFi products on Ethereum will be developed. Nutbox adopts the "tToken + cToken" approach. Many DAOs on it will use tToken to share liquidity and use cases. This makes "tToken + DeFi" an expected direction. 
+### 1.2.2 Plugin System
 
-## DApp Factory
+As the real-world scenarios of DAOs varies from each other, we intend to build a Nutbox plugin system that enables DAOs to install free or premium plugins to enable different features and capabilities, just like what Wordpress plugins have broght to its ecosystem. 
 
-The value of DAO needs DApp to provide support. To a certain extent, it can be seen that community members converge into DAO, and DAO provides services to community members through DApp.
+We're building the **Plugin Frameworks** with (1) WASM runtime for smart contract, (2) Substrate pallets for different functionalities such as Proof of Brain and Bridge, and working with (3) decentralized storage solutions for decentralized data and content hosting.
 
-### Community DeFi
+The typical plugins include pallets for PoB, content, staking, staking factory, contract and bridge. 
 
-Nutbox DeFi launcher provides a series of components for the DAO founding team, so that DAO can combine tToken, cToken and other assets with various DeFi to create its own Community DeFi.
+Also, developers are encouraged to build open source plugins to enable more features and capabilities for DAOs. Nutbox will launch a Plugin Economy that rewards the plugin builders based on the usage of their plugins. 
 
-DAO members can participate in DeFi services such as transactions, lending, and liquidity mining in Community DeFi. DAO can distribute 1/6 of the Community DeFi service fee to DAO Fund just like Sushiswap to support the development of the community.
+## 1.3. Nutbox In Action
 
-For example, through the api provided by Dex, Nutbox enables the DAO founding team to automatically create CommunitySwap based on cToken and tToken, and CommunitySwap shares liquidity with Dex. Through the Community DeFi module, DAO will provide community members with DeFi services that are different from UniSwap, SushiSwap, Pancake, and Compound.
+In the Web 3.0 world, we're going to witness a wave of great innovations that never happened before. A sustainable cashflow that created by the wave will interact with DeFi, and will inject the true value into the whole blockchain world. 
 
-By making the Nutbox DeFi launcher open source, the community and investors can know that any DeFi they participate in is reliable. On the basis of security, Nutbox DeFi launcher allows any community to have the ability to combine DeFi modules to create Community DeFi. 
+We'll demonstrate the examples of DAOs that could be built in Web 3.0 era with the help of Nutbox. 
 
-### Community Social Media
+### 1.3.1 A Staking DAO
 
-Nutbox will bring Community Social Media to DAO through Donut-A corss-chain Social Meida bridge. On the basis of Community Social Media, the DAO founding team can use Nutbox DApp launcher to build many application modules and expand its DApp.
+In addition to the centralized existence of the Staking Providers, is it possible to build another staking world through a decentralized staking platform, like Uniswap does for centralized transactions?
 
-Nutbox combines WordPress with Steem Blockchain to create Community Social Media based on Steem Blockchain for the WhereIN community-the wherein applet. Users can use WeChat to log in to the where applet, publish content, and get STEEM (Steem Blockchain native token) rewards. Community users can also purchase WhereIN related products on the Wherein applet, communicate with other users online, and even view the digital assets owned by the account.
+Peanut is such a decentralized staking platform. Peanut is built on the Steem blockchain, which includes three parts: Crowd-Staking, DAO Services, and Governance.
 
-Through this type of combination, members of the WhereIN community have enjoyed the benefits of Steem Blockchain with the experience of the Internet. This also made a simple template for overlaying applications on Community Social Media.
+Crowd-staking uses a staking mechanism, which is similar to PoW, PoS, and liquidity mining, to start Peanut DAO. Governance enables Peanut to achieve decentralized community governance. DAO services such as Peanut curation program, and Peanut blog, etc., allows the community to provide valuable services to DAO members and a wider range of external users.
 
-Pursuing a "code-free" approach, the Nutbox DApp launcher combines various application scenarios required by the community, and constructs them into the DApp as constructing Lego blocks. These application modules will be realized through many parachains and cross-chain bridges on Polkadot. The Nutbox DApp launcher integrates these services and provides them to the DAO in the form of APIs.
+Relying on these three modules, Peanut has become a sustainable staking DAO.
 
-### NFT+
+### 1.3.2 A Community-based DeFi DAO
+The infrastructure layer of DeFi has been almost ready, but the integration of DeFi with Communities is still at its early stage. As more and more DeFi projects share the profits with the communities in its protocol, DAOs such as Peanut can create new DeFi services to serve community members and make DAOs to obtain sustainable benefits.
 
-The NFT standard is the key link that connects the physical world/Internet world and the value Internet world. The NFT standard introduces non-homogeneous digital assets into the blockchain world, enabling it to be combined with other modules on the blockchain through smart contracts. This is a larger asset class and an asset owned by ordinary users. The NFT standard allows developers to build decentralized applications on larger market-scale assets (NFT).
+Lido, Stakr, Stafi, Bifrost, etc. are providing liquidity for Staking Token, and launch their Liquidity Staking Token. Staking-based & Community-based DeFi DAOs can provide users with “Staking + DeFi” services, and spread DeFi at a larger scale.
 
-Another concern is that the NFT standard allows NFT to easily move between multiple ecosystems. When openers start a new NFT project, these NFTs can be immediately viewed in dozens of different wallet programs, can be traded in the market, or displayed in the virtual world. This brings about free trading in the open market. Users can transfer NFTs representing items to a new market, and use complex transaction functions (such as eBay auctions, bidding, and bundling sales) to sell them as any kind of digital assets.
+### 1.3.3 A PoB DAO
+Proof of Brain (PoB for short) is a fascinating name that is used on the Steem blockchain to distribute rewards to content creators and curators. Based on PoB, people can vote the contents they like, which is weighted by the staked token they held. The PoB network will allocate new tokens to members who submit or curate contents for the communities. As a result, both creators and curators are rewarded. The PoB mechanism incentivizes community building and social interaction through cryptocurrency, provides everyone with an easy approach to join the community, and also realizes the monetization of content assets.
 
-For many organizations, this represents a transition from a closed economy to an open and free market economy. For example, game developers no longer need to manage every aspect of the economy: from resource supply to pricing, to capital control, they can let the free market take on this important task.
+Steem is an excellent case in this field. It combines Staking with Proof of Brain to bring people a decentralized, user-owned social media. Modern DAOs with smart contracts, on the basis of Crowd-Staking and DAO Services, can further accelerate the circulation of content assets (through NFT, etc.), and build a micro-economy for creators.
 
-What DAO needs most is a free market. In such a market, DApps will develop better. Nutbox DApp launcher will support the NFT protocol, so that the DAO founding team will be equipped with DAO's NFT module just like other modules, so that DAO can spread faster. 
+### 1.3.4 A Social Token DAO
+Social Token is an interesting type of crypto assets, which provides creators and entrepreneurs with a new path to tokenize their endeavors, so that this emerging category of asset will generate great economic value.
 
-## DAO Governance Factory
+With the improvement of DeFi infrastructure, the micro-economy built on top of social token has been formed, and we have seen a new type of asset class coordinated and dominated by online communities. However, the biggest problem that Social Token DAO faces is how to bootstrap.
 
-Through a series of standard contracts, Nutbox Governance Factory allows non-technical DAO founders to configure their DAO governance module at the beginning of the DAO launch. The DAO fund comes from the Crowd-staking multi-mining pool distribution part.
+In the initial stage of its creation, with limited participants and limited services, it is difficult for the micro-economy to reach the threshold and truly move on the track of sustainable development.
 
-Community DAO enables the project to be ultimately managed by its community. Contributors hand in proposals, which are discussed on the community media, and are voted by community members. All proposals need to be passed by the community before to be implemented. Community DAO gives the community the ability to reward some non-standard contributions. The proposal and voting process is as follows:
+In Web3.0, creators use Crowd-Staking to start DAO in a manner similar to liquidity mining, distribute Social Token to tokenize the social capital, and use Governance to turn the community into an effective micro-economy.
 
-Community contributors submit proposals;
+This will solve the biggest challenge faced by the next-generation Social Token DAO creation platform such as Rally, Tribaldex, Matataki, Socios and Mint.club.
 
-The community fully discussed the proposal;
+### 1.3.5 A NFT DAO
+The innovation of NFT is that it provides a way to mark the ownership of native digital assets (that is, assets that exist in the digital world or originate in the digital world), and this ownership can be stored outside of centralized services. It expands the types of assets on the chain, and provides the possibility of digitization for assets that could not be identified previously.
 
-cToken POWER holders vote on the proposal;
+NFT has been developing rapidly in the past few years, but the value capture by NFT is still a huge problem faced by the whole industry. No matter what the NFT infrastructure, the casting protocol, the liquidity protocol, the DeFi+NFT, other protocol layers, or the NFT application layer, they are all solving the value capture problem of NFT. The NFT DAO created by Nutbox can use PoB mechanism voting and comments to evaluate the value of NFT, and rely on communities to capture the value of NFT. The diverse communities built on Nutbox will not only create a variety of value measurement scenarios for NFT, but also provides richer original digital contents (chain assets) for NFT minting.
 
-DAO Fund automatically distributes cToken to the passed proposal;
+From this point of view, PoB DAO and Social DAO based on Nutbox will be an important intermedia for NFT prevailing. DAOs similar to the application-based NFT platforms, such as Yup.io, Nity’s, showtime, Nafter, and only1, can be built on Nutbox.
 
-cToken Voting POWER can be set according to the situation: 1) Each staking cToken is equivalent to 1 cToken POWER; 2) Each cToken in the cToken-DOT pool or cToken-tToken pool is equivalent to 2 cToken POWER; 
+### 1.3.6 A Game DAO
+Axie Infinity makes GameFi well-known, and the “play and earn” crypto games bring a different online life experience to social media platform users. The core logic of GameFi is to provide users with rich consumption content, fair creation platform, reliable economic system, and immersive interactive experience, so users can conduct cultural, social, and entertainment activities on it.
+
+Game DAO is essentially another type of PoB DAO, with content creation, community, and social interaction as its core modules. On Hive, a traditional PoB blockchain, the most widely spread games are Splinterlands, CryptoBrewMaster, Rabona and so on, which make good use of PoB and the community to help the game. Game DAO is also a place where Nutbox, the “Staking + PoB” blockchain, can help.
+
+### 1.3.7 From Web 2.0 Community to DAO
+The outbreak of DeFi has brought unprecedented vitality to the whole cryptocurrency market and even the blockchain technologies. The organic combination of “decentralization” and “finance” has allowed the market to experience the charm of the crypto world. However, the crypto world is still too small compared to the traditional Web 2.0.
+
+The question is, how to bring the majorities enter the world of Web 3.0 faster?
+
+In order to bridge the gap between the crtyp world and Internet products, a middleware which can seamlessly migrate applications from Web 2.0 to Web 3.0 plays an indispensable role. In 2019, the Nutbox team built the Steem for Wordpress plugin to help wordpress bloggers and Wechat Mini-program creators seamlessly enter the world of encryption. There are many such tools. Share2Steem on Steem allows content on social media such as twitter and instagram to be posted to the Steem blockchain with single click. Mask Network and Fortmatic are also building something similar.
+
+One of the core goals of Nutbox DAO Services and Plugins is to allow Internet applications such as Wordpress, Wechat Mini-program, Twitter, Discord, Telegram, Weibo, Douban, etc. to seamlessly enter the world of Web3.0, and to create a frictionless entry for Web 2.0 users to enter Web 3.0 world.
+
+### 1.3.8 Public Goods
+The modern DAOs is not only built for the interest its councils and members, but also to help contribute to the public goods of the world such as open source, and open science.
+
+One good example of that is the STEMSocial projects launched on Steem / Hive, which aims at rewarding whoever shares valuable STEM (science, technology, engineering, mathematics) knowledge and experience to a borader community. The community not only rewards high quality and original thoughts about science and engineering, but also bring new ideas to the world from best practice by engineers, to latest academic research achievements in quantum physics. Nutbox eventually makes such DAOs to be launched easily with the help of staking and social infrastructure.
+
+Besides, Nutbox will also help open source communities on GitHub to kick off their own DAOs to reward the open source contributors, and grow a sustainable open source economy around the world. Comparing to Gitcoin, Nutbox DAOs will be more helpul for measuring and incentivizing the open source contribution via staking and PoB.
+
+## 1.4. Development Roadmap
+
+The implementation of Nutbox is not an easy journey, and it will be divided into three phases（Peanut, Walnut, Donut）, which will respectively fit with different types of Modern DAO and different degrees of scalability. 
+
+At present, Peanut, the prototype of the staking DAO, has been implemented, Walnut is about to be launched, and Donut is under development.
+
+### 1.4.1 Several different phases
+
+1. Since October 2020, Nutbox has constructed our first DAO Nutbox-Peanut network on the Steem blockchain. It is the minimium prototype of Morden DAO, which contains Crowd-Staking, DAO-service(blogs), and governance modules.
+
+2. Nutbox Walnut network is about to launch. Through a series of smart contracts, it helps anyone to create a staking DAO as simple as to create a trade-pair on Uniswap. Nutbox Walnut Network will support Steem and Polkadot first, it will also support other blockchain in the future.
+
+3. Nutbox Donut network is built using the Substrate framework and is a smart contract platform based on staking and content.Donut network expands the creation type of Modern DAO, to help anyone to create any kind of Modern DAO no code,  un-manual, and permissionless.
+
+### 1.4.2 Minimal Modern DAO
+
+Nutbox Peanut network is the first Morden DAO created by Nutbox. Peanut fulfills the decentralized community governance. TVL of Peanut reaches 8M STEEM POWER and the capitalization of the cToken (PNUT) has exceeded 2M USD already. 
+
+Peanut is created with the following three modules: 
+
+![](https://i.imgur.com/z23if9r.png)
+
+- Crowd-Staking：In the Peanut community, STEEM POWER (SP for short) holders delegate the SP to the Peanut community and obtain PNUT. Peanut.mine obtains the staking reward from the proxy user SP. In return, Peanut repurchases PNUT on the decentralized exchange, and injects the value into PNUT.
+- Governance: When the SP delegatees obtain PNUT, 10% of PNUT will be atomatically distributed to Peanut DAO.Fund. Community contributors can submit Proposals to DAO.Fund through the Peanut Proposal System and apply for PNUT rewards.
+- DAO Services: Community contributors, with the support of Peanut DAO.Fund, have been developing various services and applications for Peanut, and providing services for community members or other users. With the deployment of various services, Peanut obtains continuously growing income, and this part of the income will automatically be controlled by the Peanut.mine account to repurchase PNUT.
