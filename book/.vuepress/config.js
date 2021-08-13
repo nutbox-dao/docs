@@ -10,9 +10,7 @@ module.exports = {
         'applications',
         'economy',
         'dao_governance',
-        'appendix',
-        'roadmaps',
-        'documents'
+        'appendix'
       ],
       '/technical_paper/': [
         'background',
