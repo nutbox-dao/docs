@@ -1,55 +1,80 @@
-# Applications
+# 2. Nutbox Economy
 
-In general, there are three types of DAOs on Nutbox. The first category is a decentralized autonomous community. DAO provides a more powerful distributed management method for the community, allowing community users to collaborate around DAO. This includes most blockchain systems, DeFi communities, and communities around DApps. The second category is a decentralized autonomous company, a form of organization that combines a company with a DAO. Many companies will transition to this organizational form, and there are currently a large number of companies trying to build communities on top of the company. Finally, there is a DAO centered around social relationships and social capital with individuals as the core circle. The fan economy is filled with a lot of "Social Token + DAO" examples.
+Nutbox will have a native token called **NUT**, which is designed to promote the development of various protocols and DAOs in the Nutbox ecosystem. 
 
-## Decentralized autonomous community
+## 2.1 Token Distribution
 
-DAO first spread in the blockchain world. Since the birth of the Bitcoin system as the first large-scale application of DAO, most of the past blockchain systems, DeFi communities, and DApps can be included in the category of decentralized autonomous communities.
+The Total amount of NUT is 1,000,000,000.The whole NUT will be allocated into five categories as the following chart when the Nutbox mainnet (Donut) is launched.
 
-### Decentralized Staking Provider
+![](https://i.imgur.com/YexkKDk.png)
 
-The Proof of Stake mechanism has spawned a large number of Staking Providers, which occupy a market of 146 billion U.S. dollars. 8000+ organizations provide staking services for users who hold encrypted assets.
+According to the resources demand of Nutbox, NUT will be issued in two separate ways: 1）45% tokens will be allocated to the institutions, the founder team, the slot-auction fund, and the committee fund. They will be released when various requirements are met. 2）55% of NUTs will be distributed to the ecosystem part, they will be minted and distributed to different pools block by block. 
 
-The Crowd-staking Protocol and other protocols provided by Nutbox enable community users of the PoS chain to gather into DAOs, use the services provided by the staking mining pool controlled by DAOs, and replace centralized staking with decentralized staking. The relationship between the two is similar to Dex and Cex. 
+1）Founder team：Nutbox is created by a great team in the Augest 2020. At the initial stage, the team is the backbone of Nutbox project. It is a long-term-oriented, self-driven team with innovation spirit. 20% of their token will be unlocked in 3 months after NUT is launched, the rest will be released in the next 4 years.
 
-### DeFi platform for other blockchains
+2）Institutions：In the beginning, Nutbox’s operation, marketing, and developing tasks need economic resources, Nutbox will use the private token sales to achieve fundraising, as well as to improve our connection to other social resources. This part of token will be locked until some requirements are met.
 
-We know that various DeFi services first appeared in Ethereum, and then spread to blockchains such as Tron, Binance Smart Chain, and Heco. These chains all satisfy two essential factors: the underlying digital assets and the blockchain that supports smart contracts.
+3）Committee.Fund：The fund.committee is an incubator fund that is used to promote the ecosystem of Nutbox before the DAO matures. 
 
-Nutbox's related agreements are built on the blockchain that supports smart contracts, and through the cross-chain agreement, the digital assets of the blockchain that have not yet superimposed DeFi services are cross-chained into the Nutbox protocol. In this way, any community on the blockchain can use the protocols and tools provided by Nutbox to create DeFi services for its blockchain.
+4）Slot-Auction Fund：Since Nutbox is going to connect to Polkadot as its parachain, the Slot-Auction fund is used to reserve tokens for the slot auction of Polkadot. 
 
-Peanut is an example of this. It is the first DeFi DAO for PoS chains created by Nutbox. Steem Blockchain lacks smart contracts, Nutbox built a DeFi protocol on the Tron blockchain for Peanut. Through the cross-chain bridge provided by Nutbox, Steem Blockchain local asset holders can enjoy various DeFi services in Peanut.
+When Nutbox mainnet is online, the rest 55% of NUT can be mined block by block. Their allocation is shown in the following chart:
 
-### Staking + DeFi
+![](https://i.imgur.com/scIzRqY.png)
 
-Staking Liquidity Protocol has produced a new type of asset-tToken, which has some new features: stake and staking reward.
+1）Collator Reward：As a substrate based chain, the record of transaction needs collators；
 
-As the staking certificate of Token, tToken makes the transaction and lending between the two greatly different from traditional DeFi. tToken integrates staking reward, which will make tToken pool a revenue aggregator different from YFI. If the tToken pool participates in Crowd-staking to obtain cToken, this aggregator acts as a vc fund. If the tToken pool participates in the staking voting of the PoS chain to obtain the PoS local Token, the aggregator can be regarded as a PoS chain mining pool. In short, tToken opens a new form of DeFi, which we call "Staking+DeFi". 
+2）DAO.Fund：DAO fund is used to incubate projects related to the Nutbox community by proposal system;
 
-### DAO based on traditional communities
+3）Community&Services reward：Incentive services and components created on Nutbox, it will support the whole communities and Nutbox project constructions.
 
-#### Online interest community
+4）Content reward：The content system, which incentive system is derived from Steem's PoB, rewards the contents production, curation and social interactions.
 
-The Internet allows ordinary people to be online, and online individuals gather in every corner to form a community with the nature of DAO. Broadly speaking, we can regard every Douban group, game guild, and online interest community as the prototype of a DAO, and the blockchain has the potential to become a real DAO. In particular, some vertical platforms were born from interest groups, such as Mafengwo from travel enthusiasts sharing strategies together, and Zhihu from a group of knowledge sharing enthusiasts.
+## 2.2 Nutbox Staking Economy
 
-Like-minded fans gather into a community and condense into a DAO through a series of agreements to solve the problems of a specific community and generate certain social value. Such a DAO is taking shape. Through the mechanism of crowdfunding creation and publishing, mirror.xyz has helped high-quality creators publish works and made a great attempt. Can the guild in the game and the team in Douban cooperate with each other under a specific mechanism to form a DAO with a certain effect? This is worth looking forward to, and it is also the key area of Metaverst's test.
+When NUT is staked on the blockchain, the user will receive NUT POWER(NP). One NUT can be converted to NP instantly. Holding NP will endow their holder governance right, content voting right, and capital income right. However, it will take 28 days to convert NP to NUT. 
 
-#### Offline interest community
+Nutbox operates on the basis of one-NUT, one-vote. In this model, individual with more NP account balance，has more influence over the Nutbox network contribution judgment. In this way, members have a financial incentive to vote in a way that maximizes the long term value of their NUT.
 
-Like people gathering online, the Internet makes it easier for people in a city or community to gather offline. Like-minded people gather in different communities, regularly launch offline activities every week, and rely on a distributed form of organization. WorkFace and Aisi Youth are such representatives.
+### 2.2.1 Validator & Collator Rewards
 
-However, what is regrettable is that it will take a year for Aisi Youth to end this community that has existed for more than 10 years, and the partners of WorkFace have almost worked for the organization for nearly ten years. As an organization, the community does not need to receive financial rewards, but the small partners who contribute to it need to get appropriate remuneration in order to maintain their lives. In the city of Chengdu alone, WorkFace has served more than 100,000 young people and held more than 260 events in a decentralized manner. Using the protocols and tools provided by Nutbox, WorkFace members can participate in community activities in DApp, participate in community building and social interaction, and WorkFace DAO can become a sustainable organization.
 
-Luhu, which uses the community as a test field, is also exploring the governance of the future Luhu community through decentralized autonomy. Luhu has established a community foundation, a community federation, and a Luhu council, initiated 40+ communities in the community, developed Ludingji bbs, and the community initiated a variety of offline activities. The combination of Luhu and Nutbox's Protocol Factory will bring a different DAO.
+As a blockchain, Nutbox needs a group of validators (solo chain) or collators (parachain for Polkadot) to provide high quality and large scale services. NP holders own the right to vote who will be selected as validator or collator. In return, validators and collators will share their income (10% of total NUTs) with their supporters.
 
-## Decentralized Autonomous Corporations
+### 2.2.2 DAO.Fund
 
-Blockchain is naturally capable of forming DACs. Daniel Larimer started Bitshares from the exploration of Decentralized Autonomous Corporations. Vitalik also explored DACs before founding Ethereum.
+DAO.fund is used to incentivize community members to participate in community construction, which is under the control of Nutbox proposal system. Only when the proposal is approved, the contribution rewards will be granted.
 
-Traditional companies are no exception. With the development of communities, companies are exploring the combination of communities and companies into a more efficient organization. The combination of decentralized autonomous organizations and companies may be able to effectively make up for the shortcomings of all parties and give full play to their respective advantages. 
+### 2.2.3 Community & Services reward
 
-## Social Token + DAO
+Community & Services reward is a incentive mechanism focus on Nutbox eco-community and service developer. Every DApp service may have an operator account. NP holders as nominators can join in the vote process to the DApps, For every DApps, Nutbox will calculate a weight parameter:
 
-Social tokens are DAOs with individuals or groups at the core. It is a quantification of social capital. Individuals or groups can manage and invest in social capital by issuing social tokens. For DAOs with a fan or community basis, social tokens are conducive to better economic activities such as personal financing, membership, fan economy, and subscription.
+$$\sqrt{NP}(\alpha+\beta f(cToken)+\gamma g(tToken)+ \theta h(rank_{DApp}))$$
 
-Social tokens have created a production network with individuals as the main body. The issuer of the social token acts as a minimal DAO, and the investors of the social token participate in the construction of the DAO, which actually creates a form of community participation to minimize DAO collaboration. The combination of social tokens and popular NFTs will build an effective content production network and better activate the vitality of individuals and communities. 
+In the formula, NP is the sum amount of NP votes to the DAp
+
+$f(cToken)$ equals 1 if the community have distributed their community token, otherwise equals 0. $g(tToken)$ is the standardization of community tToken amount:
+$$ g(tToken_i) = { tToken_{i} \over \max_{j=1...n}(tToken_{j})}$$
+$h(rank_{DApp}))$ is the negative logarithm of popularity rank of DApps created by the community.
+$\alpha,\beta,\gamma,\theta$ is the parameters can be altered by DAO proposal system or DAO.committee (if NUT is not launced).
+
+Moreover, operator account is able to set a commission ratio to share the reward with participants. It will encourage much more developers, communities, users to participate in Nutbox ecosystem.
+
+
+### 2.2.4 Content Rewards
+
+Part of NUT will allocate to community members who produce public contents and join social interactions. As long as the contents upvoted by NP holders, both the creator and curator (people who hold the NP and upvote the content) will be rewarded by NUTs. The more NP held, the more weight will be gain. 
+
+Furthermore, the reward of the content will be shared between the creator(75%) and the curator(25%). meanwhile, as a service developer, if creator use their client interface to broadcast the contents, the developer will share 5%-20% of return.
+
+## 2.3 Value Capture
+
+NUT seize the value created by Nutbox in Four ways: 
+
+1）Exchange Intermedia: As a exchange Interrmedia, Nutbox can connect to every DAO's application scenario. In some of them, only NUT is allowed as a sort of exchange intermedia.
+
+2）Resource Fee: On the Nutbox network, behavior such as the transaction, staking or unstaking, need to pay NUTs as a commission. 90% of them will be burnt immediately, the rest will flow into DAO.fund. 
+
+3）Resource Credits: Users will gain Resource Credits(RC) when staking NUT. RC is the resource to broadcast contents, upvotes, or send message.
+
+4）Governance: NUTs are used as voting power, to let NUT long-term holders express their opinion in governance decisions via referenda. NP holders have the right to choose committee members, to decide the DAO.Fund allocation, to judge the contributions of Community and DApps.
