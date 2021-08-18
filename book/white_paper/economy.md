@@ -2,7 +2,6 @@
 
 Our governance experience on Peanut and other blockchain practices have been proved that a pure decentralized governance faces some problems：the governance participation is always low and staking behavior is not optimal. Nutbox build a decentralized governance engine (DAO.fundation) and a representative governance engine (DAO.committee) to balance the pro and con.
 
-
 ## 3.1 DAO.Fundation
 
 DAO.Fundation is controled by NP holders, which is also the final authority source of Nutbox. DAO.Fundation has the ownership of DAO.fund, can pay the various costs and expenses of Nutbox ecosystem development with the NUTs in DAO.fund through the Nutbox Proposal System.
