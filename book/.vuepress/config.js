@@ -1,6 +1,6 @@
 module.exports = {
   // title: 'Nutbox',
-  description: 'Build Your Own Staking Economy',
+  description: 'Link Community to Web3.0',
   themeConfig: {
     logo: '/logo.svg',
     sidebar: {
