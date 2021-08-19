@@ -12,15 +12,6 @@ module.exports = {
         'dao_governance',
         'appendix'
       ],
-      '/technical_paper/': [
-        'background',
-        'ocsp',
-        'bridge',
-        'parachain',
-        'price_oracle',
-        'governance_contracts',
-        'references'
-      ],
       '/lite_paper_v1/': [
         'pnut',
         'tsp',
