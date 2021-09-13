@@ -6,9 +6,11 @@ Nutbox will have a native token called **NUT**, which is designed to promote the
 
 The Total amount of NUT is 1,000,000,000.The whole NUT will be allocated into five categories as the following chart when the Nutbox mainnet (Donut) is launched.
 
-![](https://i.imgur.com/YexkKDk.png)
+![image](http://wherein.mobi/wp-content/uploads/2021/09/nutbox.png)
 
-According to the resources demand of Nutbox, NUT will be issued in two separate ways: 1）45% tokens will be allocated to the institutions, the founder team, the slot-auction fund, and the committee fund. They will be released when various requirements are met. 2）55% of NUTs will be distributed to the ecosystem part, they will be minted and distributed to different pools block by block. 
+According to the resources demand of Nutbox, NUT will be issued in two separate ways: 1）35% tokens will be allocated to the institutions, the founder team, and the committee fund. They will be released when various requirements are met. 2）65% of NUTs will be distributed to the ecosystem part, they will be minted and distributed to different pools block by block. 
+
+the slot-auction fund,
 
 1）Founder team：Nutbox is created by a great team in the Augest 2020. At the initial stage, the team is the backbone of Nutbox project. It is a long-term-oriented, self-driven team with innovation spirit. 20% of their token will be unlocked in 3 months after NUT is launched, the rest will be released in the next 4 years.
 
@@ -16,19 +18,19 @@ According to the resources demand of Nutbox, NUT will be issued in two separate 
 
 3）Committee.Fund：The fund.committee is an incubator fund that is used to promote the ecosystem of Nutbox before the DAO matures. 
 
-4）Slot-Auction Fund：Since Nutbox is going to connect to Polkadot as its parachain, the Slot-Auction fund is used to reserve tokens for the slot auction of Polkadot. 
+When Nutbox mainnet is online, the rest 65% of NUT can be mined block by block. Their allocation is shown in the following chart:
 
-When Nutbox mainnet is online, the rest 55% of NUT can be mined block by block. Their allocation is shown in the following chart:
-
-![](https://i.imgur.com/scIzRqY.png)
+![image](http://wherein.mobi/wp-content/uploads/2021/09/ecosystem.png)
 
 1）Collator Reward：As a substrate based chain, the record of transaction needs collators；
 
-2）DAO.Fund：DAO fund is used to incubate projects related to the Nutbox community by proposal system;
+2）Slot-Auction Fund：Since Nutbox is going to connect to Polkadot as its parachain, the Slot-Auction fund is used to reserve tokens for the slot auction of Polkadot. 
 
-3）Community&Services reward：Incentive services and components created on Nutbox, it will support the whole communities and Nutbox project constructions.
+3）DAO.Fund：DAO fund is used to incubate projects related to the Nutbox community by proposal system;
 
-4）Content reward：The content system, which incentive system is derived from Steem's PoB, rewards the contents production, curation and social interactions.
+4）Community&Services reward：Incentive services and components created on Nutbox, it will support the whole communities and Nutbox project constructions.
+
+5）Content reward：The content system, which incentive system is derived from Steem's PoB, rewards the contents production, curation and social interactions.
 
 ## 2.2 Nutbox Staking Economy
 
@@ -59,7 +61,6 @@ $h(rank_{DApp}))$ is the negative logarithm of popularity rank of DApps created 
 $\alpha,\beta,\gamma,\theta$ is the parameters can be altered by DAO proposal system or DAO.committee (if NUT is not launced).
 
 Moreover, operator account is able to set a commission ratio to share the reward with participants. It will encourage much more developers, communities, users to participate in Nutbox ecosystem.
-
 
 ### 2.2.4 Content Rewards
 
